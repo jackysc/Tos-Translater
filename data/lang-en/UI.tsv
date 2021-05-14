@@ -640,7 +640,7 @@ UI_20150317_000639	{@st41}Items purchased{/}	{@st41}구입 아이템{/}
 UI_20150317_000640	{@sti1c}Simony	{@sti1c}시모니				
 UI_20150317_000641	{@st41}Crafting Skills	{@st41}제작 스킬				
 UI_20150317_000642	{@st42}Level %s{/}	{@st42}레벨 %s{/}				
-UI_20150317_000643	Crafting costs	제작 비용				
+UI_20150317_000643	Cost	제작 비용				
 UI_20150317_000644	Crafting Qty	제작 갯수				
 UI_20150317_000645	Approximately %s seconds required	약 %s초 소요				
 UI_20150317_000646	{@st41}Craft	{@st41}만들기				
@@ -1892,7 +1892,7 @@ UI_20151224_001891	{@st41b}Cancel	{@st41b}취 소
 UI_20151224_001892	{@st41b}Confirm	{@st41b}확 인				
 UI_20151224_001893	{@st66b}Roasting{/}	{@st66b}로스팅{/}	UI_20150714_001569	{@st41b}Roasting{/}	{@st41b}로스팅{/}	
 UI_20151224_001894	{@st66b}Records{/}	{@st66b}기록{/}				
-UI_20151224_001895	Remaining Number	남은 개수				
+UI_20151224_001895	Remaining	남은 개수				
 UI_20151224_001896	{@st66b}Maintenance{/}	{@st66b}손질{/}	UI_20150323_001333	{@st41b}Repair{/}	{@st41b}손질{/}	
 UI_20151224_001897	{@st66b}Repair{/}	{@st66b}수리{/}	UI_20150323_001345	{@st41b}Repair{/}	{@st41b}수리{/}	
 UI_20151224_001898	{@st41}Skill Level	{@st41}스킬레벨				
@@ -1945,7 +1945,7 @@ UI_20151224_001944	{@st41b}Enter	{@st41b}가입	UI_20150714_001613	Join	가입
 UI_20151224_001945	{@st66b}Public Party List{/}	{@st66b}공개 파티 목록{/}	UI_20150717_001717	{@st41b}Public Party List{/}	{@st41b}공개 파티 목록{/}	
 UI_20151224_001946	{@st66b}Recommended Player List{/}	{@st66b}추천 플레이어 목록{/}	UI_20150729_001746	{@st41b}Recommended Player List{/}	{@st41b}추천 플레이어 목록{/}	
 UI_20151224_001947	Life	수명				
-UI_20151224_001948	{@st43}Message Box	{@st43}메시지함	UI_20150714_001616	{@st43}Message Box	{@st43}메세지함	
+UI_20151224_001948	{@st43}Message Box	{@st43}메시지함				
 UI_20151224_001949	{@st66b}All	{@st66b}전체				
 UI_20151224_001950	{@st66b}Unread	{@st66b}안읽은 메시지함	UI_20150714_001618	{@st41b}Unread Messages	{@st41b}안읽은 메세지함	
 UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quests window.{nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue.{nl} - The arrow on your character's foot leads to the location of your quest{nl} - A 'Return' icon is displayed in the quests window when a quest is completed{nl}  (Teleports you to the Quest NPC using the Backspace key or a mouse-click){nl} - Add or remove quests in the quests window by ticking or unticking the box in front of the quest name{/}	{@st59b}퀘스트{nl}{@st59s} - 퀘스트 획득시 퀘스트 지령창에 등록{nl} - 메인퀘스트는 노란색, 서브퀘스트는 파란색 표시{nl} - 캐릭터 발 밑의 화살표로 퀘스트 위치를 표시{nl} - 퀘스트 완료시 퀘스트 지령창에 돌아가기 아이콘 표시{nl}  (백스페이스나 마우스 클릭으로 완료 NPC로 순간이동){nl} - 퀘스트 지령창에 등록/해제시 퀘스트 이름 앞 체크 선택{/}	UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}	{@st59b}퀘스트{nl}{@st59s} - 퀘스트 획득시 퀘스트 알리미에 등록{nl} - 메인퀘스트는 노란색, 서브퀘스트는 파란색 표시{nl} - 캐릭터 발 밑의 화살표로 퀘스트 위치를 표시{nl} - 퀘스트 완료시 퀘스트 알리미에 돌아가기 아이콘 표시{nl}  (백스페이스나 마우스 클릭으로 완료 NPC로 순간이동){nl} - 퀘스트 알리미에 등록/해제시 퀘스트 이름 앞 체크 선택{/}	
@@ -1953,7 +1953,7 @@ UI_20151224_001952	{@st66b}  In Progress  {/}	{@st66b}  진행  {/}	UI_20150317_
 UI_20151224_001953	{@st66b}  Abandoned  {/}	{@st66b}  포기  {/}	UI_20150317_000521	{@st41b}Abandoned{/}	{@st41b}  포기  {/}	
 UI_20151224_001954	{@st66b}Resurrect with the Soul Crystal{/}	{@st66b}소울 크리스탈로 부활하기{/}				
 UI_20151224_001955	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click to enter a quantity to sell/buy multiple items{nl} - Right-click twice to sell all the items{/}	{@st59b}상점{nl}{@st59s} - 아이템을 여러 개 판매/구매하려면 Shift + 우클릭 후 개수 입력{nl} - 아이템을 전량 판매하려면 마우스 더블 우클릭으로 이용{/}	UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}	{@st59b}상점{nl}{@st59s} - 아이템을 여러 개 판매/구매하려면 Shift + 우클릭 후 갯수 입력{nl} - 아이템을 전량 판매하려면 마우스 더블 우클릭으로 이용{/}	
-UI_20151224_001956	Crafting Number	제작 개수				
+UI_20151224_001956	Quantity	제작 개수				
 UI_20151224_001957	{@st42}%s Benefits{/}	{@st42}%s 헤택{/}				
 UI_20151224_001958	Do you want to use this %s?{/}	%s 아이템을 사용하시겠습니까?{/}				
 UI_20151224_001959	This item will disappear from your inventory{nl}Resets your all Skill Points.	사용한 아이템은 인벤토리에서 사라지며{nl}전체 스킬 포인트가 초기화 됩니다.{/}				
@@ -2403,7 +2403,7 @@ UI_20161107_002402	Once exchanged, you cannot revert it.	교환 시 원래의 �
 UI_20161107_002403	Do you wish to exchange the item for medal?	해당 아이템을 메달로 교환하시겠습니까?				
 UI_20161107_002404	Exchanging the purchased back to medal might cause some loss due to the exchange rate.	구매한 아이템을 메달로 재교환 시 교환율의 불이익이 발생할 수 있습니다.				
 UI_20161107_002405	{@st43}{s24}TP Shop	{@st43}{s24}TP상점				
-UI_20161107_002406	{@st43}{s24}NEW{/}	{@st43}{s24}신상품{/}				
+UI_20161107_002406	{@st43}{s24}NEWS{/}	{@st43}{s24}신상품{/}				
 UI_20161107_002407	  {img Nexon_cash_mark 30 30} Owne{/}{/}	  보유중인{img Nexon_cash_mark 30 30}{/}{/}				
 UI_20161107_002408	{@st66d}{s20}Recharge Steam Wallet{/}	{@st66d}{s20}넥슨캐시 충전{/}				
 UI_20161107_002409	{@st66d}{s18}Preview/Purchase{/}	{@st66d}{s18}미리보기 및 구매{/}				
@@ -2733,11 +2733,11 @@ UI_20170912_002732	{@st66b}More Monsters	{@st66b}몬스터 더 보기
 UI_20170912_002733	{@st66d_y}%s Points / {/}{@st42}%s Points{/}	{@st66d_y}%s점 / {/}{@st42}%s점{/}				
 UI_20170912_002734	Defeated	처치횟수				
 UI_20170912_002735	{@st41b}Area	{@st41b}서식지역				
-UI_20170912_002736	Descpription	설명문				
+UI_20170912_002736	Description	설명문				
 UI_20170912_002737	Subcategory	하위 카테고리				
 UI_20170912_002738	{@st66b}More Items	{@st66b}아이템 더 보기				
 UI_20170912_002739	Attributes	관련 특성				
-UI_20170912_002740	Total Sales	총 매출				
+UI_20170912_002740	Sales	총 매출				
 UI_20170912_002741	{@st66b}More	{@st66b}더 보기				
 UI_20170912_002742	Name A-Z	이름 올림차 순				
 UI_20170912_002743	Name Z-A	이름 내림차 순				
@@ -2787,7 +2787,7 @@ UI_20170912_002786	{@st66d}Return to a city in {s20}%s seconds.{/}	{@st66d}{s20}
 UI_20170912_002787	{@st66d}Return to city{/}	{@st66d}도시 귀환{/}				
 UI_20170912_002788	{@st43}{s20}Protecting Guild{/}	{@st43}{s20}점령길드{/}				
 UI_20170912_002789	Protecting Guild	점령 길드 이름				
-UI_20170912_002790	{@st41_red}Removable Effect{/}	{@st41_red}제거 되는 효과{/}	UI_20160811_002259	{@st66b}Removable Effect{/}	{@st66b}제거 되는 효과{/}	
+UI_20170912_002790	{@st41_red}Removable Effect{/}	{@st41_red}제거 되는 효과{/}				
 UI_20170912_002791	{@st43}Exchange Artifact{/}	{@st43}유물 교환{/}				
 UI_20170912_002792	{@st59}Close Exchange Artifact{/}	{@st59}유물 교환을 닫습니다{/}				
 UI_20170912_002793	{@st41b}Exchange	{@st41b}교환				
@@ -3054,7 +3054,7 @@ UI_20180418_003053	{@st42}{#00fec5}Current Title Buff Stage	{@st42}{#00fec5}현�
 UI_20180418_003054	{@st42}Titles Needed for Next Stage	{@st42}다음단계까지 필요한 칭호{/}				
 UI_20180418_003055	{@st42b}Stage %s{/}	{@st42b}%s단계{/}				
 UI_20180418_003056	{@st66b}See Next Stage Effects{/}	{@st66b}다음단계 효과 보기{/}				
-UI_20180418_003057	{@st59}Close transcendence scroll window.{/}	{@st59}초월 스크롤 창을 닫습니다.{/}				
+UI_20180418_003057	{@st59}Close transcendence scroll window.{/}	{@st59}초월 스크롤 창을 닫습니다.{/}	UI_20161108_002448	{@st59}Close{/}	{@st59}창을 닫습니다.{/}	
 UI_20180418_003058	{@st41}{s20}Transcendence Scroll{/}	{@st41}{s20}초월 스크롤{/}				
 UI_20180418_003059	Transcendence Value: %s	초월 수치: %s				
 UI_20180418_003060	Success Rate: %s%	성공 확률: %s%				
@@ -3172,7 +3172,7 @@ UI_20180517_003171	Obtained [ %s] Badges	증표 [ %s 개] 획득
 UI_20180517_003172	{@st66d}{s20}Returning in %s seconds.{/}	{@st66d}{s20}%s초 후에 귀환됩니다.{/}				
 UI_20180517_003173	{@st66d}Return{/}	{@st66d}귀환{/}				
 UI_20180517_003174	If you undo your current class advancement,{nl}the advancement will be undone and{nl}{@st66d_y}your current class EXP will disappear.{/}{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}{@st66d_y}클래스 경험치는 사라집니다.{/}{/}	UI_20171128_002965	If you undo your current class advancement, the advancement will be undone and your current class EXP will disappear.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}	
-UI_20180517_003175	{@st45tw2}Conditions and Precautions{/}	{@st45tw2}조건 및 주의 사항{/}	UI_20161221_002511	{@st66d_y}Conditions and Precautions{/}	{@st66d_y}조건 및 주의 사항{/}	
+UI_20180517_003175	{@st45tw2}Conditions and Precautions{/}	{@st45tw2}조건 및 주의 사항{/}				
 UI_20180517_003176	{@st66b}Respawn in Guild Tower{/}	{@st66b}길드 타워에서 부활하기{/}				
 UI_20180517_003177	{@st59}Guild Promotion (Alt + R){/}	{@st59}길드 홍보 (Alt + R){/}				
 UI_20180517_003178	{@st66b}Auto Cell Selection{/}	{@st66b}자동 셀 선택{/}				
@@ -3286,7 +3286,7 @@ UI_20180629_003285	{@st41b}{s18}Current Magnifiers: %s	{@st41b}{s18}현재 돋�
 UI_20180629_003286	{@st66}{s18}Consumes Artisan Magnifier x%s.	{@st66}{s18}장인의 돋보기 %s개가 소비됩니다.				
 UI_20180629_003287	Mysterious Magnifier	신비한 돋보기				
 UI_20180629_003288	{@st66}{s18}Consumes Mysterious Magnifier x%s.	{@st66}{s18}신비한 돋보기 %s개가 소비됩니다.				
-UI_20180629_003289	{@st43}Cube List{/}	{@st43}패키지 리스트{/}				
+UI_20180629_003289	{@st43}List{/}	{@st43}패키지 리스트{/}				
 UI_20180629_003290	Quantity	구매 수량				
 UI_20180629_003291	{@st41b}{s16}{nl}Add to Cart	{@st41b}{s16}{nl}담기				
 UI_20180629_003292	{s22}%s defeated	{s22}%s 처치				
@@ -3327,15 +3327,15 @@ UI_20180629_003326	Wig Dye	가발 염색
 UI_20180629_003327	Current Qtt	소지 개수				
 UI_20180629_003328	Important {img tip_questionmark 20 20}	주의 사항 {img tip_questionmark 20 20}				
 UI_20180629_003329	Please unequip all your equipment first.{nl}Basic class costumes change gender automatically.{/}{nl}{@st67}{#fe7e00}{b}Gendered premium costumes{nl}will no longer fit your character after the gender switch.{/}	모든 장비 해제 한 뒤에 전환 가능{nl}기본 직업별 코스튬은 성별 자동 변경{/}{nl}{@st67}{#fe7e00}{b}기존 성별에 맞게 구매한 유료코스튬은{nl}성별 변환 후, 장착 불가{/}				
-UI_20180629_003330	{@st66b}See Team Name Only{/}	{@st66b}팀 이름만 보기{/}	UI_20150714_001630	{@st66b}Show Only Team Name{/}	{@st66b}팀 이름만 표시{/}	
-UI_20180629_003331	{@st66b}See Party Name{/}	{@st66b}파티 이름 보기{/}	UI_20170912_002889	{@st66b}Show Party Name{/}	{@st66b}파티 이름 표시{/}	
-UI_20180629_003332	{@st66b}See Other Characters' Names{/}	{@st66b}다른 캐릭터 이름 보기{/}	UI_20150714_001631	{@st66b}Show Other Players' Names{/}	{@st66b}다른 캐릭터 이름 표시{/}	
-UI_20180629_003333	{@st66b}See HP/SP Under Characters{/}	{@st66b}캐릭터 아래에 HP, SP 보기{/}	UI_20170726_002701	{@st66b}Show HP/SP Under Character{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}	
-UI_20180629_003334	{@st66b}See Drop Item Names{/}	{@st66b}드롭 아이템 이름 보기{/}	UI_20180208_003014	{@st66b}Show Drop Item Name{/}	{@st66b}드롭 아이템 이름 표시{/}	
+UI_20180629_003330	{@st66b}See Team Name Only{/}	{@st66b}팀 이름만 보기{/}				
+UI_20180629_003331	{@st66b}See Party Name{/}	{@st66b}파티 이름 보기{/}				
+UI_20180629_003332	{@st66b}See Other Characters' Names{/}	{@st66b}다른 캐릭터 이름 보기{/}				
+UI_20180629_003333	{@st66b}See HP/SP Under Characters{/}	{@st66b}캐릭터 아래에 HP, SP 보기{/}				
+UI_20180629_003334	{@st66b}See Drop Item Names{/}	{@st66b}드롭 아이템 이름 보기{/}				
 UI_20180629_003335	{@st66b}See Acquired Silver Alerts{/}	{@st66b}획득한 실버량 보기{/}				
 UI_20180629_003336	{@st66b}See Acquired EXP Alerts{/}	{@st66b}획득한 경험치 보기{/}				
 UI_20180629_003337	{@st66b}See Party's Summon Names{/}	{@st66b}파티원 소환물 이름 보기{/}				
-UI_20180629_003338	{@st66b}See Tile Range{/}	{@st66b}장판 범위 보기{/}	UI_20170912_002893	{@st66b}Show Tile Range{/}	{@st66b}장판 범위 표시{/}	
+UI_20180629_003338	{@st66b}See Tile Range{/}	{@st66b}장판 범위 보기{/}				
 UI_20180629_003339	{@st66b}Flute Volume (%s){/}	{@st66b}피리 연주 크기 (%s){/}				
 UI_20180629_003340	{@st66b}Hear Other Characters' Flutes{/}	{@st66b}다른 캐릭터 피리 연주 듣기{/}				
 UI_20180629_003341	{@st59}Uncheck if you don't want to hear other characters' flutes.{/}	{@st59}다른 캐릭터의 피리 연주를 듣지 않으려면 체크를 해제해주세요.{/}				
@@ -3375,7 +3375,7 @@ UI_20180629_003374	Basic{/}	기본{/}	UI_20151016_001817	%s Characters{/}	정원
 UI_20180629_003375	{#003997}{b}Stage Clear: %s	{#003997}{b}클리어 스테이지: %s				
 UI_20180629_003376	{ol}Add to Cart	{ol}장바구니에 담기				
 UI_20180629_003377	Current Items	소지 중인 아이템				
-UI_20180629_003378	{@st41b}{S16}%s% Discount Coupon	{@st41b}{S16}%s% 할인 쿠폰				
+UI_20180629_003378	{@st41b}{S16}%s% Off	{@st41b}{S16}%s% 할인 쿠폰				
 UI_20180629_003379	{@st41b}{s16}{nl}Exchange	{@st41b}{s16}{nl}교환				
 UI_20180704_003380	Please register a Weapon Appearance Material or equivalent items.	무기 외형 변환 소재 또는 외형추출 할 무기와 동일한 아이템을 넣어주세요.	UI_20180629_003271	Please register a core or a weapon which appearance you wish to keep.	코어 또는 외형추출 할 무기와 동일한 아이템을 넣어주세요.	
 UI_20180723_003381	{@st42}{s20}Victory Rewards	{@st42}{s20}점령 보상				
@@ -3580,3 +3580,1141 @@ UI_20181017_003579	Trade Grade	거래 등급 안내
 UI_20181017_003580	Character Lv %s	캐릭터 레벨 %s				
 UI_20181017_003581	Team %s+ days old	팀 생성 %s일 이상				
 UI_20181017_003582	%s Revelations obtained	계시 %s개 획득				
+UI_20190104_003583	{@st66d}Extract Attribute Points	{@st66d}특성 포인트 추출				
+UI_20190104_003584	{@st59s}Consumes 100,000 silver to extract 1,000 attribute points{nl} to a single Attribute Point Scroll.	{@st59s}100,000실버를 소비하여 특성 포인트 1000당{nl}특성 포인트 스크롤 1개로 추출합니다.				
+UI_20190104_003585	Fee	수수료				
+UI_20190104_003586	%s Silver	%s 실버				
+UI_20190104_003587	Scrolls Extracted	추출할 특성 포인트 스크롤				
+UI_20190104_003588	Amount Spent	소비 실버				
+UI_20190104_003589	Points Extracted	추출 특성 포인트				
+UI_20190104_003590	Points Remaining	잔여 특성 포인트				
+UI_20190104_003591	{@st66b}Extract	{@st66b}추출				
+UI_20190104_003592	Collection Effects	컬렉션 효과				
+UI_20190104_003593	{@st59}Scout Tree{/}	{@st59}스카우트 계열{/}				
+UI_20190104_003594	{@st41b}Identification Cost{/} %s	{@st41b}감정 비용{/}%s				
+UI_20190104_003595	{@st59}Doll{/}	{@st59}인형{/}				
+UI_20190104_003596	{img silver 20 20}Price %s	{img silver 20 20}가격 %s				
+UI_20190104_003597	{@st44}Class List{/}	{@st44}클래스 목록{/}				
+UI_20190104_003598	{@st43}Current Class Info	{@st43}현재 클래스 정보				
+UI_20190104_003599	{@st43}Change Class Tree {img testquesten_button 30 30}	{@st43}클래스 변경 {img testquesten_button 30 30}				
+UI_20190104_003600	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl}- Saalus Convent Mission: 15 points{nl}- Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Mercenary Post Mission: 10 points{nl}- Daily Quest: 10 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 살러스 수녀원 미션: 15 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 의뢰소 미션: 10 포인트{nl}- 일일 퀘스트: 10 포인트				
+UI_20190104_003601	{@st42}Weekly Points{/} {@st66d_y}(%s/%s){/}	{@st42}주간획득 포인트{/} {@st66d_y}(%s/%s){/}				
+UI_20190104_003602	{@st43}Advance	{@st43}전직하기				
+UI_20190104_003603	{@st66d_y}{#ffa800}Stat Growth Ratio	{@st66d_y}{#ffa800}스탯 성장 비율				
+UI_20190104_003604	{@st42}{#FFCC66}STR	{@st42}{#FFCC66}힘				
+UI_20190104_003605	{@st42}{#FFCC66}CON	{@st42}{#FFCC66}체력				
+UI_20190104_003606	{@st42}{#FFCC66}INT	{@st42}{#FFCC66}지능				
+UI_20190104_003607	{@st42}{#FFCC66}SPR	{@st42}{#FFCC66}정신				
+UI_20190104_003608	{@st42}{#FFCC66}DEX	{@st42}{#FFCC66}민첩				
+UI_20190104_003609	{@st43}Class Information{/}	{@st43}클래스 정보{/}				
+UI_20190104_003610	Close the class change mode.	클래스 변경 모드를 종료합니다.				
+UI_20190104_003611	{@st43}Select a class and click the Advance button.	{@st43}변경 할 클래스를 선택한 후에 전직하기 버튼을 눌러주세요.				
+UI_20190104_003612	{@st66b18}※ TP or items used for name changes cannot be refunded.{/}	{@st66b18}※이름 변경에 사용된 TP 또는 아이템은 환불되지 않습니다.{/}				
+UI_20190104_003613	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}컬렉션{nl}{@st59s} - 게임내 컬렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 컬렉션 덱 아이템 사용했을 경우 컬렉션 단축키가 활성화{nl}{/}	UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}콜렉션{nl}{@st59s} - 게임내 콜렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 콜렉션 덱 아이템 사용했을 경우 콜렉션 단축키가 활성화{nl}{/}	
+UI_20190104_003614	{@st59}Close{/}	{@st59}컬렉션 정보를 닫습니다{/}	UI_20150317_000131	{@st59}Close{/}	{@st59}콜렉션 정보를 닫습니다{/}	
+UI_20190104_003615	{@st43}Collection{/}	{@st43}컬렉션{/}	UI_20150317_000132	{@st43}Collection{/}	{@st43}콜렉션{/}	
+UI_20190104_003616	{@st68b}{s18}Collection{/}	{@st68b}{s18}컬렉션 상태{/}	UI_20170313_002538	{@st68b}{s18}Collection{/}	{@st68b}{s18}콜렉션 상태{/}	
+UI_20190104_003617	{@st59}Search the name of a collection or effect.{/}	{@st59}컬렉션 이름 또는 효과로 검색 합니다.{/}	UI_20170313_002544	{@st59}Search the name of a collection or effect.{/}	{@st59}콜렉션 이름 또는 효과로 검색 합니다.{/}	
+UI_20190104_003618	ⓘ Reward lists are updated 1 hour after each session.{nl}ⓘ Rewards can be claimed only by the guild master. Claimed items are sent to the guild storage.{nl}ⓘ Beta test sessions offer no rewards.	ⓘ 점령 보상 목록은 콜로니전 종료 후 1시간 뒤에 갱신됩니다.{nl}ⓘ 보상 수령은 길드마스터만 가능하며, 수령된 아이템은 길드 보관함으로 이동됩니다.{nl}ⓘ Beta로 진행되는 길드 콜로니전에서는 점령 보상이 지급되지 않습니다.	UI_20180723_003384	ⓘ Victory rewards are applied 1 hour after the end of each GTW session.{nl}ⓘ Only the Guild Master can retrieve these rewards. The items are sent to your Guild Storage.	ⓘ 점령 보상 목록은 콜로니전 종료 후 1시간 뒤에 갱신됩니다.{nl}ⓘ 보상 수령은 길드마스터만 가능하며, 수령된 아이템은 길드 보관함으로 이동됩니다.	
+UI_20190104_003619	{s6} {nl}{/}{@st41d}{img colony_point_pic 24 24}Current Points{nl}{/}	{s6} {nl}{/}{@st41d}{img colony_point_pic 24 24}포인트 현황{nl}{/}				
+UI_20190104_003620	{s6} {nl}{/}{@st41d}{img colony_deploy_pic 24 24}Positions{/}	{s6} {nl}{/}{@st41d}{img colony_deploy_pic 24 24}배치 현황{/}				
+UI_20190104_003621	Utilities	유틸형				
+UI_20190104_003622	Deterrents	이동 방지형				
+UI_20190104_003623	Current Points	점령 포인트				
+UI_20190104_003624	Effects	적용 효과				
+UI_20190104_003625	{@st42}{s20}Victory Benefits	{@st42}{s20}점령 혜택				
+UI_20190104_003626	{@st66b}Adjust Tax Rate{/}	{@st66b}세율 조정{/}				
+UI_20190104_003627	{@st66b}Tax Collection{/}	{@st66b}세금 징수{/}				
+UI_20190104_003628	Target Cities	세율 적용 도시				
+UI_20190104_003629	Tax Rate	세율				
+UI_20190104_003630	Payment Day	지급일				
+UI_20190104_003631	Collecting Cities	세금 징수 도시				
+UI_20190104_003632	Remaining Allocation Period	남은 분배 기간				
+UI_20190104_003633	Tax	세금				
+UI_20190104_003634	Tax Allocation	세금 분배				
+UI_20190104_003635	Retrieve Tax	세금 수령				
+UI_20190104_003636	Allocated Sum	분배 금액				
+UI_20190104_003637	{@st66b}Important{/}	{@st66b}유의사항{/}				
+UI_20190104_003638	{@st66b}Taxable Goods{/}	{@st66b}세율 적용 항목{/}				
+UI_20190104_003639	{@st66b}Records{/}	{@st66b}세금 상세 이력{/}				
+UI_20190104_003640	{@st42}{s20}Tax Allocation	{@st42}{s20}세금 분배				
+UI_20190104_003641	Current Sum	현재 금액				
+UI_20190104_003642	Sending	보낼 금액				
+UI_20190104_003643	Remaining Funds	잔여 금액				
+UI_20190104_003644	Team: %s	팀명 %s				
+UI_20190104_003645	Amount	금액				
+UI_20190104_003646	{@st42}{s16}Send	{@st42}{s16}보내기				
+UI_20190104_003647	{@st42}{s20}Retrieve Taxes	{@st42}{s20}세금 수령				
+UI_20190104_003648	Remaining Period	남은 수령 기간				
+UI_20190104_003649	{@st42}{s20}Warp List	{@st42}{s20}워프 목록				
+UI_20190104_003650	Current Status	점령 현황				
+UI_20190104_003651	{img icon_item_silver 20 20}{@st41b}Proceed {/}{img white_right_arrow 15 18} %s	{img icon_item_silver 20 20}{@st41b}거래 정산 {/}{img white_right_arrow 15 18} %s				
+UI_20190104_003652	{@st41b}Items Bought{/} %s	{@st41b}구입 아이템{/} %s				
+UI_20190104_003653	{@st41b}Total spent vouchers: {/}	{@st41b}총 소비 교환권 : {/}				
+UI_20190104_003654	Do you wish to use the vouchers to exchange them for items?	교환권을 위 아이템으로 교환하시겠습니까?				
+UI_20190104_003655	You can add items to the Alchemy Workshop to use in skills.	연금공방에 아이템을 등록하여 스킬을 사용할 수 있습니다.				
+UI_20190104_003656	{@st43}Alchemy Workshop	{@st43}연금공방				
+UI_20190104_003657	Register items to consume with the Combustion skill.	컴버스천 스킬 사용시 소모될 재료를 등록해주세요.				
+UI_20190104_003658	Register HP potions to consume with the Sprinkle HP Potion skill.	스프링클 HP 포션 스킬 사용시 소모될 HP 포션을 등록해주세요.				
+UI_20190104_003659	Register SP potions to consume with the Sprinkle SP Potion skill.	스프링클 SP 포션 스킬 사용시 소모될 SP 포션을 등록해주세요.				
+UI_20190104_003660	{@st63}Receive the reward and leave.{/}	{@st63}보상을 획득하고 퇴장합니다.{/}				
+UI_20190104_003661	{@st63}Move to the next floor{/}	{@st63}다음층으로 이동{/}				
+UI_20190104_003662	{@st66b}{s16}* Items will remain tradable after being traded{nl}only if they possess no current trade restrictions.{/}{/}	{@st66b}{s16}*무제한 거래 가능 상태 이어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	UI_20180115_002980	{@st66b}{s16}*Items remain tradable only when there are trades left.{/}{/}	{@st66b}{s16}*잔여 거래 가능 횟수가 있어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	
+UI_20190104_003663	{s16}{@st66b}*{/}{@st66d_y}Trade Restrictions{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}무제한 거래 불가{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}	UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}No Trades Left{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}거래 가능 횟수 0{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}	
+UI_20190104_003664	{s16}{@st66b}*{/}{@st66d_y}Event Tokens do not lift trading restrictions.{nl}{/} {@st66b}Please take note.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰으로는 무제한 거래 상태가 될 수 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}	UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Event Tokens offer 0 trade counts.{nl}{/} {@st66b}Make sure to check the count before trading.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰에는 거래 가능 횟수가 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}	
+UI_20190104_003665	{@st66d}The items below will be{nl}  {@st66d_y}character-bound.{nl}Team Storage NO, Personal Trade NO, Market NO{/}	{@st66d}아래 아이템은{nl}  {@st66d_y}캐릭터에게 귀속됩니다.{nl}팀 창고 이동, 개인 및 마켓 거래 불가{/}	UI_20180115_002985	{@st66d}The following items will become{nl}  {@st66d_y}untradable (Trade NO, Team Storage NO){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}	
+UI_20190104_003666	Exchange Artifact	유물 교환				
+UI_20190104_003667	Token Benefits	토큰 혜택				
+UI_20190104_003668	{s18}Expiring soon.	{s18}곧 기간이 만료됩니다.	UI_20170330_002600	{s18}Items with Expiration Date	{s18}기간제 아이템 목록	
+UI_20190104_003669	{s18}Are you sure you want to close?	{s18}그래도 종료 하시겠습니까?	UI_20170330_002601	Item(s) close to expiration date. Close?	곧 기간이 만료됩니다. 종료하시겠습니까?	
+UI_20190104_003670	{@st66b}Upgrade	{@st66b}업그레이드				
+UI_20190104_003671	{@st66b}Shared Storage{/}	{@st66b}공용 창고{/}				
+UI_20190104_003672	ⓘ Guilds defending a Spot are automatically set as participants.{nl}ⓘ Only the Guild Master can change a guild's participation settings, and once they are set to  	ⓘ 스팟 점령 길드는 참가로 고정됩니다.{nl}ⓘ 참가 여부 옵션은 길드 마스터만 변경할 수 있으며, 	UI_20170912_002845	ⓘ Guilds with Spots seized are automatically participating.{nl}ⓘ After setting the status to  	ⓘ 스팟 점령 길드는 참가로 고정됩니다.{nl}ⓘ 참가 여부 옵션을 	
+UI_20190104_003673	, the role of Guild Master becomes unavailable for transfer.{nl}ⓘ Participation settings can only be changed until 5 minutes before the Territory Wars begin, or 1 minute after they end.{nl}ⓘ They can be changed regardless of whether your guild has a tower or not.{nl}ⓘ Guild members who abandoned their previous guild less than 14 days in the past cannot participate in GTW.	로 변경 시 길드 마스터 위임이 불가능합니다.{nl}ⓘ 참가 여부 옵션은 길드 콜로니전 시작 5분 전 부터 종료 1분 후까지 변경할 수 없습니다.{nl}ⓘ 참가 여부 옵션은 길드 타워의 설치 유무와 상관없이 변경할 수 있습니다.{nl}ⓘ 이전 길드 탈퇴일을 기점으로 14일 미만인 길드원은 길드 콜로니전에 참가할 수 없습니다.	UI_20170912_002846	, you cannot transfer the position of Guild Master.{nl}ⓘ Only a Templar Guild Master can change the participation status.{nl}ⓘ This option can only be changed until 5 minutes before the Territory Wars begin, or after 1 minute after they end.{nl}ⓘ The participation status can be changed regardless of whether your guild has a tower or not.	로 변경 시, 길드 마스터 위임이 불가능합니다.{nl}ⓘ 참가 여부 옵션은 템플러 클래스를 가진 길드 마스터만 변경할 수 있습니다.{nl}ⓘ 참가 여부 옵션은 길드 콜로니전 시작 5분 전 부터 종료 1분 후까지 변경할 수 없습니다.{nl}ⓘ 참가 여부 옵션은 길드 타워의 설치 유무와 상관없이 변경할 수 있습니다.	
+UI_20190104_003674	{@st41b}{s16}Victory Benefits	{@st41b}{s16}점령 혜택	UI_20180723_003385	{@st41b}{s16}Victory Rewards	{@st41b}{s16}점령 보상	
+UI_20190104_003675	City Tax	도시 세율				
+UI_20190104_003676	City Tax {img tip_questionmark 20 20}	징수될 도시 세금{img tip_questionmark 20 20}				
+UI_20190104_003677	Market Tax {img tip_questionmark 20 20}	징수될 마켓 세금{img tip_questionmark 20 20}				
+UI_20190104_003678	ⓘ Guilds that seized a Spot can use the Victory Benefits button to adjust city tax rates and collect tax.	ⓘ 점령 길드는 점령 혜택 버튼을 통해 도시의 세율 조정 및 세금 징수가 가능합니다	UI_20180413_003050	ⓘ Please see our official website at treeofsavior.com for more information on Territory Wars rewards and benefits during the beta testing period.	ⓘ Beta로 진행되는 길드 콜로니전의 점령 혜택은 홈페이지 내 공지사항을 통해 확인 바랍니다.	
+UI_20190104_003679	{@st43b}{s18}Items{/}	{@st43b}{s18}아이템{/}				
+UI_20190104_003680	{@st66b}Guild Mileage: %s{/}	{@st66b}길드 마일리지:%s{/}				
+UI_20190104_003681	{@st66b}{s18}Retrieve Items{/}	{@st66b}{s18}아이템 수령{/}				
+UI_20190104_003682	{@st43b}{s18}Transaction Records{/}	{@st43b}{s18}입고/출고 내역{/}				
+UI_20190104_003683	{@st66b}Show deposits only	{@st66b}입고만 보기				
+UI_20190104_003684	{@st66b}Show withdrawals only	{@st66b}출고만 보기				
+UI_20190104_003685	{@st41d}3 hours       	{@st41d}3시간       				
+UI_20190104_003686	{@st41d}10 hours       	{@st41d}10시간       				
+UI_20190104_003687	{@st41d}1 day       	{@st41d}1일       				
+UI_20190104_003688	{@st41d}3 days       	{@st41d}3일       				
+UI_20190104_003689	{@st41d}7 days       	{@st41d}7일       				
+UI_20190104_003690	{@st41d}1 month       	{@st41d}1개월       				
+UI_20190104_003691	{@st41d}2 months       	{@st41d}2개월       				
+UI_20190104_003692	{@st41d}3 months       	{@st41d}3개월       				
+UI_20190104_003693	ⓘ Every deposit/withdrawal equals 20 mileage.{nl}ⓘ Mileage is accumulated when guild members login, and when participating in guild quests and Territory Wars.	ⓘ 입고/출고 시 마일리지 20 차감 됩니다. {nl}ⓘ마일리지는 길드원 로그인, 길드 퀘스트, 콜로니전 참여를 통해서 적립됩니다.				
+UI_20190104_003694	Check online members with authority to accept applications	가입 승인 직급이 있는 접속한 길드원 표시				
+UI_20190104_003695	Show recruiting guilds only	가입 가능한 길드만 보기				
+UI_20190104_003696	Skip cube animation	큐브 애니메이션 스킵				
+UI_20190104_003697	{@st43}{s20}Team Use{/}	{@st43}{s20}팀 이용 현황{/}				
+UI_20190104_003698	Ranking	랭킹 정보				
+UI_20190104_003699	{@st43}News{/}	{@st43}뉴스{/}	UI_20170726_002688	{@st43}NEWS{/}	{@st43}이벤트 안내{/}	
+UI_20190104_003700	{@st59}Seals{/}	{@st59}인장{/}				
+UI_20190104_003701	{@st41b}Dismantlement Cost{/}%s	{@st41b}분해 비용{/}%s				
+UI_20190104_003702	{@st66d_y}Insert an Awakening Stone.{/}	{@st66d_y}각성석을 추가해주세요.{/}				
+UI_20190104_003703	Awakening Stone Item Name	각성석 아이템 이름				
+UI_20190104_003704	{@st66b}* Re-identifying an item maintains the number of stats and the groups (colors) they belong to. Only the particular stats and their values can change.{/}	{@st66b}* 재감정시 옵션 그룹(색상)과 옵션 개수는 유지되며, {nl}세부 옵션과 옵션 수치만 변경됩니다.{/}				
+UI_20190104_003705	{@st43}Enhance Seal	{@st43}인장 강화				
+UI_20190104_003706	{@st66d_y}{b}Main Seal	{@st66d_y}{b}주 옵션 인장				
+UI_20190104_003707	{@st43b}{s18}{b}Material	{@st43b}{s18}{b}재료 인장				
+UI_20190104_003708	Item Name	주 옵션 인장 아이템의 이름				
+UI_20190104_003709	{@st68b}{b}Base Chance: %s%	{@st68b}{b}기본 확률: %s%				
+UI_20190104_003710	{@st66d_y}Magic Stone Amplification + %s%	{@st66d_y}마정석 증폭 + %s%				
+UI_20190104_003711	{@st43}{s20}%s% Success Chance	{@st43}{s20}성공률 %s%				
+UI_20190104_003712	{@st42}Enhancement	{@st42}강화				
+UI_20190104_003713	{@st42}Magic Stone	{@st42}마정석				
+UI_20190104_003714	{img silver_pic 24 24} Price {img white_right_arrow 16 16} %s	{img silver_pic 24 24} 가격 {img white_right_arrow 16 16} %s				
+UI_20190104_003715	The item has been destroyed.	아이템이 파괴 되었습니다.				
+UI_20190104_003716	{@st42}OK	{@st42}확인				
+UI_20190104_003717	Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost %s : {#000000}%s{/}	소켓 추가 비용 %s : {#000000}%s{/} {nl}젬 추출 비용 %s : {#000000}%s{/}	UI_20150714_001575	Additional Socket Cost : {#000000}%s{/} {nl}Gem Extraction Cost : {#000000}%s{/}	소켓 추가 비용 : {#000000}%s{/} {nl}젬 추출 비용 : {#000000}%s{/}	
+UI_20190104_003718	{@st59}Close the map.{/}	{@st59}지도를 닫습니다{/}				
+UI_20190104_003719	%s{@st42}{s14}{#ffff00}Cancel (Jump Key){/}	%s{@st42}{s14}{#ffff00}취소(점프 키){/}				
+UI_20190104_003720	{@st41b}Collection{/}	{@st41b}컬렉션{/}	UI_20170313_002554	{@st41b}Collection{/}	{@st41b}콜렉션{/}	
+UI_20190104_003721	{s20}Change class trees?{/}	{s20}계열 변경을 하시겠습니까?{/}				
+UI_20190104_003722	* After the class tree change, you will receive attribute points{nl}equivalent to the level of your attributes prior to the change.	* 계열 변경 전 올린 특성의 레벨은{nl}계열 변경 후 특성 포인트를 돌려드립니다.				
+UI_20190104_003723	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.	* 마지막 달성한 클래스 레벨을 확인해 그에 해당하는 {nl} 클래스 경험치 카드를 인벤토리로 지급합니다.				
+UI_20190104_003724	* You will return to the barracks after changing class trees.	* 계열 변경 후엔 캐릭터 선택창으로 돌아갑니다.				
+UI_20190104_003725	* You cannot change class trees{nl}if you have any unused EXP Recovery Cards in your inventory.	* 사용하지 않은 클래스 경험치 복구카드가 {nl} 있을 경우 계열 변경을 할 수 없습니다.				
+UI_20190104_003726	Are you sure you want to change to the selected class?{/}	선택하신 클래스를 변경하시겠습니까?{/}				
+UI_20190104_003727	Your class will be changed into the newly-selected class{nl}and {@st66d_y}Class Change Points will be consumed.{/}{/}	해당 클래스의 전직을 취소하고 선택한 클래스로 변경되며{nl}{@st66d_y}클래스 변경 포인트가 소모됩니다.{/}{/}				
+UI_20190104_003728	* Skills and attributes of deleted{nl}classes will be returned as points.	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.				
+UI_20190104_003729	* Changing your class will remove the class costumes{nl}for classes you had previously advanced into.	* 클래스 변경을 진행하면 기존에 전직했던{nl} 클래스의 코스튬이 제거됩니다.				
+UI_20190104_003730	* You will return to your Lodge after confirming.	* 변경 후에는 캐릭터 선택창으로 돌아갑니다.				
+UI_20190104_003731	* Common attributes will also be reset,{nl}and attribute points will be returned.	* 변경 시 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.				
+UI_20190104_003732	{@st41b}Repair Cost{/} %s	{@st41b}수리 비용{/} %s				
+UI_20190104_003733	{@st66b}%sResurrect with a Mysterious Crystal%s{/}	{@st66b}%s신비한 크리스탈로 부활하기%s{/}				
+UI_20190104_003734	{@st42}{s20}Skills and Attributes	{@st42}{s20}스킬과 특성				
+UI_20190104_003735	{@st43}Craft Scroll	{@st43}주문서 제작	UI_20161005_002365	{@st43}Craft Spellbook	{@st43}스펠북 제작	
+UI_20190104_003736	{s18}Are you sure you want to use %s?{/}	{s18}%s 아이템을 사용하시겠습니까?{/}				
+UI_20190104_003737	This item will disappear from your inventory{nl}and %s will be reset.{/}	사용한 아이템은 인벤토리에서 사라지며{nl}%s가 초기화 됩니다.{/}				
+UI_20190104_003738	{@st66b}Overall Ranking 	{@st66b}통합 랭킹 				
+UI_20190104_003739	{@st59}Show overall ranking{/}	{@st59}초기화되지 않는 통합 랭킹을 보여줍니다{/}				
+UI_20190104_003740	{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/}for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Dimensional Potions"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.	{@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "차원의 포션"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	UI_20180629_003303	{@st66b}Top 10 ranking players receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Dimensional Potions"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).	{@st66b}랭킹 TOP 10 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "차원의 포션"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다	
+UI_20190104_003741	{@st66b}Scout	{@st66b}스카우트				
+UI_20190104_003742	{@st66b}{s16}Scout	{@st66b}{s16}스카우트				
+UI_20190104_003743	{@st59b}My Information{nl}{@st59s}- Stats: Leveling up enhances your 5 basic stats. {nl}- Information: This is information about your character based on your current stats and equipment. {nl}- Title: Titles can be earned by accomplishing achievements. {nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 증가하는 5가지 능력{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}	UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : Use the points you earned by leveling up to enhance the 5 status attributes. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 얻은 포인트를 사용해서 5가지 능력 강화{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}	
+UI_20190104_003744	{@st66b}Compare Equipment{/}	{@st66b}장비 비교하기{/}				
+UI_20190104_003745	{@st66b}Show guild and team names in GTW{/}	{@st66b}콜로니전 길드 이름, 팀 이름 보기{/}				
+UI_20190104_003746	{@st66b}Show effect costumes in GTW{/}	{@st66b}콜로니전 이펙트 코스튬 효과 켜기{/}				
+UI_20190104_003747	{@st68b}{@st43b}{s18}{img clock_3 25 25}Time Remaining: %s{/}{/}	{@st68b}{@st43b}{s18}{img clock_3 25 25}남은 상점이용시간 : %s{/}{/}				
+UI_20190104_003748	99 Days 99 Hours 99 Minutes	99일 99시간 99분				
+UI_20190104_003749	  Exchange Vouchers available{/}	  보유중인 교환권{/}				
+UI_20190104_003750	  Remaining Exchange Vouchers{/}	  잔여 교환권{/}				
+UI_20190104_003751	Exchange Voucher to be used	장바구니 교환권				
+UI_20190104_003752	{@st66b}Costume Exchange{/}	{@st66b}계열 코스튬 교환{/}				
+UI_20190104_003753	{@st66b}Rookie Player Shop{/}	{@st66b}신규유저 전용상점{/}				
+UI_20190104_003754	{@st66b}Returning Player Shop{/}	{@st66b}복귀유저 전용상점{/}				
+UI_20190104_003755	Trade your Exchange Vouchers{nl}for a costume	보유 중인 교환권을 {nl}코스튬으로 교환				
+UI_20190104_003756	{@st66}Use to apply transcendence Stage %s.{/}	{@st66}사용 시 %s초월로 변경됩니다.{/}				
+UI_20190104_003757	{@st41}Horizontal (%s){/}	{@st41}가로 (%s){/}				
+UI_20190104_003758	{@st41}Vertical (%s){/}	{@st41}세로 (%s){/}				
+UI_20190104_003759	{@st41}Zoom In/Zoom Out (%s){/}	{@st41}확대/축소 (%s){/}				
+UI_20190104_003760	{@st41}Horizontal Camera (%s){/}	{@st41}카메라 가로 (%s){/}				
+UI_20190104_003761	{@st41}Vertical Camera (%s){/}	{@st41}카메라 세로 (%s){/}				
+UI_20190104_003762	{s16}See item tooltip	{s16}아이템 툴팁 보기				
+UI_20190104_003763	{b}Specialized Stats	{b}특화 능력치				
+UI_20190104_003764	{@st66d}Forgery	{@st66d}모조품				
+UI_20190104_003765	{#00fec5}{ol}Class Tree Change (available for 30 days){/}	{#00fec5}{ol}계열 변경 가능(1월 24일까지){/}				
+UI_20190104_003766	NO Awakening	각성 불가				
+UI_20190104_003767	{@st42}{s16} Exchange Voucher {/}{/}{img icon_item_exchange_costumeCoupon 32 32}{/}	{@st42}{s16}  소모 교환권 {/}{img icon_item_exchange_costumeCoupon 32 32}{/}				
+UI_20190104_003768	Spent Voucher	소비 교환권				
+UI_20190104_003769	Display selling items.	판매 목록에 포함시킵니다.				
+UI_20190104_003770	Sell	판매하기				
+UI_20190104_003771	{img white_right_arrow 24 24}{@st66d_y} Total Cost{/} %s	{img white_right_arrow 24 24}{@st66d_y} 총 강화 소비 비용{/} %s				
+UI_20190104_003772	{@41b}Completion	{@41b}달성도				
+UI_20190104_003773	{@st59}Register item in collection.{/}	{@st59}컬렉션 아이템을 등록합니다.{/}	UI_20170313_002565	{@st59}Register item in collection.{/}	{@st59}콜렉션 아이템을 등록합니다.{/}	
+UI_20190104_003774	Spot Area	점령지역이름				
+UI_20190104_003775	City	도시이름				
+UI_20190104_003776	{@sti7}{s30}{ds}Find Your Class	{@sti7}{s30}{ds}클래스 선택 가이드				
+UI_20190104_003777	{@st66d_y}What to know what class is right for you?{/}{nl}                                                                         Take the test and find out which classes{nl}best suit your style of gameplay!	{@st66d_y}어떤 직업을 골라야할지 고민된다면?{/}{nl}                                                                         적성검사를통해 내 플레이타입에{nl}맞는 직업 순위를 알아보세요!				
+UI_20190104_003778	{@st41b}{s16}Move	{@st41b}{s16}이동				
+UI_20190104_003779	{s16}{b}{ol}{ds}Details >>	{s16}{b}{ol}{ds}자세히 보기>>				
+UI_20190104_003780	Class Name	직업 이름				
+UI_20190104_003781	Change the selected class.	해당 클래스를 변경합니다.				
+UI_20190104_003782	You can change a class that is required for one of your current classes.	특정 클래스의 선행 직업인 경우 변경할 수 없습니다.				
+UI_20190104_003783	Party Member Name	파티원이름이에요				
+UI_20190104_003784	{@st43b}{s18}Skills	{@st43b}{s18}스킬				
+UI_20190104_003785	Skill Points:        %s/%s	스킬 포인트:        %s/%s				
+UI_20190104_003786	Related Attributes	연결 특성				
+UI_20190104_003787	{@st43b}{s18}Attributes	{@st43b}{s18}특성				
+UI_20190104_003788	{@st41d}Cancel	{@st41d}취소				
+UI_20190104_003789	Attribute Points	특성 포인트				
+UI_20190104_003790	Extract Attribute Points	특성 포인트 추출				
+UI_20190104_003791	{@st66}Extract	{@st66}추출				
+UI_20190104_003792	Purchase Attribute Points	특성 포인트 구매				
+UI_20190104_003793	{@st66}Purchase	{@st66}구매				
+UI_20190104_003794	{@st42}{s16}Apply	{@st42}{s16}적용				
+UI_20190104_003795	{@st42}{s16}Allocate	{@st42}{s16}분배				
+UI_20190104_003796	{@st41d}Receive	{@st41d}받기				
+UI_20190104_003797	{@st41b}{s16}Yes	{@st41b}{s16}예				
+UI_20190104_003798	{@st41b}{s16}No	{@st41b}{s16}아니오				
+UI_20190104_003799	Remaining Token Time: {#FF0000}%s{/}	남은 토큰 시간 : {#FF0000}%s{/}				
+UI_20190112_003800	{@st66}{s16}Extract	{@st66}{s16}추출				
+UI_20190112_003801	{@st66}{s16}Purchase	{@st66}{s16}구매				
+UI_20190201_003802	{@st66b}Adjust Tariff Rates{/}	{@st66b}적립요율 조정{/}	UI_20190104_003626	{@st66b}Adjust Tax Rate{/}	{@st66b}세율 조정{/}	
+UI_20190201_003803	{@st66b}Fund Distribution{/}	{@st66b}적립금 분배{/}	UI_20190104_003627	{@st66b}Tax Collection{/}	{@st66b}세금 징수{/}	
+UI_20190201_003804	Applicable City	적립요율 적용 도시	UI_20190104_003628	Target Cities	세율 적용 도시	
+UI_20190201_003805	Tariff Rate	적립요율	UI_20190104_003629	Tax Rate	세율	
+UI_20190201_003806	Collecting City	적립금 누적 도시	UI_20190104_003631	Collecting Cities	세금 징수 도시	
+UI_20190201_003807	Tariff Funds	적립금	UI_20190104_003633	Tax	세금	
+UI_20190201_003808	Fund Distribution	적립금 분배				
+UI_20190201_003809	Retrieve Funds	적립금 수령				
+UI_20190201_003810	{@st66b}Applicable Items{/}	{@st66b}적립요율 적용 항목{/}	UI_20190104_003638	{@st66b}Taxable Goods{/}	{@st66b}세율 적용 항목{/}	
+UI_20190201_003811	{@st66b}Fund Records{/}	{@st66b}적립금 상세 이력{/}	UI_20190104_003639	{@st66b}Records{/}	{@st66b}세금 상세 이력{/}	
+UI_20190201_003812	{@st42}{s20}Fund Distribution	{@st42}{s20}적립금 분배	UI_20190104_003640	{@st42}{s20}Tax Allocation	{@st42}{s20}세금 분배	
+UI_20190201_003813	{@st42}{s20}Retrieve Funds	{@st42}{s20}적립금 수령	UI_20190104_003647	{@st42}{s20}Retrieve Taxes	{@st42}{s20}세금 수령	
+UI_20190201_003814	City Tariff Rate	도시 적립요율	UI_20190104_003675	City Tax	도시 세율	
+UI_20190201_003815	City Tariff Funds{img tip_questionmark 20 20}	도시 적립금{img tip_questionmark 20 20}	UI_20190104_003676	City Tax {img tip_questionmark 20 20}	징수될 도시 세금{img tip_questionmark 20 20}	
+UI_20190201_003816	Market Tariff Funds{img tip_questionmark 20 20}	마켓 적립금{img tip_questionmark 20 20}	UI_20190104_003677	Market Tax {img tip_questionmark 20 20}	징수될 마켓 세금{img tip_questionmark 20 20}	
+UI_20190201_003817	ⓘ Guilds that seize a Spot Area can access the benefits page to adjust city tariff rates and retrieve tariff funds.	ⓘ 점령 길드는 점령 혜택 버튼을 통해 도시의 적립요율 조정 및 적립금 수령이 가능합니다	UI_20190104_003678	ⓘ Guilds that seized a Spot can use the Victory Benefits button to adjust city tax rates and collect tax.	ⓘ 점령 길드는 점령 혜택 버튼을 통해 도시의 세율 조정 및 세금 징수가 가능합니다	
+UI_20190223_003818	* Attendance rewards can only be received once per day and are automatically issued into the inventory of the first character that you log in with.{nl}* Rewards can only be received during the event period and will no longer be issued when the event period is over.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}	UI_20171128_002927	* Daily attendance rewards will be automatically sent once per day to the inventory of the first character to access the game.{nl}* Enchant Scroll (14 Days).{nl}* Rewards can only be received during the attendance check period. After this period, no more rewards will be sent.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 마법 부여 스크롤(14일)을 제외한 모든 아이템은 팀 창고로 이동할 수 있습니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}	
+UI_20190223_003819	{@st59}Remove the camp{/}	{@st59}캠프를 해제합니다{/}				
+UI_20190223_003820	{@st59}Close equipment appearance UI.{/}	{@st59}장비 외형 초기화 UI를 닫습니다{/}				
+UI_20190223_003821	{@st43}Reset Equipment Appearance{/}	{@st43}장비 외형 초기화{/}				
+UI_20190223_003822	{@st43b}{s22}Before{/}	{@st43b}{s22}변경 전{/}				
+UI_20190223_003823	{@st66d_y}{s22}After{/}	{@st66d_y}{s22}변경 후{/}				
+UI_20190223_003824	{@st43b}{s18}Reset{/}{/}	{@st43b}{s18}초기화 하기{/}{/}				
+UI_20190223_003825	{@st41}Corpse Parts required: %s	{@st41}필요 사체 파편 : %s개	UI_20160323_002156	{@st41}Fragments Required : %s	{@st41}필요 파편 : %s개	
+UI_20190223_003826	Number of Corpse Parts	사체 파편의 개수	UI_20151224_001929	Number of Fragments	파편의 개수	
+UI_20190223_003827	{@st66b}Show No. of Corpse Parts{/}	{@st66b}메인 화면에 사체 파편의 개수 표시하기{/}	UI_20170726_002693	{@st66b}Show No. of Fragments{/}	{@st66b}메인 화면에 파편의 개수 표시하기{/}	
+UI_20190223_003828	{@st42}Number of Corpse Parts{/}	{@st42}사체 파편 개수{/}	UI_20170726_002694	{@st42}Necronomicon Fragments{/}	{@st42}네크로노미콘 파편의 개수{/}	
+UI_20190223_003829	{@st59}Collection (F11){/}	{@st59}컬렉션 (F11){/}				
+UI_20190223_003830	{@st66b}See Party's Summon HP{/}	{@st66b}파티원 소환물 체력 보기{/}				
+UI_20190223_003831	Button	버튼				
+UI_20190409_003832	{@st66b}Consumes %s x1.{/}	{@st66b}%s 1개가 소비됩니다.{/}				
+UI_20190419_003833	Transmutation Kit	연성 키트				
+UI_20190419_003834	Ichor Transmutation	아이커 연성				
+UI_20190419_003835	Transmute	연성				
+UI_20190419_003836	{@st43b}{s18}Transmutation Success Rate: %s%	{@st43b}{s18}연성 성공 확률 : %s%				
+UI_20190419_003837	{@st43b}{s18}Ichor Stats	{@st43b}{s18}아이커 옵션				
+UI_20190419_003838	{s14}※ You can accumulate a maximum of 20,000 points, which are reset every 3 months (Jan, Apr, Jul and Oct 1st at 00:00, server time).	{s14}※최대 20000포인트까지 누적되며, 매 분기(1,4,7,10월 1일 00시)마다 초기화 됩니다.	UI_20180827_003455	{s14}※ You can accumulate a maximum of 20,000 points, which are reset every 3 months (Jan, Apr, Jul and Oct 1st at 06:00, server time).	{s14}※최대 20000포인트까지 누적되며, 매 분기(1,4,7,10월 1일 06시)마다 초기화 됩니다.	
+UI_20190419_003839	{@st66d}Return to City{/}	{@st66d}마을로 돌아가기{/}				
+UI_20190419_003840	{@st43}{s26}Badges Acquired: %s	{@st43}{s26}습득 증표 : %s 개 획득				
+UI_20190419_003841	{@st66d_y}{s22}Ranking Bonus + %s Badges	{@st66d_y}{s22}랭킹 보너스 증표 + %s				
+UI_20190419_003842	{@st66b}Ranking{/}	{@st66b}순위{/}				
+UI_20190419_003843	{@st66b}Team Name{/}	{@st66b}팀명{/}				
+UI_20190419_003844	{@st66b}Points{/}	{@st66b}점수{/}				
+UI_20190419_003845	{@st66b}Returning to Vedas Plateau. (30 seconds){/}	{@st66b}잠시 후 베다 고원으로 귀환됩니다. (30초){/}				
+UI_20190419_003846	This item will disappear from your inventory{nl}and %s will be reset.%s{/}	사용한 아이템은 인벤토리에서 사라지며{nl}%s가 초기화 됩니다.%s{/}	UI_20190104_003737	This item will disappear from your inventory{nl}and %s will be reset.{/}	사용한 아이템은 인벤토리에서 사라지며{nl}%s가 초기화 됩니다.{/}	
+UI_20190419_003847	{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Remnants of Bernice Coins"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players in the top 3 of multiple class trees receive only the rewards corresponding to their highest score.{nl} {nl}If that happens, the next player in line in the corresponding class tree will rise to the top 3 and receive the rewards.	{@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "베르니케 파편 주화"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	UI_20190104_003740	{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/}for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Dimensional Potions"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.	{@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "차원의 포션"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	
+UI_20190419_003848	{@st66b}Auto Skill Targeting{/}	{@st66b}스킬 위치 지정 타겟팅{/}				
+UI_20190611_003849	{@st43}{s22}See Location{/}	{@st43}{s22}위치 보기{/}				
+UI_20190611_003850	{@st59}Close Location{/}	{@st59}위치 보기 창을 닫습니다{/}				
+UI_20190611_003851	{img NOTICE_Dm_! 30 30}{@st43}{s16}Skill Limitation{/}	{img NOTICE_Dm_! 30 30}{@st43}{s16}스킬 제한{/}				
+UI_20190611_003852	{@st59}Insert the Abrasive{/}	{@st59}연마재를 올려주세요{/}				
+UI_20190611_003853	{@st66d_y}Insert the Awakening Abrasive.{/}	{@st66d_y}각성 연마재를 추가해주세요.{/}				
+UI_20190611_003854	Awakening Abrasive Item Name	각성 연마재 아이템 이름				
+UI_20190611_003855	Unequip Ichor	아이커 장착 해제				
+UI_20190611_003856	Unequip	장착 해제				
+UI_20190611_003857	{@st43}{s20}Dismantlement Info	{@st43}{s20}분해 상세정보				
+UI_20190611_003858	{@st41b}Sort by Level	{@st41b}레벨별 분류				
+UI_20190611_003859	{@st66b}  Quest List  {/}	{@st66b}  퀘스트 목록  {/}				
+UI_20190611_003860	{@st66b}  Complete  {/}	{@st66b}  완료  {/}				
+UI_20190611_003861	{@st66b}Available{/}	{@st66b}시작 가능{/}				
+UI_20190611_003862	{@st66b}In Progress{/}	{@st66b}진행중{/}				
+UI_20190611_003863	{@st66b}Abandoned{/}	{@st66b}포기{/}				
+UI_20190611_003864	{@st59}Search by Quest Name or Location.{/}	{@st59}퀘스트 이름 또는 지역 이름으로 검색 합니다.{/}				
+UI_20190611_003865	{s18}{b}{ol}{ds}All Levels	{s18}{b}{ol}{ds}모든 레벨				
+UI_20190611_003866	{s18}{b}{ol}{ds}Recommended	{s18}{b}{ol}{ds}적정 레벨				
+UI_20190611_003867	{s18}{b}{ol}{ds}Quest Display Settings {img option_icon 21 21}	{s18}{b}{ol}{ds}퀘스트 표시 설정 {img option_icon 21 21}				
+UI_20190611_003868	{@st66}TIP. You can register up to 5 Quests to be displayed on the game screen.	{@st66}TIP. 퀘스트 알림은 5개까지 등록할 수 있습니다.				
+UI_20190611_003869	{img quest_detail_pic1 24 24}{@st41b}Location{/}	{img quest_detail_pic1 24 24}{@st41b}위치{/}				
+UI_20190611_003870	{img quest_detail_pic2 24 24}{@st41b}Overview{/}	{img quest_detail_pic2 24 24}{@st41b}개요{/}				
+UI_20190611_003871	{img quest_detail_pic3 24 24}{@st41b}Objective{/}	{img quest_detail_pic3 24 24}{@st41b}목표{/}				
+UI_20190611_003872	{img quest_detail_pic4 24 24}{@st41b}Reward{/}	{img quest_detail_pic4 24 24}{@st41b}보상{/}				
+UI_20190611_003873	{img quest_detail_pic4 24 24}{@st41b}Select a Reward{/}	{img quest_detail_pic4 24 24}{@st41b}선택 보상{/}				
+UI_20190611_003874	Quest Name	퀘스트 제목				
+UI_20190611_003875	Level 1	1 레벨				
+UI_20190611_003876	{@st43b}{s16}Quest List	{@st43b}{s16}퀘스트 목록				
+UI_20190611_003877	{ol}All Quests	{ol}모든 퀘스트				
+UI_20190611_003878	{ol}Main Quests	{ol}메인 퀘스트				
+UI_20190611_003879	{ol}Sub Quests	{ol}서브 퀘스트				
+UI_20190611_003880	{ol}Repeatable Quests	{ol}반복 퀘스트				
+UI_20190611_003881	{ol}Party Quests	{ol}파티 퀘스트				
+UI_20190611_003882	{ol}Hethran Badge Quests	{ol}증표 퀘스트				
+UI_20190611_003883	{ol}Tracking Quests	{ol}추적 퀘스트				
+UI_20190611_003884	{@st66b}Quest Window Transparency{%s}{/}	{@st66b}지령창 배경 투명도 (%s){/}				
+UI_20190611_003885	{@st59}Display Quest to Party{/}	{@st59}파티원에게 노출{/}				
+UI_20190611_003886	{@st59}Check Quest Location{/}	{@st59}퀘스트 위치 확인{/}				
+UI_20190611_003887	Item Name	아이템 명				
+UI_20190611_003888	Enchant Item Name	인첸트 아이템 명				
+UI_20190611_003889	{@st43}{s16}Limit the use of certain skills.{/}	{@st43}{s16}특정 종류의 스킬 사용을 일정 부분 제한합니다.{/}				
+UI_20190612_003890	{s16}{b}{ol}{ds} All Levels	{s16}{b}{ol}{ds}모든 레벨				
+UI_20190612_003891	{s16}{b}{ol}{ds}Recommended	{s16}{b}{ol}{ds}적정 레벨				
+UI_20190612_003892	{s16}{b}{ol}{ds}Quest Display Settings {img option_icon 21 21}	{s16}{b}{ol}{ds}퀘스트 표시 설정 {img option_icon 21 21}				
+UI_20190612_003893	{s16}{ol} All Quests	{s16}{ol}모든 퀘스트	UI_20190611_003877	{ol}All Quests	{ol}모든 퀘스트	
+UI_20190612_003894	{s16}{ol} Main Quests	{s16}{ol}메인 퀘스트	UI_20190611_003878	{ol}Main Quests	{ol}메인 퀘스트	
+UI_20190612_003895	{s16}{ol} Sub Quests	{s16}{ol}서브 퀘스트	UI_20190611_003879	{ol}Sub Quests	{ol}서브 퀘스트	
+UI_20190612_003896	{s16}{ol} Repeatable Quests	{s16}{ol}반복 퀘스트	UI_20190611_003880	{ol}Repeatable Quests	{ol}반복 퀘스트	
+UI_20190612_003897	{s16}{ol} Party Quests	{s16}{ol}파티 퀘스트	UI_20190611_003881	{ol}Party Quests	{ol}파티 퀘스트	
+UI_20190612_003898	{s16}{ol} Hethran Badge Quests	{s16}{ol}증표 퀘스트	UI_20190611_003882	{ol}Hethran Badge Quests	{ol}증표 퀘스트	
+UI_20190612_003899	{s16}{ol} Tracking Quests	{s16}{ol}추적 퀘스트	UI_20190611_003883	{ol}Tracking Quests	{ol}추적 퀘스트	
+UI_20190621_003900	{@st66b}Item trade counts and entry limits will be reset during weekly scheduled maintenance.{/}	{@st66b}탈트 및 실버 입장 횟수는 매주 화요일 점검 시에 초기화 됩니다.{/}				
+UI_20190621_003901	{@st43}{s22}Victory Cube{/}	{@st43}{s22}이벤트: 승부 큐브{/}	UI_20170912_002881	{@st43}{s22}Leticia's Secret Cube{/}	{@st43}{s22}레티샤 시크릿 큐브{/}	
+UI_20190802_003902	{@st42}{s20}Challenger's League	{@st42}{s20}챌린저스 리그				
+UI_20190802_003903	{@st42}{s20}Champion's League	{@st42}{s20}챔피언스 리그	UI_20190104_003625	{@st42}{s20}Victory Benefits	{@st42}{s20}점령 혜택	
+UI_20190802_003904	{@st41b}{s16}{b}Champions	{@st41b}{s16}{b}챔피언스 리그				
+UI_20190802_003905	{@st41b}{s16}{b}Challengers	{@st41b}{s16}{b}챌린저스 리그				
+UI_20190802_003906	Regional League	지역 리그				
+UI_20190802_003907	Unequip Ichor (Fixed)	아이커 장착 해제(고정옵션)				
+UI_20190802_003908	{@st43b}{s18}Ichor Stats (Fixed)	{@st43b}{s18}아이커 옵션(고정옵션)	UI_20190419_003837	{@st43b}{s18}Ichor Stats	{@st43b}{s18}아이커 옵션	
+UI_20190802_003909	Unequip Ichor (Random)	아이커 장착 해제(랜덤옵션)				
+UI_20190802_003910	{@st43b}{s18}Ichor Stats (Random)	{@st43b}{s18}아이커 옵션(랜덤옵션)				
+UI_20190802_003911	Click on confirm to return.	확인을 누르시면 원래 지역으로 이동합니다.	UI_20161005_002356	Confirm to move out of the tower.	확인을 누르시면 탑 밖으로 이동합니다.	
+UI_20190802_003912	{@st42b}You can dash by double-tapping a directional key{/}	{@st42b}방향키를 빠르게 두번 입력하여 질주할 수 있습니다{/}	UI_20150729_001741	{@st42b}         Swordsman classes can sprint by                     double-tapping a directional key{/}	{@st42b}전사 계열은 방향을 빠르게 두번 입력하여 질주할 수 있습니다{/}	
+UI_20190802_003913	{@st41b}{s18}Current %s Enchant Jewels: %s	{@st41b}{s18}현재 %s 인챈트 쥬얼 보유 개수: %s개	UI_20181017_003547	{@st41b}{s18}Current Enchant Jewels: %s	{@st41b}{s18}현재 인챈트 쥬얼 보유 개수: %s개	
+UI_20190802_003914	{@st66}{s18}{b}Consumes %sx %s Enchant Jewel(s).	{@st66}{s18}{b} %s 인챈트 쥬얼 %s개가 소비됩니다.	UI_20181017_003548	{@st66}{s18}{b}Consumes %s Enchant Jewel(s).	{@st66}{s18}{b}인챈트 쥬얼 %s개가 소비됩니다.	
+UI_20190802_003915	Cannot be dismantled	분해 불가				
+UI_20190802_003916	Regional League	지역리그				
+UI_20190802_003917	{@st42}{s16}Retrieve	{@st42}{s16}수령				
+UI_20190828_003918	{@st66b}Dead Parts	{@st66b}데드 파츠 적용				
+UI_20190828_003919	{@st66b}Item Drop Effects{/}	{@st66b}아이템 드랍 이펙트 사용{/}				
+UI_20191024_003920	{@st43}{s22}The Grimoire Master{/}	{@st43}{s22}그리모어를 찢어라{/}				
+UI_20191024_003921	{@st59b}Monster Info.{nl}{@st59s} - You can view the monsters in your posession in the Monster Info. tab.{nl} - The monsters that you want to use must be registered in the main slot, which can be done by moving the monsters from the list at the bottom by holding and dragging the right-click button.{nl} - All monsters possess a Grade and a Potential.{nl}[Grade]{nl}   - Displays the monster's power level.{nl}   - Grades are divided into Normal, Magic and Legend which affects how a monster performs in battle.{nl}[Evolution Grade]{nl}   - All monsters can be evolved a maximum of two times. An evolution increases the number of skills available and the monster's stats.{nl}   - All monsters begin with a 1 Star Evolution Grade and can be evolved to 3 Stars maximum.{/}{nl}{@st59b}Sale{nl}{@st59s} - You can also sell off the monsters in your posession in the Monster Info. tab.{nl} - You can earn [Event] Ancient Coin by selling your monsters and the amount of coins earned varies depending on the Grade of your monster.{nl} - Coins Earned{nl}   - Normal: 0, Magic: 1{nl}   - Unique: 2, Legend 3{nl}   * Amount of coins earned is independent of the monster's Evolution Grade.{/}{nl}{@st59b}Fusion{nl}{@st59s} - You can fuse 3 monsters of identical Grade to obtain a random monster of the same Grade.{nl} - There is also a 5% chance to obtain a monster of a higher grade by fusing the monsters.{/}{nl}{@st59b}Evolution{nl}{@st59s} - You can use 3 identical monsters to evolve your monster.{nl} - Evolution only works when using 3 identical monsters of the same Evolution Grade and will result in 1 identical monster with a +1 Evolution Grade.{nl} - The resulting monster's level will be identical to that of the monster with the highest level.{/}	{@st59b}몬스터 정보{nl}{@st59s} - 보유 중인 몬스터를 몬스터 정보 탭을 통해 확인할 수 있습니다.{nl} - 사용할 몬스터는 상단의 메인 슬롯에 등록을 해야 하며, 하단의 몬스터 목록에서 우 클릭하여 옮길수 있습니다.{nl} - 몬스터는 진화 등급과 등급의 속성을 가지고 있습니다.{nl} [등급]{nl}   - 몬스터 고유의 성능 등급을 나타냅니다.{nl}   - 등급은 노말/매직/유니크/레전드로 구별되며, 등급에 따라 몬스터 성능에 차등이 있습니다.{nl} [진화 등급]{nl}   - 모든 몬스터는 두 번의 진화가 가능하며, 진화 시 사용 스킬 개수와 스탯이 증가합니다.{nl}   - 모든 몬스터는 최초 1성으로 시작하며, 3성까지 진화가 가능합니다.{/}{nl}{@st59b}판매{nl}{@st59s} - 보유 중인 몬스터를 몬스터 정보 탭의 판매 버튼을 통해 판매할 수 있습니다.{nl} - 몬스터 판매 시 [이벤트] 고대 주화를 획득하며, 등급에 따라 획득하는 주화의 개수가 다릅니다.{nl} - 판매 시 획득 주화 개수{nl}   - 노말 : 0개, 매직 : 1개{nl}   - 유니크 : 2개, 레전드 : 3개{nl}   * 진화 등급에 영향받지 않습니다.{/}{nl}{@st59b}합성{nl}{@st59s} - 동일한 등급의 몬스터 3개를 소모하여 동일한 등급의 랜덤한 몬스터를 획득할 수 있습니다.{nl} - 5% 확률로 1단계 높은 등급의 몬스터를 획득할 수 있습니다.{/}{nl}{@st59b}진화{nl}{@st59s} - 동일한 몬스터 3개를 소모하여 몬스터를 진화시킬 수 있습니다.{nl} - 진화는 동일한 진화 등급의 몬스터로만 가능하며, 진화 시 1단계 높은 진화 등급의 몬스터를 획득합니다.{nl} - 진화 시 3개의 몬스터 중 가장 높은 몬스터의 레벨로 등장합니다.{/}				
+UI_20191024_003922	{@st66b}{s16}Monster Info.{/}	{@st66b}{s16}몬스터 정보{/}				
+UI_20191024_003923	Displays the information of registered monsters.	등록된 몬스터의 정보를 확인할 수 있습니다.				
+UI_20191024_003924	{@st66b}{s16}Fusion{/}	{@st66b}{s16}합성{/}				
+UI_20191024_003925	Allows you to fuse two monsters of equal grade to produce a new random monster of the same grade.{nl}5% chance of producing a monster of +1 grade.	동일한 등급의 몬스터로 동일한 등급의 랜덤한 몬스터를 획득할 수 있습니다.{nl} 5%확률로 한 등급이 높은 몬스터가 등장합니다.				
+UI_20191024_003926	{@st66b}{s16}Evolve{/}	{@st66b}{s16}진화{/}				
+UI_20191024_003927	3 identical monsters of identical grade can be use to evolve a monster.	진화 등급이 같은 동일한 몬스터 3개로 해당 몬스터를 진화시킬 수 있습니다.				
+UI_20191024_003928	A synergy will occur when there are 2 or more monsters of identical species or property in your main slot.{nl}This synergy only takes effect inside [Event] Remnants of Bernice dungeon.	메인 슬롯의 몬스터 중 동일한 종족, 속성이 2개체이상 있을 경우, 조합 시너지가 발생합니다.{nl}해당 조합 시너지는 [이벤트] 베르니케의 파편 던전에서만 적용됩니다.				
+UI_20191024_003929	{@st59}Arrange monster list.{/}	{@st59}몬스터 리스트를 정렬합니다.{/}				
+UI_20191024_003930	{@st42b}{s18}Monster: %s/%s	{@st42b}{s18}몬스터 보유 수: %s/%s				
+UI_20191024_003931	{@st42b}{s16}Time Remaining{/}	{@st42b}{s16}남은 시간{/}				
+UI_20191024_003932	{@st42b}{s16}Monster (%s/%s){/}	{@st42b}{s16}남은 몬스터(%s/%s){/}				
+UI_20191024_003933	{@st42b}{s14}First Completion Reward{/}	{@st42b}{s14}첫 클리어 보상{/}				
+UI_20191024_003934	{@st42b}{s14}Stage Debuff{/}	{@st42b}{s14}Stage 디버프{/}				
+UI_20191024_003935	{@st42b}{s14}Give Up{/}	{@st42b}{s14}포기하기{/}				
+UI_20191024_003936	{@st59}Minimize BGM Player{/}	{@st59}BGM 플레이어를 최소화합니다{/}				
+UI_20191024_003937	{@st59}Close BGM Player{/}	{@st59}BGM 플레이어를 닫습니다{/}				
+UI_20191024_003938	{@st59}Play Music{/}	{@st59}음악을 재생합니다{/}				
+UI_20191024_003939	{@st59}Previous Track{/}	{@st59}이전 음악 재생{/}				
+UI_20191024_003940	{@st59}Next Track{/}	{@st59}다음 음악 재생{/}				
+UI_20191024_003941	Music Play Time	음악 재생 시간				
+UI_20191024_003942	{@st59}Change Skin{/}	{@st59}스킨 변경{/}				
+UI_20191024_003943	{@st59}Play Random Track{/}	{@st59}랜덤 음악 재생{/}				
+UI_20191024_003944	{@st59}Repeat{/}	{@st59}반복 재생{/}				
+UI_20191024_003945	{@st59}Search Playlist{/}	{@st59}전체목록 검색{/}				
+UI_20191024_003946	{@st59}Maximize BGM Player{/}	{@st59}BGM 플레이어를 최대화합니다{/}				
+UI_20191024_003947	Category	분야				
+UI_20191024_003948	{@st48}%s Benefits{/}	{@st48}%s 혜택{/}				
+UI_20191024_003949	All characters connected to the game receive a buff that{nl}{@st66d_y}increases the EXP earned when defeating monsters by +200%{/} for a 1-hour duration.	월드 내 접속중인 전체 캐릭터 대상으로{nl}{@st66d_y}몬스터 처치 시 경험치 200% 증가{/} 버프가 1시간동안 적용됩니다.				
+UI_20191024_003950	Grants {@st66d_y}+1000 looting chance{/} buff{nl}and {@st66d_y}Large Companion{/}buff for a 24-hour duration to nearby players. 	피자 아이템을 사용한 캐릭터 대상으로{nl}{@st66d_y}주변 루팅 찬스 +1000 증가{/} 버프와{nl}{@st66d_y}컴패니언 크기 증가{/} 버프가 24시간 동안 적용됩니다. 				
+UI_20191024_003951	Hover the mouse over the text to display detailed buff information.{/}	텍스트 선택시 버프 내용이 상세하게 표시됩니다.{/}				
+UI_20191024_003952	{/}{nl}Use item?{/}	{/}{nl}아이템을 사용하시겠습니까?{/}				
+UI_20191024_003953	It will be removed from %s{nl}and applied only to {@st66d_y}%s{/}.{/}	사용한 %s {nl}인벤토리에서 사라지며 현재 {@st66d_y}%s{/}에만 적용됩니다.{/}				
+UI_20191024_003954	{@st43}{s22}Goddess' Grace	{@st43}{s22}여신의 가호				
+UI_20191024_003955	{@st41b}{s16}Remaining Time %s min %s sec	{@st41b}{s16}남은 시간 %s분 %s초				
+UI_20191024_003956	{@st41b}{s16}x1	{@st41b}{s16}1회				
+UI_20191024_003957	{@st41b}{s16} Silver	{@st41b}{s16} 돈				
+UI_20191024_003958	{@st43}{s24}Offering	{@st43}{s24}봉헌				
+UI_20191024_003959	{@st43}{s24}Confirm	{@st43}{s24}확인				
+UI_20191024_003960	{@st66b}Expand Hangout	{@st66b}아지트 확장				
+UI_20191024_003961	{@st66b}Hangout Info{/}	{@st66b}아지트 정보{/}				
+UI_20191024_003962	Guild Hangout Expansion Level	길드 아지트 확장 단계				
+UI_20191024_003963	{@st42}{s22}{#ffd739}Lv. %s{/}{/}{/}	{@st42}{s22}{#ffd739}%s 단계{/}{/}{/}				
+UI_20191024_003964	Guild Hangout Expansion Lv and Info	길드 아지트 확장 단계 및 정보				
+UI_20191024_003965	{@st41b}{s18}Lv. 1: %s{/}{/}	{@st41b}{s18}1 단계 : %s{/}{/}				
+UI_20191024_003966	{@st41b}{s18}Lv. 2: %s{/}{/}	{@st41b}{s18}2 단계 : %s{/}{/}				
+UI_20191024_003967	{@st41b}{s18}Lv. 3: %s{/}{/}	{@st41b}{s18}3 단계 : %s{/}{/}				
+UI_20191024_003968	{@st41b}{s18}Lv. 4: %s{/}{/}	{@st41b}{s18}4 단계 : %s{/}{/}				
+UI_20191024_003969	{@st41b}{s18}Lv. 5: %s{/}{/}	{@st41b}{s18}5 단계 : %s{/}{/}				
+UI_20191024_003970	Guild Housing Facility Info	길드 하우징 시설 정보				
+UI_20191024_003971	Contribution and Mileage	기여도 및 길드 마일리지 관리				
+UI_20191024_003972	[Converting Contribution to Guild Mileage]{nl}- Conversion ratio of 1 (Guild Contribution) : 1 (Guild Mileage).{nl} {nl}[Converting Guild Mileage to Contribution]{nl}- Conversion Ratio of 10 (Guild Mileage) : 1 (Guild Contribution){nl}- This feature can only be used by the Guild Master.{nl} {nl}[Distributing Contribution to Members]{nl}- Distribution ratio of 1 (My Contribution): 1 (Member Contribution){nl}- This feature can only be used by the Guild Master.	[내 기여도를 길드 마일리지로 전환]{nl}- 1(길드 기여도) : 1(길드 마일리지)의 비율로 기여도가 길드 마일리지로 전환됩니다.{nl} {nl}[길드 마일리지를 기여도로 전환]{nl}- 10(길드 마일리지) : 1(길드 기여도)의 비율로 길드 마일리지가 기여도로 전환됩니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드원에게 기여도 분배]{nl}- 1(내 기여도) : 1(길드원 기여도)의 비율로 기여도를 길드원에게 분배할 수 있습니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.				
+UI_20191024_003973	{@st42}{s18}Guild Mileage: %s{/}{/}	{@st42}{s18}길드 마일리지 : %s{/}{/}				
+UI_20191024_003974	{@st42}{s18}My Contribution: %s{/}{/}	{@st42}{s18}내 기여도 : %s{/}{/}				
+UI_20191024_003975	{@st42}{s18}Exchange Contribution Points for Guild Mileage{/}{/}	{@st42}{s18}내 기여도를 길드 마일리지로 전환하기{/}{/}				
+UI_20191024_003976	{@st42}{s18}Exchange Guild Mileage for Contribution Points{/}{/}	{@st42}{s18}길드 마일리지를 기여도로 전환하기{/}{/}				
+UI_20191024_003977	{@st42}{s18}Distribute Contribution Points to Guild Members{/}{/}	{@st42}{s18}길드원에게 기여도 분배하기{/}{/}				
+UI_20191024_003978	Guild Housing Points	길드 하우징 포인트 정보				
+UI_20191024_003979	You can purchase Guild Housing Items and Facilities by using Housing Points.{nl}- Housing Points can be obtained using Guild Mileage at the ratio of 5 (Guild Mileage) : 1 (Housing Point).{nl}- Housing Points can only be purchased when your Guild has reached Guild Expansion Lv. 2 or above.{nl}- Crafting Workshops can be installed to increase the maximum Housing Points that you can possess.	하우징 포인트를 통해 길드 하우징 물품 및 시설을 구매할 수 있습니다.{nl}- 5(길드 마일리지) : 1(하우징 포인트) 비율로 각 하우징 포인트를 마일리지로 구매할 수 있습니다.{nl}- 길드 아지트 확장 단계가 2단계 이상인 경우에만 하우징 포인트 구매가 가능합니다.{nl}- 제작 공방소를 증축하여 각 하우징 포인트의 최대치를 늘릴 수 있습니다.				
+UI_20191024_003980	{@st42}{s16}Idea{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}독창성{#ffd739}(+%s){/}{/}{/}				
+UI_20191024_003981	{@st42}{s16}Functionality{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}기능성{#ffd739}(+%s){/}{/}{/}				
+UI_20191024_003982	{@st42}{s16}Creativity{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}예술성{#ffd739}(+%s){/}{/}{/}				
+UI_20191024_003983	{@st42}{s16}Economy{#ffd739}(+%s){/}{/}{/}	{@st42}{s16}경제성{#ffd739}(+%s){/}{/}{/}				
+UI_20191024_003984	{@st42}{s16}{#ff0000}Guild Mileage Cost (%s){/}{/}{/}	{@st42}{s16}{#ff0000}차감 길드 마일리지 (%s){/}{/}{/}				
+UI_20191024_003985	{@st42}{s16}{#ffd739}Estimated Remaining Mileage: %s{/}{/}{/}	{@st42}{s16}{#ffd739}예상 잔여 마일리지 : %s{/}{/}{/}				
+UI_20191024_003986	{@st42}{s18}Cancel{/}	{@st42}{s18}취소{/}				
+UI_20191024_003987	{@st42}{s18}Save{/}	{@st42}{s18}저장{/}				
+UI_20191024_003988	ⓘ Withdrawals/Deposits will consume 20 Mileage.{nl}ⓘ Mileages are earned everytime a Guild member logs in or certain in-game contents are completed by Guild Members (e.g. Challenge Mode Lv. 5, Unique Raid and Legend Raids).{nl}ⓘ Each member can accumulate a maximum of 100 Mileage by completing in-game contents and this maximum limit is reset every Monday at 06:00 AM server time.	ⓘ 입고/출고 시 마일리지 20 차감 됩니다. {nl}ⓘ마일리지는 길드원 로그인, 특정 콘텐츠 이용(챌린지 5단계 이상, 유니크 레이드, 레전드 레이드 클리어)을 통해서 적립됩니다.{nl}ⓘ특정 콘텐츠 이용을 통한 마일리지 적립은 길드원별 주간 100 까지 누적 적립 가능하며, 누적 적립은 매주 월요일 오전 6시에 초기화 됩니다.	UI_20190104_003693	ⓘ Every deposit/withdrawal equals 20 mileage.{nl}ⓘ Mileage is accumulated when guild members login, and when participating in guild quests and Territory Wars.	ⓘ 입고/출고 시 마일리지 20 차감 됩니다. {nl}ⓘ마일리지는 길드원 로그인, 길드 퀘스트, 콜로니전 참여를 통해서 적립됩니다.	
+UI_20191024_003989	{@st42}Housing{/}	{@st42}하우징{/}				
+UI_20191024_003990	{@st66d}Distribute Contribution Points	{@st66d}기여도 분배				
+UI_20191024_003991	Distributed Contribution Points	분배할 기여도				
+UI_20191024_003992	Remaining Contribution Points	잔여 기여도				
+UI_20191024_003993	My Contribution Points	내 기여도				
+UI_20191024_003994	{@st42b}{s16}Team Name %s	{@st42b}{s16}팀명 %s				
+UI_20191024_003995	{@st42b}{s16}Contribution	{@st42b}{s16}기여도				
+UI_20191024_003996	{@st66b}Distribute	{@st66b}분배				
+UI_20191024_003997	{@st66d}Exchange %s	{@st66d}%s 전환				
+UI_20191024_003998	Guild Mileage	길드 마일리지				
+UI_20191024_003999	Exchange Rate	전환 비율				
+UI_20191024_004000	%s Available for Exchange	전환 가능한 %s				
+UI_20191024_004001	Enter the amount of %s to be exchanged.	전환할 %s를 입력하세요.				
+UI_20191024_004002	%s Cost	소비 %s				
+UI_20191024_004003	%s Remaining	잔여 %s				
+UI_20191024_004004	{@st66b}Exchange	{@st66b}전환				
+UI_20191024_004005	{@st43}{s22}Dismantle Mystic Tome	{@st43}{s22}신비한 서 분해				
+UI_20191024_004006	Dismantle Complete	분해 완료				
+UI_20191024_004007	{@st41b}{s18}Dismantle	{@st41b}{s18}분해 하기				
+UI_20191024_004008	{@st41b}{s18}Confirm	{@st41b}{s18}확인				
+UI_20191024_004009	{@st43}{s22}Craft Mystic Tome	{@st43}{s22}신비한 서 제작				
+UI_20191024_004010	{@st41b}{s18}Goddess' Blessed Gem	{@st41b}{s18}여신의 축복석				
+UI_20191024_004011	{@st41b}{s18}Craft	{@st41b}{s18}제작 하기				
+UI_20191024_004012	{@st43}Exit Edit Mode{/}	{@st43}편집모드 취소{/}				
+UI_20191024_004013	{@st43}{#97f72f}{s20}Install	{@st43}{#97f72f}{s20}설치				
+UI_20191024_004014	{@st43}{#97f72f}{s20}Rotate	{@st43}{#97f72f}{s20}회전				
+UI_20191024_004015	{@st66b}{s18}Uninstall?	{@st66b}{s18}철거 하시겠습니까?				
+UI_20191024_004016	Furniture	가구				
+UI_20191024_004017	{@st66b}{s18}Current Funds: {@st66d_y}%s	{@st66b}{s18}소지 길드 자금 :{@st66d_y}%s				
+UI_20191024_004018	{@st66b}{s18}Remaining Funds: {ol}{s18}{#ec0000}%s	{@st66b}{s18}소비 길드 자금 :{ol}{s18}{#ec0000}%s				
+UI_20191024_004019	{@st66b}{s18}You will no longer be able to use the functions related to the housing item after it is uninstalled and the uninstalled will be returned to the inventory.	{@st66b}{s18}해당 하우징 물품을 철거하면 관련 기능을 이용할 수 없으며, 철거된 물품은 아이템 창으로 이동합니다.				
+UI_20191024_004020	{@st59b}Lab{nl}{@st59s}	{@st59b}연구소{nl}{@st59s}				
+UI_20191024_004021	Lab	연구소				
+UI_20191024_004022	{@st66b}{s18}Upgrade?	{@st66b}{s18}증축 하시겠습니까?				
+UI_20191024_004023	Against Beast-type enemies	야수형 대상 강화				
+UI_20191024_004024	{ol}{ds}{b}{s16}Maximum Skill Research Level %s	{ol}{ds}{b}{s16}스킬 연구 최대 레벨 %s				
+UI_20191024_004025	{@st66b}{s18}Current Funds: {@st66d_y}%s	{@st66b}{s18}소지 길드 자금 : {@st66d_y}%s				
+UI_20191024_004026	{@st66b}{s18}Funds Cost: {ol}{s18}{#ec0000}%s	{@st66b}{s18}소비 길드 자금 : {ol}{s18}{#ec0000}%s				
+UI_20191024_004027	{@st66b}{s18}Current Mileage: {@st66d_y}%s	{@st66b}{s18}소지 길드 마일리지 : {@st66d_y}%s				
+UI_20191024_004028	{@st66b}{s18}Mileage Cost: {ol}{s18}{#ec0000}%s	{@st66b}{s18}소비 길드 마일리지 : {ol}{s18}{#ec0000}%s				
+UI_20191024_004029	{@st43}Housing Shop	{@st43}하우징 상점				
+UI_20191024_004030	{@st59}Close Housing Shop{/}	{@st59}하우징 상점을 닫습니다{/}				
+UI_20191024_004031	{@st66b}Landscaping	{@st66b}조경				
+UI_20191024_004032	{@st66b}Facilities	{@st66b}시설				
+UI_20191024_004033	{@st66b}Employment	{@st66b}계약서				
+UI_20191024_004034	{@st59}Housing{/}	{@st59}하우징{/}				
+UI_20191024_004035	{@st66b}{s18}Type{/}	{@st66b}{s18}종류{/}				
+UI_20191024_004036	{@st59}BGM Player{/}	{@st59}BGM 플레이어{/}				
+UI_20191024_004037	{@st66b}Tab 1	{@st66b}텝1				
+UI_20191024_004038	{@st66b}Tab 2	{@st66b}텝2				
+UI_20191024_004039	{@st43b}{s16}Mission Objectives Only	{@st43b}{s16}미션 목표만 보기				
+UI_20191024_004040	* The attributes that have already been invested in{nl}will be refunded as Attribute Points after the Class Tree change.{nl}(The Arts learned will be reset as well.{nl}Attribute Points will be refunded but Mystic Tomes will not.)	* 계열 변경 전 올린 특성의 레벨은{nl}계열 변경 후 특성 포인트를 돌려드립니다.{nl}(아츠도 초기화 되며, 특성 포인트는 복구되지만,{nl}신비한 서는 복구되지 않습니다.)				
+UI_20191024_004041	* The classes removed due to this change{nl}will have their attributes and skills returned as points.{nl}{#FF1122}Arts are not reset with class change.{nl}Please remember to use a Arts Reset Potion before changing your class.{/}	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.{nl}{#FF1122}클래스 변경으로는 아츠가 초기화 되지 않습니다.{nl}변경 전에 해당 클래스의 아츠 초기화 포션을 먼저{nl}사용하신 후 클래스를 변경하시기 바랍니다.{/}	UI_20190104_003728	* Skills and attributes of deleted{nl}classes will be returned as points.	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.	
+UI_20191024_004042	{@st66b}Maintain Target Skill UI{/}	{@st66b}대상 지정 스킬 UI 유지{/}				
+UI_20191024_004043	{@st66b}Apply Background Effect	{@st66b}환경 이펙트 적용				
+UI_20191024_004044	{@st66b}Apply Character Silhouettes	{@st66b}캐릭터 실루엣 적용				
+UI_20191024_004045	{@st41b}{img icon_button_warning 36 36}Confirm	{@st41b}{img icon_button_warning 36 36}확인				
+UI_20191024_004046	Guild Level Required for Expansion	확장에 필요한 길드 레벨				
+UI_20191024_004047	Guild Funds Required for Expansion	확장에 필요한 길드 자금				
+UI_20191024_004048	Guild Mileage Required for Expansion	확장에 필요한 길드 마일리지				
+UI_20191024_004049	{@st41b}{s18}Lv. 1: %s{/}{/}{/}	{@st41b}{s18}1 단계 : %s{/}{/}{/}				
+UI_20191024_004050	{@st41b}{s18}Lv. 2: %s{/}{/}{/}	{@st41b}{s18}2 단계 : %s{/}{/}{/}				
+UI_20191024_004051	{@st41b}{s18}Lv. 3: %s{/}{/}{/}	{@st41b}{s18}3 단계 : %s{/}{/}{/}				
+UI_20191024_004052	{@st41b}{s18}Lv. 4: %s{/}{/}{/}	{@st41b}{s18}4 단계 : %s{/}{/}{/}				
+UI_20191024_004053	{@st41b}{s18}Lv. 5: %s{/}{/}{/}	{@st41b}{s18}5 단계 : %s{/}{/}{/}				
+UI_20191024_004054	Expand Hangout	아지트 확장				
+UI_20191024_004055	Increases combat efficacy against Humanoids	인간형 대상 강화				
+UI_20191024_004056	{#5e4e3f}{s16}Research weapons that are effective against{nl}Plant-type monsters.	{#5e4e3f}{s16}식물형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.				
+UI_20191024_004057	{#5ae2e7}{@st43}{s16}Damage +0.4% per Buff Level	{#5ae2e7}{@st43}{s16}버프 레벨당 +0.4% 대미지 증가				
+UI_20191024_004058	List	목록				
+UI_20191024_004059	Rotate	회전				
+UI_20191024_004060	{@st42b}{s16}Sell{/}	{@st42b}{s16}판매{/}				
+UI_20191024_004061	Mission	미션 내용				
+UI_20191024_004062	{@st42b}{s14}{#ffffff}Normal	{@st42b}{s14}{#ffffff}노말				
+UI_20191024_004063	{@st42b}{s14}{#0e7fe8}Magic	{@st42b}{s14}{#0e7fe8}매직				
+UI_20191024_004064	{@st42b}{s14}{#d92400}Unique	{@st42b}{s14}{#d92400}유니크				
+UI_20191024_004065	{@st42b}{s14}{#ffa800}Legend	{@st42b}{s14}{#ffa800}레전드				
+UI_20191104_004066	Unlimited Personal Trades	개인 거래 무제한				
+UI_20200129_004067	{@st42}%s {@st42}Item{/}	{@st42}%s {@st42}아이템{/}				
+UI_20200129_004068	Storage	기본 창고				
+UI_20200129_004069	{@st66b}Storage Expansion	{@st66b}기본 창고 확장				
+UI_20200129_004070	{@st59}Expands Basic Storage{/}	{@st59}기본 창고를 확장합니다{/}				
+UI_20200129_004071	Select items to combine	합성할 아이템을 올려주세요				
+UI_20200129_004072	Experience Up	경험치 증가				
+UI_20200129_004073	Level Up	레벨 증가				
+UI_20200129_004074	{@st43}{s22}Combine Ark	{@st43}{s22}아크 합성				
+UI_20200129_004075	{@st59b}Combine Ark{@st59s}{nl}- Select Ark to add EXP or Level	{@st59b}아크 합성{@st59s}{nl}- 경험치 증가 또는 레벨 증가 할 아크를 등록				
+UI_20200129_004076	{@st43}{s20}Combine	{@st43}{s20}합성				
+UI_20200129_004077	{img icon_item_silver 24 24} {@st41b}%s Cost{/}	{img icon_item_silver 24 24} {@st41b}%s 비용{/}				
+UI_20200129_004078	{img icon_item_silver 24 24} {@st41b}Estimated Balance{/}	{img icon_item_silver 24 24} {@st41b}예상 잔액{/}				
+UI_20200129_004079	Place an Ark to transfer.	이전할 아이템을 올려주세요				
+UI_20200129_004080	{@st59b}Ark Transfer@st59s}{nl}- Place an Ark to transfer{nl} - Place an Ark to receive	{@st59b}아크 이전{@st59s}{nl}- 이전 할 아크 등록 {nl} - 이전 받을 아크 등록				
+UI_20200129_004081	Transfer	이전				
+UI_20200129_004082	Place an item to transfer the stats.	옵션을 이전할 아이템을 올려주세요				
+UI_20200129_004083	{img icon_item_silver 24 24} {@st41b}Transfer Cost{/}%s	{img icon_item_silver 24 24} {@st41b}이전 비용{/}%s				
+UI_20200129_004084	{@st43}Barber Shop - Skin	{@st43}바버샵 - 스킨				
+UI_20200129_004085	{@st59}Skin{/}	{@st59}스킨{/}				
+UI_20200129_004086	{@st66}- Skin Coupons	{@st66}-스킨 쿠폰				
+UI_20200129_004087	{@st43}{s22}Goddess' Blessing	{@st43}{s22}여신의 축복				
+UI_20200129_004088	{@st43}{s20}Confirm	{@st43}{s20}확인				
+UI_20200129_004089	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl} - Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Daily Quest: 10 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 일일 퀘스트: 10 포인트	UI_20190104_003600	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl}- Saalus Convent Mission: 15 points{nl}- Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Mercenary Post Mission: 10 points{nl}- Daily Quest: 10 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 살러스 수녀원 미션: 15 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 의뢰소 미션: 10 포인트{nl}- 일일 퀘스트: 10 포인트	
+UI_20200129_004090	{s18}Contents	{s18}내용				
+UI_20200129_004091	{@st66}Foods are only offered to the host and host’s party members.	{@st66}배식 테이블의 음식은 기본적으로 나와 나의 파티원에게 제공됩니다.				
+UI_20200129_004092	{@s18}Hangout Level{/}	{@s18}아지트 레벨{/}				
+UI_20200129_004093	{@st41}Preview	{@st41}미리보기				
+UI_20200129_004094	{@st43}%s F{/}	{@st43}%s층{/}				
+UI_20200129_004095	{@st43}Function{/}	{@st43}기능{/}				
+UI_20200129_004096	{@st41}Exit Edit Mode{/}	{@st41}편집모드 취소{/}				
+UI_20200129_004097	{@st41}Up/Downstairs{/}	{@st41}위층, 아래층 이동{/}				
+UI_20200129_004098	{@st42b}Dismantle All{/}	{@st42b}모두 철거하기{/}				
+UI_20200129_004099	{@st42b}See Background{/}	{@st42b}배경 변경{/}				
+UI_20200129_004100	{@st42b}Open Page{/}	{@st42b}페이지 열기{/}				
+UI_20200129_004101	{@43b}{s22}See Background{/}{/}	{@43b}{s22}배경 변경{/}{/}				
+UI_20200129_004102	{@43b}{s22}Page{/}{/}	{@43b}{s22}페이지{/}{/}				
+UI_20200129_004103	{@43b}{s22}Load Page{/}{/}	{@43b}{s22}페이지 불러오기{/}{/}				
+UI_20200129_004104	{@st66b}{s18}The housing item does not exist.{nl}{nl}Cannot load the page.	{@st66b}{s18}다음의 하우징 물품이 존재하지 않아{nl}{nl}페이지를 불러올 수 없습니다.				
+UI_20200129_004105	{@st66b}{s18}List	{@st66b}{s18}목록				
+UI_20200129_004106	{@st66b}{s18}Please check if there are housing items{nl}{nl}placed or stored in the following places.{nl}{nl}1. Housing item area{nl}{nl}2. Inventory	{@st66b}{s18}다음의 경로에 하우징 물품이 배치되어 있거나,{nl}{nl}존재하는지 확인해 주세요.{nl}{nl}1. 하우징 배치 구역{nl}{nl}2. 인벤토리				
+UI_20200129_004107	{@st66b}{s18}The following housing items will be dismantled when loading the page.	{@st66b}{s18}페이지를 불러올 경우, 현재 배치된 하우징 물품 중 다음의 물품들이 철거됩니다.				
+UI_20200129_004108	{@st66b}{s18}Proceed with teardown and load the page?	{@st66b}{s18}철거를 진행하고 페이지를 불러오시겠습니까?				
+UI_20200129_004109	{@st43}Preview Controls{/}	{@st43}미리보기 조작키{/}				
+UI_20200129_004110	{@st41}Leave{/}	{@st41}나가기{/}				
+UI_20200129_004111	{@st41}Move Screen{/}	{@st41}화면 이동{/}				
+UI_20200129_004112	{@st41}View Height{/}	{@st41}상하 이동{/}				
+UI_20200129_004113	Available only in Instanced Dungeon.	인던에만 사용 가능합니다.	UI_20170313_002550	Can only be used in instanced dungeons and mercenary missions.	인던과 의뢰소 미션에만 사용 가능합니다.	
+UI_20200129_004114	* Additional damage buff granted on a group with 4 or less saviors.{nl}* 50% increase in damage per savior and 200% increase for solo entry.{/}	* 5인 미만인 경우 추가 대미지 버프가 제공됩니다.{nl}* 5인 미만인 경우 1명당 50%씩 증가하여, 1인으로 진행하는 경우 대미지가 200%증가합니다.				
+UI_20200129_004115	{@st59}Ark{/}	{@st59}아크{/}				
+UI_20200129_004116	Equipment	기본 획득				
+UI_20200129_004117	Transcendence Bonus	초월 장비 보너스				
+UI_20200129_004118	Total	총 획득				
+UI_20200129_004119	Enchant	인챈트				
+UI_20200129_004120	{@st43}Item %s Transfer	{@st43}아이템 %s 이전				
+UI_20200129_004121	{@st41b}{s18}%s Transfer	{@st41b}{s18}%s 이전				
+UI_20200129_004122	{@st43b}{s18}Transfer Stats	{@st43b}{s18}이전 옵션				
+UI_20200129_004123	Sandra's Detailed Magnifier	산드라의 미세 감정 돋보기				
+UI_20200129_004124	{@st66}{s18}Consumes Sandra's Detailed Magnifier x%s.	{@st66}{s18}산드라의 미세 감정 돋보기 %s개가 소비됩니다.				
+UI_20200129_004125	Sandra's Magnifier	산드라의 감정 돋보기				
+UI_20200129_004126	{@st66}{s18}Consumes Sandra's Magnifier x%s.	{@st66}{s18}산드라의 감정 돋보기 %s개가 소비됩니다.				
+UI_20200129_004127	{@st66b18}Market Retrieve Tab	{@st66b18}수령함				
+UI_20200129_004128	{@st66d_y}{s16}Goddess' Blessing	{@st66d_y}{s16}여신의 축복				
+UI_20200129_004129	{@st41b}Leave{/}	{@st41b}나가기{/}				
+UI_20200129_004130	{@st43}Message Box(%s/%s)	{@st43}메시지함(%s/%s)				
+UI_20200129_004131	{@st66}Tip. Scroll down to load more data.	{@st66}TIP. 스크롤을 내리면 남은 목록을 요청합니다.				
+UI_20200129_004132	{@st66}     Tip 1. Episode Rewards are obtainable once per team.                                      {nl}     Tip 2. All subquests unlock for other characters{nl}                  upon claiming rewards for Episode 10.	{@st66}TIP 1. 에피소드 보상은 팀당 1회만 받을 수 있습니다.                                      {nl}TIP 2. 에피소드 10 클리어 보상 획득 시,{nl}             모든 캐릭터의 서브 퀘스트가 개방됩니다.				
+UI_20200129_004133	{@st66b}Episode{/}	{@st66b}에피소드{/}				
+UI_20200129_004134	{@st66b}Quest List{/}	{@st66b}퀘스트 목록{/}	UI_20190611_003859	{@st66b}  Quest List  {/}	{@st66b}  퀘스트 목록  {/}	
+UI_20200129_004135	{@st66b}Complete{/}	{@st66b}완료{/}	UI_20190611_003860	{@st66b}  Complete  {/}	{@st66b}  완료  {/}	
+UI_20200129_004136	{@st43}{s22}Episode Rewards{/}	{@st43}{s22}에피소드 보상{/}				
+UI_20200129_004137	{@st59}Close Episode Rewards info.{/}	{@st59}에피소드 보상 정보를 닫습니다.{/}				
+UI_20200129_004138	Episode Rewards	에피소드 클리어 보상				
+UI_20200129_004139	Episode	에피소드				
+UI_20200129_004140	Name of Episode	에피소드 이름				
+UI_20200129_004141	{@st41b}Anvil to Use	{@st41b}대상 모루				
+UI_20200129_004142	{@st42b}None	{@st42b}없음	ETC_20150317_002003	None	없음	
+UI_20200129_004143	{@st42}Character Speech Bubble	{@st42}캐릭터 말풍선				
+UI_20200129_004144	Emergency Quest	돌발 퀘스트				
+UI_20200129_004145	Change to Minimization Mode.	최소화 모드로 전환합니다.				
+UI_20200129_004146	Cancel current Emergency Quest.	돌발 퀘스트를 취소합니다.				
+UI_20200129_004147	{img test_cooltime 20 20}{@st43}{s16}Time Limited - %s	{img test_cooltime 20 20}{@st43}{s16}제한시간 - %s				
+UI_20200129_004148	{@st66b}Enable Effect Sharpness Adjustment	{@st66b}이펙트 선명도 조절 사용				
+UI_20200129_004149	{@st66b}Hide letter effects	{@st66b}글자 이펙트 보이지 않기				
+UI_20200129_004150	{@st66b}My Character Effect Sharpness(%s){/}	{@st66b}내 캐릭터 이펙트 선명도(%s){/}				
+UI_20200129_004151	{@st66b}Other Characters' Effect Sharpness(%s){/}	{@st66b}다른 캐릭터 이펙트 선명도(%s){/}				
+UI_20200129_004152	{@st66b}Boss Monster Effect Sharpness(%s){/}	{@st66b}보스 몬스터 이펙트 선명도(%s){/}				
+UI_20200129_004153	{@st42b}{ds}{s18}Show all map{/}	{@st42b}{ds}{s18}모든 맵 표시{/}	UI_20180517_003189	{@st66w}Show all tabs{/}	{@st66w}모든 맵 표시{/}	
+UI_20200129_004154	{@st42b}{ds}{s18}{#FF5E00}See all Goddess Statues{/}	{@st42b}{ds}{s18}{#FF5E00}미확인 여신상 표시{/}				
+UI_20200129_004155	{@st59}Shortcut{/}	{@st59}바로가기{/}				
+UI_20200129_004156	{@st59}Complete{/}	{@st59}완료{/}				
+UI_20200129_004157	{@42b}{s20}Page %s{/}{/}	{@42b}{s20}%s번 페이지{/}{/}				
+UI_20200129_004158	{@st59}Enter title{/}	{@st59}타이틀을 입력해주세요{/}				
+UI_20200129_004159	{@st59}Preview{nl}Reset by leaving edit mode or pressing Preview button.	{@st59}미리보기{nl}미리보기 버튼을 한번 더 누르거나{nl}편집 모드를 종료하시면 원래 상태로 돌아갑니다.				
+UI_20200129_004160	{@st59}Delete	{@st59}삭제				
+UI_20200129_004161	{@st42b}Save{/}	{@st42b}저장하기{/}				
+UI_20200129_004162	{@st42b}Load{/}	{@st42b}불러오기{/}				
+UI_20200129_004163	Team Storage +30, activate additional storage	팀 창고 +30칸 증가, 추가 창고 활성화				
+UI_20200206_004164	Coins Collected	코인 획득 현황				
+UI_20200206_004165	List of Stamp Tour Missions	스탬프 투어 미션 목록				
+UI_20200206_004166	List of Content Missions	콘텐츠 미션 목록				
+UI_20200206_004167	{@st43b}{s22}Goddess’ Roulette Coins	{@st43b}{s22}여신의 룰렛 코인				
+UI_20200206_004168	{@st66b}{s18}Acquisition State	{@st66b}{s18}획득 현황				
+UI_20200206_004169	{@st66b}{s18}Stamps	{@st66b}{s18}스탬프				
+UI_20200206_004170	{@st66b}{s18}Contents	{@st66b}{s18}콘텐츠				
+UI_20200206_004171	Tab Title	탭 제목				
+UI_20200206_004172	Instructions	안내 내용				
+UI_20200206_004173	{@st66d_y}{s16}Goddess’ Roulette Coins	{@st66d_y}{s16}여신의 룰렛 코인				
+UI_20200207_004174	Stamp Diary	스탬프 수첩				
+UI_20200218_004175	Refresh	판매목록 갱신				
+UI_20200320_004176	{@st43}{s16}Skill Damage{/}	{@st43}{s16}스킬 대미지{/}				
+UI_20200320_004177	{@st43}{s16}Total Amount of Damage{/}	{@st43}{s16}총 대미지{/}				
+UI_20200320_004178	{@st42b}{ds}{s14}Time Remaining{/}	{@st42b}{ds}{s14}남은 시간{/}				
+UI_20200320_004179	{@st42b}View ones with Exchange Count left{/}	{@st42b}교환 횟수가 남은 것만 보기{/}				
+UI_20200320_004180	{@st42b}Open Shop	{@st42b}상점 열기				
+UI_20200320_004181	{nl}Shows the location and remaining entries of each contents.	{nl}각 콘텐츠의 입장 위치 및 횟수를 확인할 수 있습니다.	UI_20170726_002675	{nl}Daily entries are counted differently for each kind of dungeon. 	{nl}각 던전은 카테고리별로 입장 횟수가 카운트 됩니다. 	
+UI_20200320_004182	{@st43}Contents Status Board{/}	{@st43}콘텐츠 현황판{/}	UI_20170726_002677	{@st43}Instanced Dungeons{/}	{@st43}인스턴스 던전{/}	
+UI_20200320_004183	{@st66b}Weekly Boss Raid	{@st66b}주간 보스 레이드				
+UI_20200320_004184	Swordsman Type	소드맨 계열				
+UI_20200320_004185	Wizard Type	위자드 계열				
+UI_20200320_004186	Scout Type	스카우트 계열				
+UI_20200320_004187	{@st66b}{s16}Ranking	{@st66b}{s16}순위				
+UI_20200320_004188	{@st66b}{s16}Team	{@st66b}{s16}팀명				
+UI_20200320_004189	{@st66b}{s16}Max. Damage in 1 try	{@st66b}{s16}1회 최고 대미지				
+UI_20200320_004190	Displays Weekly Pattern Information	주간 패턴 정보를 표시합니다.				
+UI_20200320_004191	Combat Information	전투 정보				
+UI_20200320_004192	{@st66b}{s16}Type Rank Reward	{@st66b}{s16}계열 순위 보상				
+UI_20200320_004193	{@st66b}{s16} Total Damage Reward	{@st66b}{s16}누적 대미지 보상				
+UI_20200320_004194	{s16}{ol}{#FFFFFF}Enter(%s/%s)	{s16}{ol}{#FFFFFF}입장하기(%s/%s)				
+UI_20200320_004195	{s16}{ol}{#FFFFFF}Practice Mode	{s16}{ol}{#FFFFFF}연습모드				
+UI_20200320_004196	Achievement Rate 	달성률	UI_20171128_002946	Achievement Rate	인던 달성률	
+UI_20200320_004197	{img monsterbtn_image 29 28}{@st66b}{s14}  Card Album{/}	{img monsterbtn_image 29 28}{@st66b}{s16}  카드첩{/}	UI_20170912_002879	{img monsterbtn_image 29 28}{@st66b}{s16}Monster Cards{/}	{img monsterbtn_image 29 28}{@st66b}{s16}몬스터 카드{/}	
+UI_20200320_004198	{@st59}Open Card Album{/}	{@st59}카드첩을 엽니다{/}	UI_20170912_002880	{@st59}Open Monster Cards Window{/}	{@st59}몬스터 카드창을 엽니다{/}	
+UI_20200320_004199	Sandra's Perfect Magnifier	산드라의 완벽한 돋보기				
+UI_20200320_004200	{@st66}{s18}Consume %s Sandra's Perfect Magnifier.	{@st66}{s18}산드라의 완벽한 돋보기 %s개가 소비됩니다.				
+UI_20200320_004201	Sandra's Ultimate Magnifier	산드라의 궁극의 돋보기				
+UI_20200320_004202	{@st66}{s18}Consume %s Sandra's Ultimate Magnifier.	{@st66}{s18}산드라의 궁극의 돋보기 %s개가 소비됩니다.				
+UI_20200320_004203	{@st59}Show Card Album Apply Option{/}	{@st59}카드첩 적용 옵션을 봅니다{/}	UI_20180208_003004	{@st59}Show Monster Card Apply Option{/}	{@st59}몬스터 카드 적용 옵션을 봅니다{/}	
+UI_20200320_004204	{@st43}Equip Card Album Cards{/}	{@st43}카드첩 카드 장착{/}	UI_20170912_002885	{@st43}Equip Monster Cards{/}	{@st43}몬스터 카드 장착{/}	
+UI_20200320_004205	{@st59}Close{/}	{@st59}카드첩 카드 장착 UI를 닫습니다{/}				
+UI_20200320_004206	{@st43}Reward List{/}	{@st43}보상 리스트{/}				
+UI_20200320_004207	{s16}{ol}{#FFFFFF}Recieve Reward	{s16}{ol}{#FFFFFF}보상 받기				
+UI_20200320_004208	{s16}{ol}{#FFFFFF}Check	{s16}{ol}{#FFFFFF}확인				
+UI_20200320_004209	{@st59}Contents Status Board(F10){/}	{@st59}콘텐츠 현황판(F10){/}	UI_20170726_002699	{@st59}Dungeon Info (F10){/}	{@st59}던전 정보(F10){/}	
+UI_20200320_004210	{@st66b}Use Daylight	{@st66b}데이라이트 적용				
+UI_20200320_004211	{@st66b}See Motion Emoticon in chat	{@st66b}채팅창 모션 이모티콘 켜기				
+UI_20200320_004212	{@st43b}{s20}Weekly Pattern Information	{@st43b}{s20}주간 패턴 정보				
+UI_20200320_004213	{@st59}Close{/}	{@st59}주간 패턴 정보 창을 닫습니다{/}				
+UI_20200320_004214	{@st43}{s18}Rank %s	{@st43}{s18}%s위				
+UI_20200320_004215	{@st43}{s18}Rank %s ~ Rank %s	{@st43}{s18}%s위 ~ %s위				
+UI_20200320_004216	{@st43}{s22}Reward List	{@st43}{s22}보상 목록				
+UI_20200320_004217	{s16}{ol}{#FFFFFF}Retrieve All	{s16}{ol}{#FFFFFF}모두 받기				
+UI_20200320_004218	Change Item Property	아이템 프로퍼티 변경				
+UI_20200320_004219	Property	프로퍼티				
+UI_20200320_004220	Present Value	현재 값				
+UI_20200320_004221	Changed Value	변경 값				
+UI_20200320_004222	{@st59}Close{/}	{@st59}아이템 프로퍼티 변경 UI를 닫습니다{/}				
+UI_20200320_004223	{@st42}Change	{@st42}변 경				
+UI_20200320_004224	{@st43}Cheat : Item Property{/}	{@st43}치트 : 아이템 프로퍼티{/}				
+UI_20200320_004225	{@st41b}Transcend{/}	{@st41b}초월{/}				
+UI_20200320_004226	{@st41b}Enhance{/}	{@st41b}강화{/}				
+UI_20200320_004227	{@st41b}Level{/}	{@st41b}레벨{/}				
+UI_20200320_004228	{@st41b}Slot	{@st41b}슬롯				
+UI_20200320_004229	{@st41b}Red	{@st41b}레드				
+UI_20200320_004230	{@st41b}Blue	{@st41b}블루				
+UI_20200320_004231	{@st41b}Yellow	{@st41b}옐로				
+UI_20200320_004232	{@st41b}Green	{@st41b}그린				
+UI_20200320_004233	{@st43}Cheat : Random Option{/}	{@st43}치트 : 랜덤 옵션{/}				
+UI_20200320_004234	Option 1	1번 옵션				
+UI_20200320_004235	Option 2	2번 옵션				
+UI_20200320_004236	Option 3	3번 옵션				
+UI_20200320_004237	Option 4	4번 옵션				
+UI_20200320_004238	Option 5	5번 옵션				
+UI_20200320_004239	Option 6	6번 옵션				
+UI_20200320_004240	Batch change to Option 1	1번 옵션으로 일괄 변경합니다				
+UI_20200320_004241	{@st43}Cheat : Fixed Ichor{/}	{@st43}치트 : 고정 아이커{/}				
+UI_20200320_004242	Select Set	세트 선택				
+UI_20200320_004243	Select Item	아이템 선택				
+UI_20200320_004244	Selected Option	선택 옵션				
+UI_20200320_004245	Existing Option	기존 옵션				
+UI_20200320_004246	Cannot Enchant	인챈트 불가				
+UI_20200320_004247	Type Rank	계열 등수				
+UI_20200320_004248	{@st43}{s14}{ol}{ds}Rank %s (Top %s%)	{@st43}{s14}{ol}{ds}%s위 (상위 %s%)				
+UI_20200320_004249	Best Try Score	도전 1회 최고 점수				
+UI_20200320_004250	Accumulated Damage	누적 대미지				
+UI_20200320_004251	{@st43}{s18}{ol}{ds}Rank %s	{@st43}{s18}{ol}{ds}%s위				
+UI_20200320_004252	{@st66b}{s16}Fire Wall	{@st66b}{s16}불장벽				
+UI_20200429_004253	{@st42b}{ol}{s20}Spin the Roulette (%s/%s)	{@st42b}{ol}{s20}룰렛 돌리기 (%s/%s)				
+UI_20200429_004254	Requires 10 Goddess' Roulette Coins.	10개의 코인이 소모됩니다.				
+UI_20200429_004255	Check the Rewards List	획득 가능한 아이템 확인하기				
+UI_20200429_004256	{@st43b}{s22}Available Items from the Goddess' Roulette	{@st43b}{s22}여신의 룰렛 획득 가능 아이템				
+UI_20200429_004257	{@st66b}{s16}* Available items will be changed as the accumulated number of the spin increases.	{@st66b}{s16}* 누적 이용 횟수에 따라 획득 가능 아이템 등급이 바뀝니다.				
+UI_20200514_004258	Apply Filter	필터 적용				
+UI_20200514_004259	{@st59}Close Assister UI{/}	{@st59}어시스터 UI를 닫습니다{/}				
+UI_20200514_004260	{@st43}{s22}Assister Cabinet{/}	{@st43}{s22}어시스터 보관함{/}				
+UI_20200514_004261	{@st59b}Assister Info{nl}{@st59s} - You can view the Assisters in your possession in the Assister Info tab.{nl} - The Assisters that you want to use must be registered in the main slot, which can be done by moving the Assisters from the list at the bottom by holding and dragging the right-click button.{nl} - All Assisters possess a Grade and a Potential.{nl}[Grade]{nl} - Displays the Assister's power level.{nl} - Grades are divided into Normal, Magic, Unique and Legend which affects how an Assister performs in battle.{nl}[Evolution Grade]{nl} - All Assisters can be evolved a maximum of two times. An evolution increases the number of skills available and the Assister's stats.{nl} - All Assisters begin with a 1 Star Evolution Grade and can be evolved to 3 Stars maximum.{/}{nl}{@st59b}Fusion{nl}{@st59s} - You can fuse 3 as of identical Grade to obtain a random Assister of the same Grade.{nl} - There is also a 5% chance to obtain an Assister of a higher grade by fusing the Assisters.{/}{nl}{@st59b}Evolution{nl}{@st59s} - You can use 3 identical Assisters to evolve your Assister.{nl} - Evolution only works when using 3 identical Assisters of the same Evolution Grade and will result in 1 identical Assister with a +1 Evolution Grade.{nl} - The resulting Assister's level will be identical to that of the Assister with the highest level.{/}	{@st59b}어시스터 정보{nl}{@st59s} - 보유 중인 어시스터를 어시스터 정보 탭을 통해 확인할 수 있습니다.{nl} - 사용할 어시스터는 상단의 메인 슬롯에 등록을 해야 하며, 하단의 어시스터 목록에서 우 클릭하여 옮길수 있습니다.{nl} - 어시스터는 진화 등급과 등급의 속성을 가지고 있습니다.{nl} [등급]{nl}   - 어시스터 고유의 성능 등급을 나타냅니다.{nl}   - 등급은 노말/매직/유니크/레전드로 구별되며, 등급에 따라 어시스터 성능에 차등이 있습니다.{nl} [진화 등급]{nl}   - 모든 어시스터는 두 번의 진화가 가능하며, 진화 시 사용 스킬 개수와 스탯이 증가합니다.{nl}   - 모든 어시스터는 최초 1성으로 시작하며, 3성까지 진화가 가능합니다.{/}{nl}{@st59b}합성{nl}{@st59s} - 동일한 등급의 어시스터 3개를 소모하여 동일한 등급의 랜덤한 어시스터를 획득할 수 있습니다.{nl} - 5% 확률로 1단계 높은 등급의 어시스터를 획득할 수 있습니다.{/}{nl}{@st59b}진화{nl}{@st59s} - 동일한 어시스터 3개를 소모하여 어시스터를 진화시킬 수 있습니다.{nl} - 진화는 동일한 진화 등급의 어시스터로만 가능하며, 진화 시 1단계 높은 진화 등급의 어시스터를 획득합니다.{nl} - 진화 시 3개의 어시스터 중 가장 높은 어시스터의 레벨로 등장합니다.{/}				
+UI_20200514_004262	{@st59}Close Assister Cabinet{/}	{@st59}어시스터 보관함을 닫습니다{/}				
+UI_20200514_004263	{@st66b}{s16}Assister Info{/}	{@st66b}{s16}어시스터 정보{/}				
+UI_20200514_004264	{@st42b}{s18}Passive	{@st42b}{s18}패시브 효과				
+UI_20200514_004265	{@st42b}{s18}Cost: %s/%s	{@st42b}{s18}코스트: %s/%s				
+UI_20200514_004266	{@st59}Arrange Assister list.{/}	{@st59}어시스터 리스트를 정렬합니다.{/}				
+UI_20200514_004267	{@st59}Assister Card Album{/}	{@st59}어시스터 카드첩{/}				
+UI_20200514_004268	{@st42b}{s18}Assister: %s/%s	{@st42b}{s18}보유 수: %s/%s				
+UI_20200514_004269	{@st42}{#7AE4FF}Current Arts{/}{/}	{@st42}{#7AE4FF}보유중인 아츠{/}{/}				
+UI_20200514_004270	{@st43b}{s20}Companion List 	{@st43b}{s20}컴패니언 목록				
+UI_20200514_004271	- By Login : Organize according to the most recent login order.{nl}- By Latest : Organize according to most recently added or modified friend order.{nl}- By Team Name : Organize team name in ABC order.	- 접속순 : 가장 최근 접속한 순서로 정렬합니다.{nl}- 최신순 : 가장 최근에 추가, 수정한 친구 순서로 정렬합니다.{nl}- 팀명순 : 팀명을 가나다순으로 정렬합니다.				
+UI_20200514_004272	{@st43b}{s22}Goddess' Roulette	{@st43b}{s22}여신의 룰렛				
+UI_20200514_004273	{@st42b}{s24}You have acquired the amount for today.{nl}Daily amount will be reset the following day at  6 AM EST	{@st42b}{s24}일일 획득량을 모두 획득하셨습니다.{nl}다음날 오전 06시에 초기화 됩니다.				
+UI_20200514_004274	[Converting Contribution to Guild Mileage]{nl}- Conversion ratio of 1 (Guild Contribution) : 1 (Guild Mileage).{nl} {nl}[Converting Guild Mileage to Contribution]{nl}- Conversion Ratio of 10 (Guild Mileage) : 1 (Guild Contribution){nl}- This feature can only be used by the Guild Master.{nl} {nl}[Distributing Contribution to Members]{nl}- Distribution ratio of 1 (My Contribution): 1 (Member Contribution){nl}- This feature can only be used by the Guild Master.	[내 기여도를 길드 마일리지로 전환]{nl}- 1(길드 기여도) : 1(길드 마일리지)의 비율로 기여도가 길드 마일리지로 전환됩니다.{nl} {nl}[길드 마일리지를 기여도로 전환]{nl}- 10(길드 마일리지) : 1(길드 기여도)의 비율로 길드 마일리지가 기여도로 전환됩니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드원에게 기여도 분배]{nl}- 1(내 기여도) : 1(길드원 기여도)의 비율로 기여도를 길드원에게 분배할 수 있습니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드 기여도 획득 방법 및 점수]{nl}- 길드 콜로니전 참여 : 200{nl}- 길드 퀘스트 참여 : 30{nl}- 길드 성장 : 탈트, 길드 퀘스트 보상 주화 등을 통해 성장에 기여한 수치에 따라 다름{nl}- 길드 자금 입금 : 5,000 실버당 기여도 1 획득{nl}- 길드 아지트 레이드 참여 : 길드 레벨과 공헌 등급에 따라 다르며 최대 120까지 획득 가능	UI_20191024_003972	[Converting Contribution to Guild Mileage]{nl}- Conversion ratio of 1 (Guild Contribution) : 1 (Guild Mileage).{nl} {nl}[Converting Guild Mileage to Contribution]{nl}- Conversion Ratio of 10 (Guild Mileage) : 1 (Guild Contribution){nl}- This feature can only be used by the Guild Master.{nl} {nl}[Distributing Contribution to Members]{nl}- Distribution ratio of 1 (My Contribution): 1 (Member Contribution){nl}- This feature can only be used by the Guild Master.	[내 기여도를 길드 마일리지로 전환]{nl}- 1(길드 기여도) : 1(길드 마일리지)의 비율로 기여도가 길드 마일리지로 전환됩니다.{nl} {nl}[길드 마일리지를 기여도로 전환]{nl}- 10(길드 마일리지) : 1(길드 기여도)의 비율로 길드 마일리지가 기여도로 전환됩니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드원에게 기여도 분배]{nl}- 1(내 기여도) : 1(길드원 기여도)의 비율로 기여도를 길드원에게 분배할 수 있습니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.	
+UI_20200514_004275	{@st42b}Empty{/}	{@st42b}비우기{/}				
+UI_20200514_004276	{@st42b}Furniture Shop	{@st42b}가구 상점				
+UI_20200514_004277	{@st42b}Change Page{/}	{@st42b}페이지 변경{/}				
+UI_20200514_004278	Install	설치				
+UI_20200514_004279	{@st43b}{s26}Private Housing Board	{@st43b}{s26}개인 하우징 게시판				
+UI_20200514_004280	Refresh	새로고침				
+UI_20200514_004281	House Recommended	추천 하우스				
+UI_20200514_004282	House of Friend	친구의 하우스				
+UI_20200514_004283	House of Guild Member	길드원의 하우스				
+UI_20200514_004284	My House	마이 하우스				
+UI_20200514_004285	Search by Team Name 	팀명으로 검색해 보세요				
+UI_20200514_004286	Post Title	게시글 제목				
+UI_20200514_004287	Team Name of Author	작성자 팀 이름				
+UI_20200514_004288	{@st41b}{s16}Move to Housing	{@st41b}{s16}하우징으로 이동				
+UI_20200514_004289	Edit Post	게시글을 편집합니다				
+UI_20200514_004290	Edit	편집				
+UI_20200514_004291	{@st43b}{s20}Social Info	{@st43b}{s20}소셜 정보				
+UI_20200514_004292	{@st42b}{s18}{ds}Accumulated Visitors : %s	{@st42b}{s18}{ds}누적 방문자 : %s				
+UI_20200514_004293	{@st42b}{s18}{ds}Visitors Today : %s	{@st42b}{s18}{ds}금일 방문자 : %s				
+UI_20200514_004294	{@st42b}{s18}{ds}Like : %s	{@st42b}{s18}{ds}좋아요 : %s				
+UI_20200514_004295	{@st42b}{s18}{ds}Message : %s	{@st42b}{s18}{ds}한줄 메세지 : %s				
+UI_20200514_004296	{@st43b}{s20}Option: Open private housing to public	{@st43b}{s20}개인 하우징 공개 옵션				
+UI_20200514_004297	{@st43b}{s20}Point Info	{@st43b}{s20}포인트 정보				
+UI_20200514_004298	{@st42b}{s18}{ds}Private Housing : Grade %s 	{@st42b}{s18}{ds}개인 하우징 : %s단계				
+UI_20200514_004299	{@st42b}{s18}{ds}Placement Point: %s	{@st42b}{s18}{ds}배치 포인트 : %s				
+UI_20200514_004300	{@st42b}{s18}{ds}Private Housing Point : %s	{@st42b}{s18}{ds}개인 하우징 포인트 : %s				
+UI_20200514_004301	{@st43b}{s26}Edit Post	{@st43b}{s26}게시글 편집				
+UI_20200514_004302	{@st43b}{s22}Title	{@st43b}{s22}제목				
+UI_20200514_004303	Please enter title	제목을 입력하세요				
+UI_20200514_004304	{@st43b}{s22}Thumbnail Preview{/}	{@st43b}{s22}썸네일 미리보기{/}				
+UI_20200514_004305	ⓘ PNG(24bit/32bit) files of %s size can be uploaded.{nl}ⓘ Only files in English or numbers can be uploaded. {nl}ⓘ Controversial Images can be restricted.{nl}ⓘ Upload Thumbnails by uploading files or Flim.	ⓘ %s 크기의 PNG(24bit/32bit)파일만 등록 가능합니다.{nl}ⓘ 파일 이름이 영문과 숫자로 이루어진 파일만 등록 가능합니다.{nl}ⓘ 문제 있는 이미지 사용 시 제재가 있을 수 있습니다.{nl}ⓘ 썸네일은 직접 파일을 등록하거나 촬영하기를 통해 등록 가능합니다.				
+UI_20200514_004306	{@st41b}{s16}{ol}Film	{@st41b}{s16}{ol}촬영하기				
+UI_20200514_004307	{@st41b}{s16}{ol}Import	{@st41b}{s16}{ol}불러오기				
+UI_20200514_004308	{@st43b}{s22}Message	{@st43b}{s22}한줄 메세지				
+UI_20200514_004309	Please enter content	내용을 입력하세요				
+UI_20200514_004310	ⓘ Private Housing Board can only be modified or posted a maximum of 5 times per day.  (Reset : 00:00 AM EST)	ⓘ 개인 하우징 게시판은 1일 최대 5회 수정 및 등록할 수 있습니다. (초기화 : 00시)				
+UI_20200514_004311	{@st41b}{s16}{ol}Write	{@st41b}{s16}{ol}작성하기				
+UI_20200514_004312	{@st66b}Contents Ranking	{@st66b}콘텐츠 랭킹				
+UI_20200514_004313	{@st66b}{s16}Clear Time	{@st66b}{s16}클리어 시간				
+UI_20200514_004314	{@st66b}{s16}Guild Name	{@st66b}{s16}길드 명				
+UI_20200514_004315	{@st66b}{s16}Party Member Name	{@st66b}{s16}파티원 명				
+UI_20200514_004316	Slot	슬롯				
+UI_20200514_004317	{@st66}{s18}%s %s will be used.	{@st66}{s18}%s %s개가 소비됩니다.				
+UI_20200514_004318	Craft Ark	아크 제작				
+UI_20200514_004319	Craft Special Ingredient	특수 재료 제작				
+UI_20200514_004320	Place the item to convert	전환할 아이템을 올려주세요				
+UI_20200514_004321	{@st43}Convert Legend Ingredients	{@st43}레전드 재료 전환				
+UI_20200514_004322	Convert	전환				
+UI_20200514_004323	{@st59b}Enter image{nl}{@st59s}- Browse for an image and register it{nl}- Refresh to update the list, then select the image{nl}-Maximum 10 images can be shown.	{@st59b}이미지 등록{nl}{@st59s}-폴더 열기 버튼을 통해 폴더에 이미지를 등록{nl}-새로고침을 통해 리스트를 갱신, 선택 후 확인{nl}-최대 10개의 이미지만 표시됩니다.	UI_20170912_002801	{@st59b}Enter image{nl}{@st59s}- Browse for an image and register it{nl}- Refresh to update the list, then select the image	{@st59b}이미지 등록{nl}{@st59s}-폴더 열기 버튼을 통해 폴더에 이미지를 등록{nl}-새로고침을 통해 리스트를 갱신, 선택 후 확인	
+UI_20200514_004324	{@st66d_y}{s16}Goddess' Roulette	{@st66d_y}{s16}여신의 룰렛	UI_20200206_004173	{@st66d_y}{s16}Goddess’ Roulette Coins	{@st66d_y}{s16}여신의 룰렛 코인	
+UI_20200514_004325	{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized.{nl} - Companions in lodge can be summoned and unsummoned by the Companion List button{nl} - Does not apply to Flying-type Companions in the Companion List{nl} - When entering the lodge after summoning companions from the lodge of other number, you become no longer accompanied by the companion{nl} - When the companion icon is in the quick slot, only companion summon is possible (Unsummon in the Companion Info UI){nl} - Unsummon ground-type companions with Shift+R (Does not apply to Flying-type Companions){/} 	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{nl} - 컴패니언 목록 버튼으로 숙소에있는 컴패니언 소환, 소환해제 가능{nl} - 컴패니언 목록 리스트에 공중형 컴패니언은 적용되지 않음{nl} - 게임 내에서 다른 번호 숙소에 있는 컴패니언을 소환했을 때, 숙소에 입장하면 컴패니언과 동행 상태가 아니게 됨{nl} - 컴패니언 아이콘이 퀵 슬롯에 등록된 상태에서는 컴패니언 소환만 가능 (소환 해제는 컴패니언 정보 UI에서 가능){nl} - Shift+R 단축키로 지상형 컴패니언을 소환 해제할 수 있음 (공중형 컴패니언은 제외){/}	UI_20150317_000477	{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{/}	
+UI_20200514_004326	{@st59b}Companion List{/}	{@st59b}컴패니언 목록{/}				
+UI_20200514_004327	{@st41b}{s16}Cancel	{@st41b}{s16}취소				
+UI_20200514_004328	{@st41b}{s16}Screenshot	{@st41b}{s16}캡처				
+UI_20200514_004329	{@st43}Cheat : Enchant or Awaken{/}	{@st43}치트 : 인챈트 및 각성{/}				
+UI_20200514_004330	Enchant Jewel	인챈트 주얼				
+UI_20200514_004331	Set Stats	세트 옵션				
+UI_20200514_004332	{@st42b}{s16}Delete{/}	{@st42b}{s16}제거{/}				
+UI_20200514_004333	{@st42b}{s16}Shortcut{/}	{@st42b}{s16}바로가기{/}				
+UI_20200514_004334	{img icon_item_silver 24 24} Craft Cost{/}%s	{img icon_item_silver 24 24} 제작 비용{/}%s				
+UI_20200514_004335	There is no list to be shown.	표시할 목록이 없습니다.				
+UI_20200514_004336	Category Name	카테고리 이름				
+UI_20200514_004337	Team Name Blah Blah	팀 이름 블라 블라				
+UI_20200514_004338	{@st66b}{s16}Cost	{@st66b}{s16}코스트				
+UI_20200514_004339	{@st66b}{s16}Original Passive{/}	{@st66b}{s16}고유 패시브{/}				
+UI_20200514_004340	{@st43b}{s18}Passive Effect	{@st43b}{s18}패시브 효과				
+UI_20200514_004341	{@st42b}{s14}{ds}◆Original Passive	{@st42b}{s14}{ds}◆고유 패시브				
+UI_20200514_004342	{@st42b}{s14}{ds}◆Combination Passive	{@st42b}{s14}{ds}◆조합 패시브				
+UI_20200609_004343	{@st66d_y}{s16}Stamp Tour	{@st66d_y}{s16}스탬프 투어	UI_20200514_004324	{@st66d_y}{s16}Goddess' Roulette	{@st66d_y}{s16}여신의 룰렛	
+UI_20200710_004344	{@st43}Pocket Wig (Male)	{@st43}디자인 컷(남)				
+UI_20200710_004345	{@st43}Pocket Wig(Female)	{@st43}디자인 컷(여)				
+UI_20200710_004346	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl} - Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given after the end regardless of outcome)	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 일일 퀘스트: 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급)	UI_20200129_004089	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl} - Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Daily Quest: 10 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 일일 퀘스트: 10 포인트	
+UI_20200710_004347	{@st66b18}Available Name.{nl}※TP and item used are not refunded.{/}	{@st66b18}사용 가능한 이름입니다.{nl}※이름 변경에 사용된 TP 또는 아이템은 환불되지 않습니다.{/}				
+UI_20200710_004348	{@st66b18}Available Name.{nl}※Item is consumed when changing name.{/}	{@st66b18}사용 가능한 이름입니다.{nl}※이름을 변경하면 아이템이 소모됩니다.{/}				
+UI_20200710_004349	Title	타이틀				
+UI_20200710_004350	{@st41b}{s16}1 Time Cost	{@st41b}{s16}1회 비용				
+UI_20200710_004351	{@st43}{s20}1 Time	{@st43}{s20}1회				
+UI_20200710_004352	{@st41b}{s16}Please enter the number of trials	{@st41b}{s16}시도할 횟수를 입력해 주세요				
+UI_20200710_004353	{@st43}{s20}Continue	{@st43}{s20}연속				
+UI_20200710_004354	{@st43}{s20}Stop	{@st43}{s20}중단				
+UI_20200710_004355	Current %s:{@st66d_y}%s{/}	보유 %s:{@st66d_y}%s{/}				
+UI_20200710_004356	{@st41b}{s16}Please enter the the number of offer	{@st41b}{s16}봉헌할 횟수를 입력해 주세요				
+UI_20200710_004357	{@st43}{s24}Continuous Offering	{@st43}{s24}연속 봉헌				
+UI_20200710_004358	{@st43}{s24}Stop	{@st43}{s24}중단				
+UI_20200710_004359	{@st42b}Personal Housing Board{/}	{@st42b}개인 하우징 게시판{/}				
+UI_20200710_004360	{@st41b}Preview Item{/}	{@st41b}미리보기 아이템{/}				
+UI_20200710_004361	Housing Shop	하우징 샵				
+UI_20200710_004362	{@st66b}{s20}Purchase	{@st66b}{s20}구매				
+UI_20200710_004363	{@st66}-Furniture	{@st66}-가구				
+UI_20200710_004364	{@st66}-Preview	{@st66}-미리보기				
+UI_20200710_004365	{@st66}-Voucher Discounts	{@st66}-상품권 할인				
+UI_20200710_004366	{@st66}There are no vouchers available.{/}	{@st66}사용 가능한 상품권이 없습니다.{/}				
+UI_20200710_004367	{@st66b}{s20}Sale	{@st66b}{s20}판매				
+UI_20200710_004368	When settling, preview furnitures will be arranged.	정산 시, 미리보기 가구들이 배치됩니다.				
+UI_20200710_004369	{@st66}Arrangement Status	{@st66}배치 여부				
+UI_20200710_004370	{@st42}  Automatic  {/}	{@st42}  자동  {/}				
+UI_20200710_004371	{@st66d}Cancel{/}	{@st66d}취소{/}				
+UI_20200710_004372	{@st66d}Settle{/}	{@st66d}정산{/}				
+UI_20200710_004373	Equip Ichor	아이커 일괄 장착				
+UI_20200710_004374	Unequip Ichor (Fixed)	아이커 일괄 장착 해제(고정옵션)				
+UI_20200710_004375	Unequip Ichor (Random)	아이커 일괄 장착 해제(랜덤옵션)				
+UI_20200710_004376	{@st66b}Blockade Battle	{@st66b}봉쇄전				
+UI_20200710_004377	{@st66b}{s16}Guild Name	{@st66b}{s16}길드명				
+UI_20200710_004378	{@st66b}{s16}Time	{@st66b}{s16}시간				
+UI_20200710_004379	Boss Information	보스 정보				
+UI_20200710_004380	Blockade Battle Info 	봉쇄전 정보				
+UI_20200710_004381	{nl}{s18}About Blockade Battle{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being{nl} {nl}[Battle in Sulivinas Lair Ranking]{nl} Battle in Sulivinas Lair rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Battle in Sulivinas Lair rewards]{nl} Battle in Sulivinas Lair rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 				
+UI_20200710_004382	obtain them via tab.	탭을 통해 획득할 수 있습니다.				
+UI_20200710_004383	{s16}{ol}{#FFFFFF}Move	{s16}{ol}{#FFFFFF}이동				
+UI_20200710_004384	Moving to the entrance.	입장 위치로 이동합니다.				
+UI_20200710_004385	{s16}{ol}{#FFFFFF}Receive rewards	{s16}{ol}{#FFFFFF}보상 수령				
+UI_20200710_004386	Can only be used by the Guild Master.{nl}The rewards will be sent automatically to the guild storage.	길드 마스터만 이용 가능합니다.{nl}수령한 보상은 길드 보관함으로 지급됩니다.				
+UI_20200710_004387	{@st47}{s18}Amount of Dismantled Equipment: %s/%s	{@st47}{s18}분해 장비 수: %s/%s				
+UI_20200710_004388	* Common attributes will also be reset,{nl}Total {#FF0000}%s{/}of attribute points will be returned.{nl}Attribute Points after refund: {#FF0000}%s{/}+{#FF0000}%s{/}	* 변경 시 공용 특성도 초기화 되며,{nl}총 {#FF0000}%s{/}의 특성 포인트가 환급됩니다.{nl}환급 후 특성 포인트: {#FF0000}%s{/}+{#FF0000}%s{/}				
+UI_20200710_004389	{@st66b}{s18}System{/}	{@st66b}{s18}시스템{/}				
+UI_20200710_004390	{@st66b}{s18}Graphic{/}	{@st66b}{s18}그래픽{/}				
+UI_20200710_004391	{@st66b}Target Nearby Neutral Objects in Advance{/}	{@st66b}근처의 중립 오브젝트 우선 타겟{/}				
+UI_20200710_004392	{@st43}Control{/}	{@st43}조작{/}				
+UI_20200710_004393	{@st43}Common{/}	{@st43}공통{/}				
+UI_20200710_004394	{@st43}Guild Territory Wars{/}	{@st43}콜로니전{/}				
+UI_20200710_004395	{@st66b}GTW Other Character's HP Info. Size{/}	{@st66b}콜로니전 다른 캐릭터 체력 정보 크기{/}				
+UI_20200710_004396	{@st66b}View GTW Character's buff{/}	{@st66b}콜로니전 캐릭터 버프 보기{/}				
+UI_20200710_004397	{@st66b}View Larger{/}	{@st66b}크게 보기{/}				
+UI_20200710_004398	{@st66b}View Smaller{/}	{@st66b}작게 보기{/}				
+UI_20200710_004399	{@st66b}Turn on the GTW Battle Alarm{/}	{@st66b}콜로니전 전투 알람 켜기{/}				
+UI_20200710_004400	{@st66b}View Guild Name of GTW{/}	{@st66b}콜로니전 길드명 보기{/}				
+UI_20200710_004401	{@st66b}View Team Name of GTW{/}	{@st66b}콜로니전 팀명 보기{/}				
+UI_20200710_004402	{@st66b}View Hostile Guild Emblem of GTW{/}	{@st66b}콜로니전 적대 길드 엠블럼 일괄 보기{/}				
+UI_20200710_004403	{@st66b}View My Character{/}	{@st66b}내 캐릭터 보기{/}				
+UI_20200710_004404	{@st66b}View Party Character{/}	{@st66b}파티 캐릭터 보기{/}				
+UI_20200710_004405	{@st66b}View Guild Members' Character{/}	{@st66b}길드원 캐릭터 보기{/}				
+UI_20200710_004406	{@st66b}View Hostile Character{/}	{@st66b}적대 캐릭터 보기{/}				
+UI_20200710_004407	{@st66b}View Boss skill range	{@st66b}보스 스킬 범위 보기				
+UI_20200710_004408	{s18}Please enter the following phrase {nl}[%s]	{s18}다음 문구를 입력해 주세요{nl}[%s]				
+UI_20200710_004409	{@st66b18}Available name. {nl}※TP used is not refunded{/}	{@st66b18}사용 가능한 이름입니다. {nl}※구매에 사용된 TP는 환불되지 않습니다.{/}				
+UI_20200710_004410	{@st59}Preview	{@st59}미리보기				
+UI_20200710_004411	{@st43}{s15}{ol}{ds}Rank %s	{@st43}{s15}{ol}{ds}%s위				
+UI_20200710_004412	No Records	기록 없음				
+UI_20200710_004413	{@st43b}{s16}Current Stats	{@st43b}{s16}적용 옵션				
+UI_20200710_004414	{@st43b}{s16}Equip Stats	{@st43b}{s16}장착 옵션				
+UI_20200710_004415	{@st43b}{s16}Ichor Stats	{@st43b}{s16}아이커 옵션				
+UI_20200710_004416	Able to equip/unequip Ichor	아이커 일괄 장착/해제 가능				
+UI_20200727_004417	{@st66b18}Usable name.{nl}Will you create?{/}	{@st66b18}사용 가능한 이름입니다.{nl}생성하시겠습니까?{/}				
+UI_20200727_004418	Extra Socket Cost %s : {@st66d_y}%s{/} {nl}Gem Extraction Cost %s : {@st66d_y}%s{/}	소켓 추가 비용 %s : {@st66d_y}%s{/} {nl}젬 추출 비용 %s : {@st66d_y}%s{/}	UI_20190104_003717	Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost %s : {#000000}%s{/}	소켓 추가 비용 %s : {#000000}%s{/} {nl}젬 추출 비용 %s : {#000000}%s{/}	
+UI_20200805_004419	{@st66b}{s20} %s{nl} can be used to receive various rewards.	{@st66b}{s20} %s를{nl}사용해 다양한 보상을 획득하세요.				
+UI_20200805_004420	{@st66b}{s20}Current Acquirable Grade	{@st66b}{s20}현재 획득 가능 등급				
+UI_20200805_004421	{@st41}Open %s	{@st41}%s 개봉				
+UI_20200805_004422	{@st66b}{s16}Total Number Opened : %s%s	{@st66b}{s16}누적 개봉 횟 수 : %s%s				
+UI_20200805_004423	{@st66b}{s16}Remaining %s x%s	{@st66b}{s16}남은 %s %s개				
+UI_20200805_004424	{@st42b}{s20}Acquirable Item	{@st42b}{s20}획득 가능 아이템				
+UI_20200805_004425	{@st66b}Acquirable Reward{/}	{@st66b}획득 가능 보상{/}				
+UI_20200805_004426	{@st66b}Total Open Count Reward	{@st66b}누적 개봉 보상				
+UI_20200805_004427	{@st66b}{s16}* Total Open Count Reward is given automatically.	{@st66b}{s16}* 누적 개봉 보상은 자동 지급됩니다.				
+UI_20200805_004428	{@st66b}{s18}TOSventure	{@st66b}{s18}트캉스				
+UI_20200805_004429	TOSventure Event	트캉스 이벤트				
+UI_20200805_004430	{@st41b}Delete Team{/}	{@st41b}팀 삭제{/}				
+UI_20200805_004431	{@st59}Request to delete team.{/}	{@st59}팀 삭제를 요청합니다.{/}				
+UI_20200805_004432	Please enter the following phrase	다음 문구를 입력해 주세요				
+UI_20200826_004433	{@st66b}Receive Rewards{/}	{@st66b}보상 받기{/}				
+UI_20200826_004434	{@st59}The selected Assister will be locked{/}	{@st59}선택한 어시스터가 잠금 상태가 됩니다.{/}				
+UI_20200826_004435	Dismantle Ark 	아크 분해				
+UI_20200826_004436	{@st43b}{s18}Place the item you want to dismantle	{@st43b}{s18}분해할 아이템을 올려주세요				
+UI_20200826_004437	{@st43b}{s18}Dismantle completed	{@st43b}{s18}분해가 완료되었습니다				
+UI_20200826_004438	{@st41b}{s18}Combine	{@st41b}{s18}합성				
+UI_20200826_004439	The maximum amount of points that can be earned reset every Monday at 6AM, server time.{nl}Points can be earned as follows:{nl} {nl}- Login: 10 points (5 additional points earned for players in a guild and players under token effects){nl}- Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}* Velcoffer's Nest: 100 points{nl}* Earth Tower: 25 points per every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl} -  Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss)	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 유니크 레이드 : 20 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급)	UI_20200710_004346	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl} - Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given after the end regardless of outcome)	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 일일 퀘스트: 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급)	
+UI_20200826_004440	Combine Vaivora	바이보라 합성				
+UI_20200826_004441	{@st66b}{s16}- Combine 3 Vaivora weapon to get a random Vaivora weapon.{nl}- Transmutated Vaivora equipment cannot be combined.	{@st66b}{s16}- 3개의 바이보라 무기를 합성하여 무작위 바이보라 무기를 획득합니다. {nl} - 연성된 바이보라 장비는 합성이 불가능 합니다.				
+UI_20200826_004442	{@st41b}{s20} Use Multiply Token	{@st41b}{s20}배수 토큰 사용				
+UI_20200826_004443	{@st43}Shop	{@st43}상점				
+UI_20200826_004444	{img icon_item_pvpmine_2 30 30}{@st41b}Item Purchased{/} %s	{img icon_item_pvpmine_2 30 30}{@st41b}구입 아이템{/} %s				
+UI_20200826_004445	{img icon_item_pvpmine_2 30 30}{@st41b}Estimated Balance ▶{/}	{img icon_item_pvpmine_2 30 30}{@st41b}예상 잔액 ▶{/}				
+UI_20200826_004446	{#001100}{s18}You can request to join.	{#001100}{s18}가입을 신청할 수 있습니다.				
+UI_20200826_004447	Available %s times	%s회 가능				
+UI_20200826_004448	Entry times	입장 시간				
+UI_20200826_004449	%sBattles %sWins %sDefeats	%s전 %s승 %s패				
+UI_20200826_004450	{@st43b}{s18}Option Transfered	{@st43b}{s18}이전되는 옵션	UI_20200129_004122	{@st43b}{s18}Transfer Stats	{@st43b}{s18}이전 옵션	
+UI_20200826_004451	{@st43b}{s18}Option Deleted	{@st43b}{s18}삭제되는 옵션				
+UI_20200826_004452	{@st66b}World Map{/}	{@st66b}월드맵{/}				
+UI_20200826_004453	{@st59}Open World Map.{/}	{@st59}월드맵을 엽니다.{/}				
+UI_20200826_004454	{@st41b}{%s}Potential %s	{@st41b}{%s}포텐셜 %s				
+UI_20200826_004455	{@st66b}Resurrect in the starting point{/}	{@st66b}시작 지점에서 부활하기{/}				
+UI_20200826_004456	{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Remnants of Bernice Coins"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players in the top 3 of multiple class trees receive only the rewards corresponding to their highest score.{nl} {nl}If that happens, the next player in line in the corresponding class tree will rise to the top 3 and receive the rewards.{nl} {nl}Clearing the previous floor and defeating 0 monsters the next floor will be based on the same score. In this case, the accounts that entered the rankings faster are counted as priorities.	{@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "베르니케 파편 주화"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.{nl} {nl}이전 층 클리어와 다음 층 0마리 처치는 같은 스코어로 기준됩니다. 이 경우 더 빠르게 랭킹에 진입한 계정이 우선순위로 집계됩니다.	UI_20190419_003847	{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Remnants of Bernice Coins"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players in the top 3 of multiple class trees receive only the rewards corresponding to their highest score.{nl} {nl}If that happens, the next player in line in the corresponding class tree will rise to the top 3 and receive the rewards.	{@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "베르니케 파편 주화"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	
+UI_20200826_004457	{@st66b}Cooldown Decimal Value (%s){/}	{@st66b}재사용 대기시간 소수점 (%s){/}				
+UI_20200826_004458	{@st66b} View the range of Boss magic circle	{@st66b}보스 마법진 범위 보기	UI_20200710_004407	{@st66b}View Boss skill range	{@st66b}보스 스킬 범위 보기	
+UI_20200826_004459	{@st43}Seal Exchange 	{@st43}인장 교환				
+UI_20200826_004460	{@st66d_y}{b}Exchange Seal	{@st66d_y}{b}교환 인장				
+UI_20200826_004461	Name of Exchange Seal item	교환 인장 아이템의 이름				
+UI_20200826_004462	{@st42}Material	{@st42}재료				
+UI_20200826_004463	{@st42}Exchange	{@st42}교환				
+UI_20200826_004464	Dismantle Goddess'/Demon God's Equipment	여신/마신 장비 분해				
+UI_20200826_004465	{@st66b}{s16}- Obtain 1 Arquenium from dismantling Goddess'/Demon God's equipment.	{@st66b}{s16}- 여신/마신 장비 분해 시 아케늄 1개를 획득합니다.				
+UI_20200826_004466	Vaivora Transmutor	바이보라 연성제				
+UI_20200826_004467	Vaivora Transmutation	바이보라 연성				
+UI_20200826_004468	Select the item to transmutation	연성할 아이템을 올려주세요				
+UI_20200826_004469	{@st41b}{s18}Transmutation	{@st41b}{s18}연성				
+UI_20200826_004470	{@st100cream_24}Guild Territory	{@st100cream_24}콜로니				
+UI_20200826_004471	{@st101lightbrown_16}Champions League	{@st101lightbrown_16}챔피언스 리그				
+UI_20200826_004472	{@st101lightbrown_16}Challengers League	{@st101lightbrown_16}챌린저스 리그				
+UI_20200826_004473	Close Guild Territory window.	콜로니 정보창을 닫습니다.				
+UI_20200826_004474	Check the location of Guild Territory in this area.	해당 콜로니 지역의 위치를 확인합니다.				
+UI_20200826_004475	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}View Map Location	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}맵 위치 보기				
+UI_20200826_004476	Check the Guild Territory Info.	콜로니 정보를 확인합니다.				
+UI_20200826_004477	{@st101lightbrown_16}Guild Territory	{@st101lightbrown_16}콜로니				
+UI_20200826_004478	Check the Help.	도움말을 확인합니다.				
+UI_20200826_004479	{@st101lightbrown_16}Help	{@st101lightbrown_16}도움말				
+UI_20200826_004480	Search the regions.	검색어로 지역을 검색합니다.				
+UI_20200826_004481	Close the map.	지도를 닫습니다.				
+UI_20200826_004482	{@st100white_16}{s20}Bookmark	{@st100white_16}{s20}즐겨찾기				
+UI_20200826_004483	{@st106_lbr}{s16}No registered map	{@st106_lbr}{s16}등록된 맵이 없습니다				
+UI_20200826_004484	{@st101lightbrown_16}Token Travel	{@st101lightbrown_16}토큰 이동				
+UI_20200826_004485	Close the Minimap.	미니맵을 닫습니다.				
+UI_20200826_004486	{@st100brown_16}Quest{/}	{@st100brown_16}퀘스트{/}				
+UI_20200826_004487	{@st100brown_16}Monster{/}	{@st100brown_16}몬스터{/}				
+UI_20200826_004488	{@st100brown_16}There are no Quest to be shown.{/}	{@st100brown_16}표시할 퀘스트가 없습니다.{/}				
+UI_20200826_004489	{@st100white_16}Show all map	{@st100white_16}모든 맵 표시				
+UI_20200826_004490	{@st100orange_16}Display Undiscovered{nl}Goddess Statues	{@st100orange_16}미확인 여신상 표시				
+UI_20200826_004491	{@st100white_16}If you click the region while pressing the shift key, you can use Token Travel.	{@st100white_16}키보드의 쉬프트 키를 누른 상태에서 지역을 클릭하면 토큰 이동을 이용할 수 있습니다.				
+UI_20200826_004492	{@st42}Premium TP{/}	{@st42}프리미엄TP{/}				
+UI_20200826_004493	Cannot extract Ichor	아이커 추출 불가	UI_20180517_003201	Cannot extract	추출 불가	
+UI_20200826_004494	Cannot extract transfer appearance	외형 변경 추출 불가	UI_20180629_003373	Cannot transfer appearance	외형 변경 불가	
+UI_20200826_004495	Cannot apply transfer appearance	외형 변경 적용 불가				
+UI_20200826_004496	Import the location of my character.	내 캐릭터의 위치를 불러옵니다.				
+UI_20200826_004497	{@st104gold_14}Protecting Guild	{@st104gold_14}점령길드				
+UI_20200826_004498	{@st104gold_14}Applicable City	{@st104gold_14}적립요율 적용 도시				
+UI_20200826_004499	{@st104gold_14}Tariff Rate	{@st104gold_14}적용중인 적립요율				
+UI_20200826_004500	Free Goddess Statue cost/Token Travel Available	여신상 비용 면제 및 월드맵 토큰 이동 가능				
+UI_20200902_004501	Dismantle Special Items	특수 아이템 분해				
+UI_20200902_004502	{@st66b}Ark{/}	{@st66b}아크{/}				
+UI_20200902_004503	{@st59}Dismantle Ark{/}	{@st59}아크 분해{/}				
+UI_20200902_004504	{@st66b}Goddess/Demon God{/}	{@st66b}여신/마신{/}				
+UI_20200902_004505	{@st59}Dismantle Goddess'/Demon God's Equipment{/}	{@st59}여신/마신 장비 분해{/}				
+UI_20200902_004506	{@st66b}Arch Stone{/}	{@st66b}아키스톤{/}				
+UI_20200902_004507	{@st59}Dismantle Arch Stone{/}	{@st59}아키스톤 분해{/}				
+UI_20200902_004508	{@st66b}Accessories{/}	{@st66b}액세서리{/}				
+UI_20200902_004509	{@st59}Dismantle Karaliene Accessories{/}	{@st59}카랄리엔 액세서리 분해{/}				
+UI_20200902_004510	{img silver_pic 24 24} Price	{img silver_pic 24 24} 가격				
+UI_20200902_004511	- Obtain Arch Stone used as material from dismantling Ark.	- 아크 분해 시 재료로 사용된 아키스톤을 획득합니다.				
+UI_20200902_004512	Result of last week's vote.	지난 주 투표 결과 입니다.				
+UI_20200902_004513	{@st42b}{s24}Importing information	{@st42b}{s24}정보를 불러오는 중입니다.				
+UI_20200902_004514	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}View Area Location	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}지역 위치 보기	UI_20200826_004475	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}View Map Location	{img worldmap2_spot_btn 28 28} {@st101lightbrown_16}맵 위치 보기	
+UI_20200902_004515	{@st106_lbr}{s16}No registered area	{@st106_lbr}{s16}등록된 지역이 없습니다				
+UI_20200902_004516	{@st100white_16}By clicking the Bookmark while pressing the shift key, you can use Token Travel.	{@st100white_16}키보드의 쉬프트 키를 누른 상태에서 즐겨찾기를 클릭하면 토큰 이동을 이용할 수 있습니다.				
+UI_20200902_004517	{@st100white_16}Show all area	{@st100white_16}모든 지역 표시				
+UI_20200902_004518	Vote	투표하기				
+UI_20201012_004519	Event Roulette	이벤트 룰렛				
+UI_20201012_004520	Current Coins in Possession	현재 보유 코인 개수				
+UI_20201012_004521	{@st43}{s24}Draw	{@st43}{s24}뽑기				
+UI_20201030_004522	{@st66b}Silver{/}	{@st66b}실버{/}				
+UI_20201030_004523	{@st66b}Attribute Points{/}	{@st66b}특성 포인트{/}				
+UI_20201030_004524	Consumed Attribute Points	소비 특성 포인트				
+UI_20201030_004525	{ds}{b}{#ffefd6}Mercenary Badge(Weekly)	{ds}{b}{#ffefd6}용병단 증표(주간)				
+UI_20201030_004526	{@st59}View the details about the Costume Collection.{/}	{@st59}코스튬 컬렉션 정보를 엽니다.{/}				
+UI_20201030_004527	{@st43b}{s24}Costume Collection{/}	{@st43b}{s24}코스튬 컬렉션{/}				
+UI_20201030_004528	{@st59}Close the Costume Collection{/}	{@st59}코스튬 컬렉션을 닫습니다{/}				
+UI_20201030_004529	{@st66b}{s16}See All Effects{/}	{@st66b}{s16}총 효과보기{/}				
+UI_20201030_004530	{@st41b}Change Points	{@st41b}포인트 변환				
+UI_20201030_004531	Current Item Number	현재 보유 아이템 개수	UI_20201012_004520	Current Coins in Possession	현재 보유 코인 개수	
+UI_20201030_004532	{@st66b}Raid{/}	{@st66b}레이드{/}				
+UI_20201030_004533	{@st66b}Joint Strike	{@st66b}보스 협동전				
+UI_20201030_004534	{s16}{ol}{#FFFFFF}Enter	{s16}{ol}{#FFFFFF}입장하기				
+UI_20201030_004535	{@st66d}Select Class	{@st66d}클래스 선택				
+UI_20201030_004536	{@st41b}Current Points: %s{/}	{@st41b}현재 포인트: %s{/}				
+UI_20201030_004537	{@st41b}Obtained Points: {#ec0000}%s{/}{/}	{@st41b}획득 포인트: {#ec0000}%s{/}{/}				
+UI_20201030_004538	{@st41b}Total Points: {@st66d_y}%s{/}{/}	{@st41b}총 포인트: {@st66d_y}%s{/}{/}				
+UI_20201030_004539	{@st41b}Change{/}	{@st41b}변환{/}				
+UI_20201030_004540	{@st59}Change to Points.{/}	{@st59}포인트로 변환합니다.{/}				
+UI_20201030_004541	{@st45tw2}Maximum number of items you can check is %s.	{@st45tw2}확인 가능한 아이템 개수는 최대 %s개 입니다.				
+UI_20201030_004542	{@st41b}Purchase Point	{@st41b}포인트 구매				
+UI_20201030_004543	{@st43}{s22}Demon God's Temptation	{@st43}{s22}마신의 유혹				
+UI_20201030_004544	{@st41b}{s16}%s(Month) %s(Day) ~ %s(Month) %s(Day)	{@st41b}{s16}%s월 %s일 ~ %s월 %s일				
+UI_20201030_004545	{@st43}{s24}Contribute	{@st43}{s24}헌납				
+UI_20201030_004546	{@st41b}{s16}Please enter the number contributing	{@st41b}{s16}헌납할 횟수를 입력해 주세요				
+UI_20201030_004547	{@st43}{s24}Continuous Contribute	{@st43}{s24}연속 헌납				
+UI_20201030_004548	{@st66b}Show weekly acquisition amount of Mercenary Badge{/}	{@st66b}용병단 증표 주간 획득량 표시{/}				
+UI_20201030_004549	Turn off login alerts	접속 알림 끄기				
+UI_20201030_004550	Class Rank	클래스 순위	UI_20200320_004247	Type Rank	계열 등수	
+UI_20201030_004551	{@st66b}{s16}Accumulated Damage 	{@st66b}{s16}누적 대미지				
+UI_20201103_004552	Contents Ranking	콘텐츠 랭킹				
+UI_20201103_004553	Blockade Battle	봉쇄전				
+UI_20201228_004554	%s day(s) or more from the day Team was first created    	팀생성 %s일 이상	UI_20181017_003581	Team %s+ days old	팀 생성 %s일 이상	
+UI_20201228_004555	Clear Episode 12-1    	에피소드 12-1 클리어				
+UI_20201228_004556	%s day(s) or more from the day premium TP was first purchased      	최초 유료 TP 구매 이력으로 %s일 이상				
+UI_20210104_004557	{@st66b}{s20} %s{nl} can be used to receive various rewards.	{@st66b}{s20} %s을(를){nl}사용해 다양한 보상을 획득하세요.				
+UI_20210104_004558	{@st66b}{s16}{#ff0000}Only characters with Lv.400 or over{nl}can open.	{@st66b}{s16}{#ff0000}Lv.400 이상의 캐릭터만{nl}이용할 수 있습니다.				
+UI_20210115_004559	{@st66b}Consumed :{/}	{@st66b}소비 재화 :{/}				
+UI_20210115_004560	{@st43}Contents Point{/}	{@st43}콘텐츠 포인트{/}				
+UI_20210115_004561	The maximum amount of points that can be earned reset every Monday at 6AM, server time.{nl}Points can be earned as follows:{nl} {nl}- Login: 10 points (5 additional points earned for players in a guild and players under token effects){nl}- Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}* Velcoffer's Nest: 100 points{nl}* Earth Tower: 25 points per every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl} -  Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Dungeon: Auto Match : 20 points{nl}- Res Sacrae Dungeon: Auto Match(Hard) : 30 points{nl}- Res Sacrae Dungeon: Challenge : 50 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 유니크 레이드 : 20 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 던전: 자동 매칭 : 20 포인트{nl}- 성물 던전: 자동 매칭(Hard) : 30 포인트{nl}- 성물 던전: 도전 모드 : 50 포인트	UI_20200826_004439	The maximum amount of points that can be earned reset every Monday at 6AM, server time.{nl}Points can be earned as follows:{nl} {nl}- Login: 10 points (5 additional points earned for players in a guild and players under token effects){nl}- Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}* Velcoffer's Nest: 100 points{nl}* Earth Tower: 25 points per every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl} -  Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss)	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 유니크 레이드 : 20 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급)	
+UI_20210115_004562	{@st43}{s20}Use Combine (per team){/}{nl}{s8} {/}{nl}{@st66b}{s20}%s/%s	{@st43}{s20}합성 이용(팀당){/}{nl}{s8} {/}{nl}{@st66b}{s20}%s/%s				
+UI_20210115_004563	{@st66b}Vaivora{/}	{@st66b}바이보라{/}				
+UI_20210115_004564	{@st59}Dismantle Vaivora{/}	{@st59}바이보라 분해{/}				
+UI_20210115_004565	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF}Unequip.{/}	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF}장착을 해제합니다.{/}				
+UI_20210115_004566	{@st66b}{s16}Total Number Opened : %s%s	{@st66b}{s16}누적 개봉 횟수 : %s%s	UI_20200805_004422	{@st66b}{s16}Total Number Opened : %s%s	{@st66b}{s16}누적 개봉 횟 수 : %s%s	
+UI_20210115_004567	{@st43}Change Weapon Type{/}	{@st43}무기 계열 변경{/}				
+UI_20210115_004568	{@st59}Close the Change Weapon Type{/}	{@st59}무기 계열 변경을 닫습니다{/}				
+UI_20210115_004569	Item to transform	변형시킬 아이템 입니다.				
+UI_20210115_004570	{@st43}Craft Giltine Card{/}	{@st43}길티네 카드 제작{/}				
+UI_20210115_004571	{@st59}Boruta Card Lv10 required.{/}	{@st59}보루타 카드 10성이 필요합니다.{/}				
+UI_20210115_004572	{@st59}Legend Card Lv10 other that Boruta Card required.{/}	{@st59}보루타 카드를 제외한 레전드 카드 10성이 필요합니다.{/}				
+UI_20210115_004573	{@st100white_16}Consume all items below and obtain {@st204_purple}{s17}[LV10] Giltine Card{/}{/}{@st100white_16}. {nl} {nl} - {@st100white_16}{@st66d_y}{s17}Glimpse of Chaos{/}{/}  x10{nl} {nl} - {@st59}{@st66d_y}{s17}[LV10] Boruta Card{/}{/}{@st100white_16}x1{nl} {nl} - {@st204_green}Random{/}{/}{@st66d_y}{s17}[LV10] Legend Card{/}{/}{@st100white_16}x1{/}{/}	{@st100white_16}아래 아이템을 모두 소모하여 {@st204_purple}{s17}[LV10] 길티네 카드{/}{/}{@st100white_16}를 획득합니다. {nl} {nl} - {@st100white_16}{@st66d_y}{s17}혼돈의 편린{/}{/}  10개{nl} {nl} - {@st59}{@st66d_y}{s17}[LV10] 보루타 카드{/}{/}{@st100white_16}1개{nl} {nl} - {@st204_green}임의의 {/}{/}{@st66d_y}{s17}[LV10] 레전드 카드{/}{/}{@st100white_16}1개{/}{/}				
+UI_20210115_004574	{@st59}Close.{/}	{@st59}길티네 카드 제작 UI를 닫습니다.{/}				
+UI_20210115_004575	{@st43b}{s24}Following Goddess	{@st43b}{s24}여신 추종				
+UI_20210115_004576	{img NOTICE_Dm_! 30 30}{@st43}{s16}Entry Limit{/}	{img NOTICE_Dm_! 30 30}{@st43}{s16}입장 제한{/}				
+UI_20210115_004577	Pattern Information	패턴 정보				
+UI_20210115_004578	Spawn Area	등장 지역				
+UI_20210115_004579	{@st66b}Boruta{/}	{@st66b}보루타{/}				
+UI_20210115_004580	Battle in Sulivinas Lair	보루타 봉쇄전				
+UI_20210115_004581	{@st66b}Giltine{/}	{@st66b}길티네{/}				
+UI_20210115_004582	{nl}{s18}About Blockade Battle{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being(Boruta)/Demonic Sanctuary(Giltine){nl} {nl}[Blockade Battle Ranking]{nl} Blockade Battle rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Blockade Battle rewards]{nl} Blockade Battle rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재(보루타)/마신의 성소(길티네)를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	UI_20200710_004381	{nl}{s18}About Blockade Battle{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being{nl} {nl}[Battle in Sulivinas Lair Ranking]{nl} Battle in Sulivinas Lair rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Battle in Sulivinas Lair rewards]{nl} Battle in Sulivinas Lair rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	
+UI_20210115_004583	{@st59}Res Sacrae{/}	{@st59}성물{/}				
+UI_20210115_004584	{@st59}Res Sacrae Customizing{/}	{@st59}성물 관리{/}				
+UI_20210115_004585	{@st59}Check if there is Stats in Legend Equipment{/}	{@st59}레전드 장비 옵션 유무 확인{/}				
+UI_20210115_004586	{@st59}Check Contents Point Status{/}	{@st59}콘텐츠 포인트 현황을 확인합니다.{/}				
+UI_20210115_004587	{@st43}Enhance Advanced Card{/}	{@st43}고급 카드 강화{/}	UI_20180320_003018	{@st43}Enhance Legend Card{/}	{@st43}레전드 카드 강화{/}	
+UI_20210115_004588	Success Rate	성공확률				
+UI_20210115_004589	{@st43b}{s17}Fodder cards will be deleted and the Advanced Card level will not change.{/}	{@st43b}{s17}  실패 시 제물 카드가 소멸되며, 강화 대상 카드의 레벨은 유지됩니다.{/}				
+UI_20210115_004590	{@st43b}{#898989}{s17}The Advanced Card and fodder cards will be deleted upon destruction.{/}	{@st43b}{#898989}{s17}  파괴 시 강화 대상 카드와 제물 카드가 소멸됩니다.{/}				
+UI_20210115_004591	{@st59}Close Enhance Advanced Card UI{/}	{@st59}고급 카드 강화 UI를 닫습니다{/}	UI_20180320_003025	{@st59}Close{/}	{@st59}레전드 카드 강화 UI를 닫습니다{/}	
+UI_20210115_004592	{@sti1c}{s14}Remaining Time{/}	{@sti1c}{s14}남은 시간{/}				
+UI_20210115_004593	{@sti1c}{s14}Achievement Rate 	{@sti1c}{s14}달성률				
+UI_20210115_004594	{@sti1c}{s14}Pattern Information	{@sti1c}{s14}패턴 정보				
+UI_20210115_004595	{@st66b}Res Sacrae Quest{/}	{@st66b}성물 퀘스트{/}				
+UI_20210115_004596	{@st43}{s22}Reward Info{/}	{@st43}{s22}보상 정보{/}				
+UI_20210115_004597	{@st59}Close.{/}	{@st59}성물 퀘스트 보상 정보를 닫습니다.{/}				
+UI_20210115_004598	Reward Info	보상 정보				
+UI_20210115_004599	Quest Name	퀘스트 이름				
+UI_20210115_004600	{@st41}{s18}Don't show enhancement message on +5 or above	{@st41}{s18}5강 이상 강화 메세지 더이상 보지 않기				
+UI_20210115_004601	{@st41}{s18}Don't show voucher use message	{@st41}{s18}쿠폰 사용 메세지 더이상 보지 않기				
+UI_20210115_004602	{@st201}[Charge RP]{/}{/} Consume {@st66d_y}{s17}Ectonite{/}{/}to recover Res Sacrae Point (RP). {nl}{@st201}[EXP]{/}{/} {@st66d_y}Increase the EXP of Res Sacrae by consuming {s17}Purified Breath of Power{/}{/}.{nl}{@st201}[Socket]{/}{/} Equip/Remove {@st66d_y}{s17}Res Sacrae Gem{/}{/} on Res Sacrae equipment.	{@st201}[마력 충전]{/}{/} {@st66d_y}{s17}엑토나이트{/}{/}를 소비하여 마력(RP)을 회복합니다. {nl}{@st201}[경험치]{/}{/} {@st66d_y}{s17}정화된 권능의 숨결{/}{/}을 소비하여 성물의 경험치를 올립니다.{nl}{@st201}[소켓]{/}{/} 성물에{@st66d_y}{s17}성물 젬{/}{/}을 장착/해제 할 수 있습니다.				
+UI_20210115_004603	{@st66b}Charge RP{/}	{@st66b}마력 충전{/}				
+UI_20210115_004604	{@st59}Charge RP{/}	{@st59}마력 충전{/}				
+UI_20210115_004605	{@st66b}EXP{/}	{@st66b}경험치{/}				
+UI_20210115_004606	{@st59}Gain EXP{/}	{@st59}경험치 증가{/}				
+UI_20210115_004607	{@st66b}Socket{/}	{@st66b}소켓{/}				
+UI_20210115_004608	{@st59}Socket Management{/}	{@st59}소켓 관리{/}				
+UI_20210115_004609	Item Consumed	소모 아이템				
+UI_20210115_004610	RP	마력				
+UI_20210115_004611	Purify Breath of Power	권능의 숨결 정화				
+UI_20210115_004612	{@st59}Consume ingredients and a certain amount of silver to purify{@st66d_y}{s18}Breath of Power{/}{/}.{/}{nl} {nl}{@st66d_y}{s18}Breath of Power{/}{/}{@st59} x10 can be exchange into {@st204_green}{s18}Purified Breath of Power{/}{@st59} x1.{nl} {nl}Ingredients are required every time 1 {@st204_green}{s18}Breath of Power{/}{@st59} is purified,{nl}and one of the following items can be selected and consumed as the ingredient.{nl} {nl}Item List{nl} - {@st204_purple}Mystic Tome Page{/} {s16} x2{nl}  - {@st204_purple}Practonium{/} {s16} x2{nl}  - {@st204_purple}Magic Stone{/} {s16} x2{nl}  - {@st204_purple}Blessed Shard{/} {s16} x20{nl}  - {@st204_purple}Goddess' Blessed Gem{/} {s16} x2{nl}  - {@st204_purple}Scorched Valuable of Tel Harsha{/} {s16} x1{nl}  - {@st204_purple}Refined Heart of Glacia{/} {s16} x1{nl}  - {@st204_purple}Refined Moth Talc Powder{/} {s16} x1{nl}	{@st59}보유한 재료 아이템과 일정량의 실버를 소모하여 {@st66d_y}{s18}권능의 숨결{/}{/}을 정화합니다.{/}{nl} {nl}{@st66d_y}{s18}권능의 숨결{/}{/}{@st59} 10개로{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 획득할 수 있습니다.{nl} {nl}{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 정화할 때 마다 재료가 필요하며,{nl}다음 아이템 목록 중 한 종류를 선택하여 정화 재료로 소비할 수 있습니다.{nl} {nl}재료 아이템 목록{nl} - {@st204_purple}신비한 서 낱장{/} {s16} 2개{nl}  - {@st204_purple}프락토늄{/} {s16} 2개{nl}  - {@st204_purple}마정석{/} {s16} 2개{nl}  - {@st204_purple}축복받은 조각{/} {s16} 20개{nl}  - {@st204_purple}여신의 축복석{/} {s16} 2개{nl}  - {@st204_purple}그을린 텔하르샤의 의장품{/} {s16} 1개{nl}  - {@st204_purple}정제된 글레이시어 심장{/} {s16} 1개{nl}  - {@st204_purple}정제된 모스 탈크 파우더{/} {s16} 1개{nl}				
+UI_20210115_004613	{@st202}Discount Coupon ▶{/}	{@st202}할인 쿠폰 ▶{/}				
+UI_20210115_004614	{@st202}Consume Breath of Power ▶{/}	{@st202}권능의 숨결 소모 ▶{/}				
+UI_20210115_004615	{@st202}Purified Breath of Power ▶{/}	{@st202}정화된 권능의 숨결 ▶{/}				
+UI_20210115_004616	{@st202}Price ▶{/}	{@st202}가격 ▶{/}				
+UI_20210115_004617	{@st202}Balance ▶{/}	{@st202}예상 잔액 ▶{/}				
+UI_20210115_004618	Purify	정화				
+UI_20210115_004619	{@st59}Purify Breath of Power{/}	{@st59}권능의 숨결 정화{/}				
+UI_20210115_004620	{@st59}Check{/}	{@st59}확인{/}				
+UI_20210115_004621	Res Sacrae Gem	성물 젬				
+UI_20210115_004622	{@st201}[Enhance]{/}{/} Try enhancing Res Sacrae Gem by consuming {@st66d_y}{s16}Prism Coal{/}{/}, Goddess' Blessed Gem, and silver.{nl}All ingredients are consumed regardless of success or fail.{nl}Level of Res Sacrae Gem increases by 1 when enhancement succeeds.{nl}Cannot enhance if the level of equipable Res Sacrae Gem is lower than the resulting level after succeeding in enhancing.{nl} {nl}{@st201}[Combine]{/}{/} Try combining by consuming {@st66d_y}{s16}Prism Coal{/}{/}, Goddess' Blessed Gem, and silver.{nl}All ingredients are consumed regardless of success or fail.{nl}You can obtain a random Lv.1 Res Sacrae Gem when combining succeeds.{nl} {nl}{@st201}[Transfer]{/}{/} Transfer the level of Res Sacrae Gem with lv.2 or above to another gem.{nl}The level of the gem transferred becomes equal to the gem used as an ingredient.{nl}Res Sacrae Gem used as an ingredient will be destroyed.{nl} {nl}{@st201}[Dismantle]{/}{/}Dismantle Res Sacrae Gem and obtain a random number of {@st66d_y}{s16}Prism Coal{/}{/}.{nl}More {@st66d_y}{s16}Prism Coal{/}{/} will be given when dismantling Goddess Res Sacrae gem.{nl}Only Lv.1 Res Sacrae Gem can be dismantled.	{@st201}[강화]{/}{/} {@st66d_y}{s16}프리즘 콜{/}{/}, 여신의 축복석, 실버를 소비하여 성물 젬 강화를 시도합니다.{nl}강화 시도 시 재료는 모두 소비되며 확률에 따라 성공하거나 실패합니다.{nl}성공 시 성물 젬의 레벨이 1 상승합니다.{nl}강화 목표 레벨보다 성물의 장착 가능 성물 젬 레벨이 낮으면 강화할 수 없습니다.{nl} {nl}{@st201}[합성]{/}{/} {@st66d_y}{s16}프리즘 콜{/}{/}, 여신의 축복석, 실버를 소비하여 합성을 시도합니다.{nl}합성 시도 시 재료는 모두 소비되며 확률에 따라 성공하거나 실패합니다.{nl}성공 시 레벨 1 무작위 성물 젬을 획득할 수 있습니다.{nl} {nl}{@st201}[이전]{/}{/} 레벨 2 이상인 성물 젬의 레벨을 다른 성물 젬으로 이전할 수 있습니다.{nl}이전 받은 성물 젬은 이전에 사용된 성물 젬과 동일한 레벨로 변경됩니다.{nl}이전에 사용된 성물 젬은 소멸합니다.{nl} {nl}{@st201}[분해]{/}{/}성물 젬을 분해하여 무작위 수량의 {@st66d_y}{s16}프리즘 콜{/}{/}을 획득합니다.{nl}가디스 등급 성물 젬 분해 시 더 많은 {@st66d_y}{s16}프리즘 콜{/}{/}을 획득합니다.{nl}분해는 1 레벨 성물 젬만 가능합니다.				
+UI_20210115_004623	{@st66b}Enhance{/}	{@st66b}강화{/}				
+UI_20210115_004624	{@st59}Consume ingredient and a certain amount of silver and try enhancing Res Sacrae Gem.{/}	{@st59}재료와 일정량의 실버를 소모하여 성물 젬의 강화를 시도합니다.{/}				
+UI_20210115_004625	{@st66b}Combine{/}	{@st66b}합성{/}				
+UI_20210115_004626	{@st59}Consume ingredient and a certain amount of silver to obtain a new Res Sacrae Gem.{/}	{@st59}재료와 일정량의 실버를 소모하여 새로운 성물 젬 아이템을 획득합니다.{/}				
+UI_20210115_004627	{@st66b}Transfer{/}	{@st66b}이전{/}				
+UI_20210115_004628	{@st59}Transfer the level of Res Sacrae gem to another gem.{/}	{@st59}성물 젬의 레벨을 다른 젬으로 이전합니다.{/}				
+UI_20210115_004629	{@st66b}Dismantle{/}	{@st66b}분해{/}				
+UI_20210115_004630	{@st59}Dismantle Res Sacrae Gem and obtain ingredients.{/}	{@st59}성물 젬을 분해하여 재료 아이템을 획득합니다.{/}				
+UI_20210115_004631	{@st202}Required Silver ▶{/}	{@st202}소모 비용 ▶{/}				
+UI_20210115_004632	{@st59}Give relief supplies or main consumables to increase the Reputation Rate{/}{nl}　{nl}Main consumables are as follows{nl}  - Scorched Valuable of Tel Harsha : 20{nl}  - Refined Heart of Glacia : 20{nl}  - Refined Moth Talc Powder : 20{nl}  - Brikynite : 5{nl}  - Magic Stone : 5{nl}  - Mystic Tome Page : 5{nl}  - Practonium : 5{nl}  - Goddess' Blessed Gem : 5	{@st59}구호 물품 또는 주요 재화를 증여하여 명성도를 올릴 수 있습니다.{/}{nl}　{nl}주요 재화 교환 정보{nl}  - 그을린 텔하르샤의 의장품 : 20{nl}  - 정제된 글레이시어의 심장 : 20{nl}  - 정제된 모스 탈크 파우더 : 20{nl}  - 브리키나이트 : 5{nl}  - 마정석 : 5{nl}  - 신비한 서 낱장 : 5{nl}  - 프락토늄 : 5{nl}  - 여신의 축복석 : 5				
+UI_20210115_004633	{@st66b}Main consumables{/}	{@st66b}주요 재화{/}				
+UI_20210115_004634	{@st66b}Relief Supplies{/}	{@st66b}구호 물품{/}				
+UI_20210115_004635	{@st43}Raise Relief Supplies{/}	{@st43}구호 물품 조달{/}				
+UI_20210115_004636	{@st41b}Current Points: %s {#ffff00}/ MAX : %s{/}{/}	{@st41b}현재 포인트: %s {#ffff00}/ MAX : %s{/}{/}				
+UI_20210115_004637	{@st41b}Obtained Points: %s{/}	{@st41b}획득 포인트: %s{/}				
+UI_20210115_004638	{@st41b}Points After Giving: %s {#ffff00}/ MAX : %s{/}{/}	{@st41b}증여 후 포인트: %s {#ffff00}/ MAX : %s{/}{/}				
+UI_20210115_004639	{@st41b}Give{/}	{@st41b}증여{/}				
+UI_20210115_004640	{@st59}Kingdom Reconstruction Shop.{nl}You can unlock the items in the shop by gaining Reputation Rate.	{@st59}왕국 재건단 상점입니다.{nl}명성도를 쌓아 상점 품목을 해금할 수 있습니다.				
+UI_20210115_004641	{@st41b}Lemprasa Pond{/}	{@st41b}렘파라사 연못{/}				
+UI_20210115_004642	{@st41b}Next Step{/}	{@st41b}다음 단계{/}				
+UI_20210115_004643	Great Man	위인				
+UI_20210115_004644	Legend	전설				
+UI_20210115_004645	{@st59}Raise Relief Supplies{/}	{@st59}구호 물품 조달{/}				
+UI_20210115_004646	{@st43}Kingdom Reconstruction Shop{/}	{@st43}왕국 재건단 상점{/}				
+UI_20210115_004647	{@st41b}Items Bought{/}	{@st41b}구입 아이템{/} 				
+UI_20210115_004648	{@st41b}Possessed Coins ▶{/}	{@st41b}보유 주화 ▶{/}				
+UI_20210115_004649	Party Buff	파티 버프				
+UI_20210115_004650	{@sti1c}{s18}Select Complete	{@sti1c}{s18}선택완료				
+UI_20210115_004651	Individual Buff	개인 버프				
+UI_20210115_004652	{@st41b}{s16}Multiply	{@st41b}{s16}배수				
+UI_20210115_004653	{@st66b}Reputation{/}	{@st66b}명성{/}				
+UI_20210115_004654	{@st43b}{s18}Total Reputation Status	{@st43b}{s18}전체 명성도 달성 현황				
+UI_20210115_004655	{@st41b}There aren't any Reputation opened yet.{/}	{@st41b}열려있는 명성이 아직 없습니다.{/}				
+UI_20210115_004656	{@st66b}View Tutorial UI{/}	{@st66b}튜토리얼 UI 보기{/}				
+UI_20210115_004657	{@st66b}Maximum Frame Limit(%s){/}	{@st66b}최대 프레임 제한(%s){/}				
+UI_20210115_004658	{@st66b} Translucent Summon (except yourself and enemy summon)	{@st66b}소환수 반투명화(자신, 적대 소환수 제외)				
+UI_20210115_004659	Transcendence Scroll	초월 스크롤				
+UI_20210115_004660	{@st59}Guide{/}	{@st59}가이드{/}				
+UI_20210115_004661	{@st59}Mission : Beginner{/}	{@st59}미션 : 초급{/}				
+UI_20210115_004662	{@st59}Mission : Intermediate{/}	{@st59}미션 : 중급{/}				
+UI_20210115_004663	{@st59}Mission : Advanced{/}	{@st59}미션 : 고급{/}				
+UI_20210115_004664	Proceeds the corresponding guide when clicking.	클릭시 해당 가이드를 실행 합니다.				
+UI_20210115_004665	Goddess/Demon God Transmutation	여신/마신 연성				
+UI_20210115_004666	{@st66d_y}{b}Main Material	{@st66d_y}{b}주 재료				
+UI_20210115_004667	Sub-material	보조 재료				
+UI_20210115_004668	Transmutation value of Sub-material is not 0	보조 재료의 연성 수치가 0 이 아닙니다				
+UI_20210115_004669	- Transmutation value can be increased by +1 from Transmutation, and Transmutation material will vanish.{nl}- When the Transmutation value reaches MAX, the main material, sub-material, and Transmutation material all vanishes, and obtains upper-level item.	- 연성을 통해 주 재료의 연성 수치를 +1 또는 낮은 확률로 +2 증가시킬 수 있으며, 연성 재료는 소멸됩니다.{nl}- 연성 수치가 MAX치에 도달하면 주 재료, 보조 재료, 연성 재료가 모두 소멸되고 상위 레벨의 아이템을 획득하게 됩니다.{nl}- 매우 낮은 확률로 연성 대성공을 할 수 있습니다. 주 재료, 보조 재료, 연성 재료가 모두 소멸되고 상위 레벨의 아이템을 즉시 획득하게 됩니다.
+UI_20210115_004670	{@st42}Transmutation Material	{@st42}연성 재료				
+UI_20210115_004671	{@st42}{s20}Silver needed	{@st42}{s20}필요 실버				
+UI_20210115_004672	{@st41b}{s14}{#009999}Goddess	{@st41b}{s14}{#009999}가디스				
+UI_20210115_004673	{#FFFF00}{ol}{s12}0 seconds	{#FFFF00}{ol}{s12}0초				
+UI_20210115_004674	Res Sacrae Level	장착 가능 성물 레벨				
+UI_20210115_004675	{@st59}Check Reward Info{/}	{@st59}보상 정보 확인{/}				
+UI_20210115_004676	teamnamemax8letters	팀명최대여덟글자				
+UI_20210115_004677	%s : %s	%s : %s개				
+UI_20210115_004678	{@st41}Renew	{@st41}갱신				
+UI_20210115_004679	{@sti1c}{s16}Empty Cyan Gem Socket{/}{/}	{@sti1c}{s16}빈 시안 젬 소켓{/}{/}				
+UI_20210115_004680	Cyan Gem	시안 젬				
+UI_20210115_004681	[Purified Breath of Power]	[정화된 권능의 숨결]				
+UI_20210115_004682	Register Item	아이템을 등록해 주세요				
+UI_20210115_004683	[Ectonite]	[엑토나이트]				
+UI_20210115_004684	{@st43}{s16}Entry is possible only when the conditions and item above a certain grade are met.{/}	{@st43}{s16}특정 등급 이상의 아이템과 조건을 만족해야 입장이 가능합니다.{/}				
+UI_20210128_004685	Reputation Quest Progress Status	명성 퀘스트 진행 현황				
+UI_20210128_004686	Weekly Quest	주간 퀘스트				
+UI_20210128_004687	{@st59}Reputation Quest Progress Status of the team can be checked.{nl}　{nl}Weekly/Daily quest cannot be progressed with other characters until the reset if there is a character who's completed the quest.{/}	{@st59}팀의 명성 퀘스트 진행 현황을 확인할 수 있습니다.{nl}　{nl}주간/일일 퀘스트는 여러 캐릭터로 진행하더라도 퀘스트를 완료한 캐릭터가 있다면 초기화가 될 때까지 다른 캐릭터로 진행할 수 없습니다.{/}				
+UI_20210128_004688	{@st59}Weekly Quest is reset every Monday at 6 AM.{nl}Resets regardless of completion of weekly quest, and 2 quests is selected randomly every week.{/}	{@st59}주간 퀘스트는 매주 월요일 오전 06:00에 초기화됩니다.{nl}주간 퀘스트는 완료 여부와 상관없이 초기화되며 매주 2개의 퀘스트가 무작위로 선정됩니다.{/}				
+UI_20210128_004689	{@st59}Daily Quest that has been completed is reset every 6 AM.{nl}Daily Quest that is yet completed before the reset is transferred to the next day.{/}	{@st59}일일 퀘스트는 완료된 퀘스트에 한하여 매일 오전 06:00에 초기화됩니다.{nl}초기화 이전에 완료하지 않은 일일 퀘스트는 다음 날로 이관됩니다.{/}				
+UI_20210128_004690	{@st59}Repeatable Quest is not reset and can be played without limits.{nl}Only 1 from the Repeatable Quest can be progressed, so please be cautious when selecting.{/}	{@st59}반복 퀘스트는 초기화 되지 않으며 횟수 제한 없이 이용할 수 있습니다.{nl}반복 퀘스트는 1개의 퀘스트만 선택해 진행할 수 있으니 신중히 진행해야 합니다.{/}				
+UI_20210128_004691	{@st59}Check Reputation Quest Progress Status.{/}	{@st59}명성 퀘스트 진행 현황을 확인합니다.{/}				
+UI_20210201_004692	{@st59}Information{/}	{@st59}정보{/}				
+UI_20210201_004693	{@st59}Achievement{/}	{@st59}업적{/}				
+UI_20210201_004694	{@st59}Character Settings{/}	{@st59}캐릭터 설정{/}				
+UI_20210201_004695	{@st59}Reputation{/}	{@st59}명성{/}				
+UI_20210208_004696	{@st59}Episode{/}	{@st59}에피소드{/}				
+UI_20210208_004697	{@st59}Quest List{/}	{@st59}퀘스트 목록{/}				
+UI_20210208_004698	{@st59}Res Sacrae Quest{/}	{@st59}성물 퀘스트{/}				
+UI_20210208_004699	{@st59}Don't show enhancement message on +5 or above{/}	{@st59}5강 이상 강화 메세지 더이상 보지 않기{/}				
+UI_20210209_004700	{@st59}Don't show enhancement message on +5 or above	{@st59}5강 이상 강화 메세지 더이상 보지 않기				
+UI_20210209_004701	{@st59}Don't show voucher use message	{@st59}쿠폰 사용 메세지 더이상 보지 않기				
+UI_20210216_004702	Clear Episode 12-1    	에피소드12-1 클리어.	UI_20201228_004555	Clear Episode 12-1    	에피소드 12-1 클리어	
+UI_20210216_004703	%s day(s) or more from the day premium TP was first purchased      	최초 유료 TP 구매 이력으로 %s일 이상.	UI_20201228_004556	%s day(s) or more from the day premium TP was first purchased      	최초 유료 TP 구매 이력으로 %s일 이상	
+UI_20210318_004704	{@st59}Expand Assister Cabinet{/}	{@st59}어시스터 보관함 확장{/}				
+UI_20210318_004705	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}{nl}*Velcoffer's Nest : 100 point{nl}*Earth Tower : 25 points per every 5th floor{nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 유니크 레이드 : 20 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	UI_20210115_004561	The maximum amount of points that can be earned reset every Monday at 6AM, server time.{nl}Points can be earned as follows:{nl} {nl}- Login: 10 points (5 additional points earned for players in a guild and players under token effects){nl}- Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}* Velcoffer's Nest: 100 points{nl}* Earth Tower: 25 points per every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl} -  Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Dungeon: Auto Match : 20 points{nl}- Res Sacrae Dungeon: Auto Match(Hard) : 30 points{nl}- Res Sacrae Dungeon: Challenge : 50 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 유니크 레이드 : 20 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 던전: 자동 매칭 : 20 포인트{nl}- 성물 던전: 자동 매칭(Hard) : 30 포인트{nl}- 성물 던전: 도전 모드 : 50 포인트	
+UI_20210318_004706	{#ff0000}%s seconds left	{#ff0000}%s초 남았습니다				
+UI_20210318_004707	{@st41b}Receive Reward	{@st41b}보상 수령				
+UI_20210318_004708	{@st59}You have received all rewards.(Excludes the reward according to the quest progress){/}	{@st59}획득 가능한 보상을 모두 받습니다.(퀘스트 진행도에 따른 보상은 제외){/}				
+UI_20210318_004709	{@st44}{s22}Res Sacrae{/}{/}	{@st44}{s22}성물{/}{/}				
+UI_20210318_004710	{@st59}Consume ingredients and a certain amount of silver to purify{@st66d_y}{s18}Breath of Power{/}{/}.{/}{nl} {nl}{@st66d_y}{s18}Breath of Power{/}{/}{@st59} x10 can be exchange into {@st204_green}{s18}Purified Breath of Power{/}{@st59} x1.{nl} {nl}Ingredients are required every time 1 {@st204_green}{s18}Breath of Power{/}{@st59} is purified,{nl}and one of the following items can be selected and consumed as the ingredient.{nl} {nl}Item List{nl} - {@st204_purple}Mystic Tome Page{/} {s16} x2{nl} - {@st204_purple}Practonium{/} {s16} x2{nl} - {@st204_purple}Magic Stone{/} {s16} x2{nl} - {@st204_purple}Blessed Shard{/} {s16} x20{nl} - {@st204_purple}Goddess' Blessed Gem{/} {s16} x2{nl} - {@st204_purple}Scorched Valuable of Tel Harsha{/} {s16} x1{nl} - {@st204_purple}Refined Heart of Glacia{/} {s16} x1{nl} - {@st204_purple}Refined Moth Talc Powder{/} {s16} x1{nl}  - {@st204_purple}Breath of Power Purifier{/} {s16} x1	{@st59}보유한 재료 아이템과 일정량의 실버를 소모하여 {@st66d_y}{s18}권능의 숨결{/}{/}을 정화합니다.{/}{nl} {nl}{@st66d_y}{s18}권능의 숨결{/}{/}{@st59} 10개로{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 획득할 수 있습니다.{nl} {nl}{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 정화할 때 마다 재료가 필요하며,{nl}다음 아이템 목록 중 한 종류를 선택하여 정화 재료로 소비할 수 있습니다.{nl} {nl}재료 아이템 목록{nl} - {@st204_purple}신비한 서 낱장{/} {s16} 2개{nl}  - {@st204_purple}프락토늄{/} {s16} 2개{nl}  - {@st204_purple}마정석{/} {s16} 2개{nl}  - {@st204_purple}축복받은 조각{/} {s16} 20개{nl}  - {@st204_purple}여신의 축복석{/} {s16} 2개{nl}  - {@st204_purple}그을린 텔하르샤의 의장품{/} {s16} 1개{nl}  - {@st204_purple}정제된 글레이시어 심장{/} {s16} 1개{nl}  - {@st204_purple}정제된 모스 탈크 파우더{/} {s16} 1개{nl}  - {@st204_purple}권능의 숨결 정화제{/} {s16} 1개	UI_20210115_004612	{@st59}Consume ingredients and a certain amount of silver to purify{@st66d_y}{s18}Breath of Power{/}{/}.{/}{nl} {nl}{@st66d_y}{s18}Breath of Power{/}{/}{@st59} x10 can be exchange into {@st204_green}{s18}Purified Breath of Power{/}{@st59} x1.{nl} {nl}Ingredients are required every time 1 {@st204_green}{s18}Breath of Power{/}{@st59} is purified,{nl}and one of the following items can be selected and consumed as the ingredient.{nl} {nl}Item List{nl} - {@st204_purple}Mystic Tome Page{/} {s16} x2{nl}  - {@st204_purple}Practonium{/} {s16} x2{nl}  - {@st204_purple}Magic Stone{/} {s16} x2{nl}  - {@st204_purple}Blessed Shard{/} {s16} x20{nl}  - {@st204_purple}Goddess' Blessed Gem{/} {s16} x2{nl}  - {@st204_purple}Scorched Valuable of Tel Harsha{/} {s16} x1{nl}  - {@st204_purple}Refined Heart of Glacia{/} {s16} x1{nl}  - {@st204_purple}Refined Moth Talc Powder{/} {s16} x1{nl}	{@st59}보유한 재료 아이템과 일정량의 실버를 소모하여 {@st66d_y}{s18}권능의 숨결{/}{/}을 정화합니다.{/}{nl} {nl}{@st66d_y}{s18}권능의 숨결{/}{/}{@st59} 10개로{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 획득할 수 있습니다.{nl} {nl}{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 정화할 때 마다 재료가 필요하며,{nl}다음 아이템 목록 중 한 종류를 선택하여 정화 재료로 소비할 수 있습니다.{nl} {nl}재료 아이템 목록{nl} - {@st204_purple}신비한 서 낱장{/} {s16} 2개{nl}  - {@st204_purple}프락토늄{/} {s16} 2개{nl}  - {@st204_purple}마정석{/} {s16} 2개{nl}  - {@st204_purple}축복받은 조각{/} {s16} 20개{nl}  - {@st204_purple}여신의 축복석{/} {s16} 2개{nl}  - {@st204_purple}그을린 텔하르샤의 의장품{/} {s16} 1개{nl}  - {@st204_purple}정제된 글레이시어 심장{/} {s16} 1개{nl}  - {@st204_purple}정제된 모스 탈크 파우더{/} {s16} 1개{nl}	
+UI_20210318_004711	{@st66b}Listen Other Characters' Music/}	{@st66b}다른 캐릭터 연주 듣기{/}	UI_20180629_003340	{@st66b}Hear Other Characters' Flutes{/}	{@st66b}다른 캐릭터 피리 연주 듣기{/}	
+UI_20210318_004712	{@st66b}Optimize Update Speed{/}	{@st66b}업데이트 속도 최적화{/}				
+UI_20210318_004713	{@st59}Controls the update speed of dynamic objects according to the performance. Character and monster may look disconnected.{/}	{@st59}동적 오브젝트의 업데이트 속도를 성능에 따라 조절합니다. 캐릭터와 몬스터가 끊겨 보일 수 있습니다.{/}				
+UI_20210318_004714	{@st41b}{s18}  Random Ichor	{@st41b}{s18}  랜덤 아이커				
+UI_20210318_004715	{@st41b}{s18}  Fixed Ichor	{@st41b}{s18}  고정 아이커				
+UI_20210326_004716	Returning to the entrance in a moment.	잠시 후 입구로 돌아갑니다.	ETC_20161005_025547	You will return to the entrance in 10 seconds!	60초 후 입구로 돌아갑니다.	
+UI_20210326_004717	{@st66b}Volume(%s){/}	{@st66b}연주 크기 (%s){/}	UI_20180629_003339	{@st66b}Flute Volume (%s){/}	{@st66b}피리 연주 크기 (%s){/}	
+UI_20210326_004718	{@st59}Uncheck if you don't want to hear other characters' instruments playing.{/}	{@st59}다른 캐릭터의 연주를 듣지 않으려면 체크를 해제해주세요.{/}	UI_20180629_003341	{@st59}Uncheck if you don't want to hear other characters' flutes.{/}	{@st59}다른 캐릭터의 피리 연주를 듣지 않으려면 체크를 해제해주세요.{/}	
+UI_20210412_004719	{@st59}Consume ingredients and a certain amount of silver to purify{@st66d_y}{s18}Breath of Power{/}{/}.{/}{nl} {nl}{@st66d_y}{s18}Breath of Power{/}{/}{@st59} x10 can be exchange into {@st204_green}{s18}Purified Breath of Power{/}{@st59} x1.{nl} {nl}Ingredients are required every time 1 {@st204_green}{s18}Breath of Power{/}{@st59} is purified,{nl}and one of the following items can be selected and consumed as the ingredient.{nl} {nl}Item List{nl} - {@st204_purple}Mystic Tome Page{/} {s16} x2{nl} - {@st204_purple}Practonium{/} {s16} x2{nl} - {@st204_purple}Magic Stone{/} {s16} x2{nl} - {@st204_purple}Blessed Shard{/} {s16} x20{nl} - {@st204_purple}Goddess' Blessed Gem{/} {s16} x2{nl} - {@st204_purple}Scorched Valuable of Tel Harsha{/} {s16} x1{nl} - {@st204_purple}Refined Heart of Glacia{/} {s16} x1{nl} - {@st204_purple}Refined Moth Talc Powder{/} {s16} x1{nl} - {@st204_purple}Breath of Power Purifier{/} {s16} x1{nl} - {@st204_purple}[Event] Breath of Power Purifier{/} {s16} x1	{@st59}보유한 재료 아이템과 일정량의 실버를 소모하여 {@st66d_y}{s18}권능의 숨결{/}{/}을 정화합니다.{/}{nl} {nl}{@st66d_y}{s18}권능의 숨결{/}{/}{@st59} 10개로{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 획득할 수 있습니다.{nl} {nl}{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 정화할 때 마다 재료가 필요하며,{nl}다음 아이템 목록 중 한 종류를 선택하여 정화 재료로 소비할 수 있습니다.{nl} {nl}재료 아이템 목록{nl} - {@st204_purple}신비한 서 낱장{/} {s16} 2개{nl}  - {@st204_purple}프락토늄{/} {s16} 2개{nl}  - {@st204_purple}마정석{/} {s16} 2개{nl}  - {@st204_purple}축복받은 조각{/} {s16} 20개{nl}  - {@st204_purple}여신의 축복석{/} {s16} 2개{nl}  - {@st204_purple}그을린 텔하르샤의 의장품{/} {s16} 1개{nl}  - {@st204_purple}정제된 글레이시어 심장{/} {s16} 1개{nl}  - {@st204_purple}정제된 모스 탈크 파우더{/} {s16} 1개{nl}  - {@st204_purple}권능의 숨결 정화제{/} {s16} 1개{nl}  - {@st204_purple}[이벤트] 권능의 숨결 정화제{/} {s16} 1개	UI_20210318_004710	{@st59}Consume ingredients and a certain amount of silver to purify{@st66d_y}{s18}Breath of Power{/}{/}.{/}{nl} {nl}{@st66d_y}{s18}Breath of Power{/}{/}{@st59} x10 can be exchange into {@st204_green}{s18}Purified Breath of Power{/}{@st59} x1.{nl} {nl}Ingredients are required every time 1 {@st204_green}{s18}Breath of Power{/}{@st59} is purified,{nl}and one of the following items can be selected and consumed as the ingredient.{nl} {nl}Item List{nl} - {@st204_purple}Mystic Tome Page{/} {s16} x2{nl} - {@st204_purple}Practonium{/} {s16} x2{nl} - {@st204_purple}Magic Stone{/} {s16} x2{nl} - {@st204_purple}Blessed Shard{/} {s16} x20{nl} - {@st204_purple}Goddess' Blessed Gem{/} {s16} x2{nl} - {@st204_purple}Scorched Valuable of Tel Harsha{/} {s16} x1{nl} - {@st204_purple}Refined Heart of Glacia{/} {s16} x1{nl} - {@st204_purple}Refined Moth Talc Powder{/} {s16} x1{nl}  - {@st204_purple}Breath of Power Purifier{/} {s16} x1	{@st59}보유한 재료 아이템과 일정량의 실버를 소모하여 {@st66d_y}{s18}권능의 숨결{/}{/}을 정화합니다.{/}{nl} {nl}{@st66d_y}{s18}권능의 숨결{/}{/}{@st59} 10개로{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 획득할 수 있습니다.{nl} {nl}{@st204_green}{s18}정화된 권능의 숨결{/}{@st59}  1개를 정화할 때 마다 재료가 필요하며,{nl}다음 아이템 목록 중 한 종류를 선택하여 정화 재료로 소비할 수 있습니다.{nl} {nl}재료 아이템 목록{nl} - {@st204_purple}신비한 서 낱장{/} {s16} 2개{nl}  - {@st204_purple}프락토늄{/} {s16} 2개{nl}  - {@st204_purple}마정석{/} {s16} 2개{nl}  - {@st204_purple}축복받은 조각{/} {s16} 20개{nl}  - {@st204_purple}여신의 축복석{/} {s16} 2개{nl}  - {@st204_purple}그을린 텔하르샤의 의장품{/} {s16} 1개{nl}  - {@st204_purple}정제된 글레이시어 심장{/} {s16} 1개{nl}  - {@st204_purple}정제된 모스 탈크 파우더{/} {s16} 1개{nl}  - {@st204_purple}권능의 숨결 정화제{/} {s16} 1개	
+UI_20210412_004720	Cannot Combine/Transfer Ark	아크 합성/이전 불가				
